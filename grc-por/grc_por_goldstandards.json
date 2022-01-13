@@ -1,0 +1,917 @@
+[
+    {
+        "grc": "μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος οὐλομένην , ἣ μυρί᾽ Ἀχαιοῖς ἄλγε᾽ ἔθηκε , πολλὰς δ᾽ ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν ἡρώων , αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν οἰωνοῖσί τε πᾶσι , Διὸς δ᾽ ἐτελείετο βουλή , ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε Ἀτρεΐδης τε ἄναξ ἀνδρῶν καὶ δῖος Ἀχιλλεύς .",
+        "por": "A cólera canta , deusa , a do Pelida Aquiles , nefasta , que aos aqueus impôs milhares de aflições , remessou ao Hades muitas almas vigorosas de heróis e fez deles mesmos presas de cães e banquete de aves – completava‑se o desígnio de Zeus – , sim , desde que , primeiro , brigaram e romperam o Atrida , senhor de varões , e o divino Aquiles .",
+        "alignment": "0-1S 1-2S 10-19S 11-16S 13-24S 15-26S 16-25S 17-22S 17-23S 18-21S 19-27S 19-28S 2-4S 21-31S 21-32S 22-29S 23-33S 24-30S 25-34S 25-35S 26-38S 26-39S 27-36S 3-7S 3-8S 30-44S 30-45S 32-41S 33-43S 35-50S 35-51S 36-50S 36-51S 37-48S 38-53S 39-53S 4-9S 40-57S 41-55S 42-59S 44-61S 45-62S 45-63S 46-65S 47-67S 48-68S 5-11S 7-13S 8-17S 9-14S 9-15S"
+    },
+    {
+        "grc": "Λητοῦς καὶ Διὸς υἱός :",
+        "por": "O filho de Leto e de Zeus :",
+        "alignment": "0-2S 0-3S 1-4S 2-5S 2-6S 3-1S"
+    },
+    {
+        "grc": "ὃ γὰρ βασιλῆϊ χολωθεὶς νοῦσον ἀνὰ στρατὸν ὄρσε κακήν , ὀλέκοντο δὲ λαοί , οὕνεκα τὸν Χρύσην ἠτίμασεν ἀρητῆρα Ἀτρεΐδης :",
+        "por": "com raiva do rei , atiçou danosa peste no exército , e a tropa perecia porque a Crises , o sacerdote , desonrou o Atrida .",
+        "alignment": "10-14S 11-11P 12-13S 14-15S 15-19P 16-16P 16-17S 17-16P 17-22S 18-19P 18-20S 19-24S 2-2S 2-3S 3-0S 3-1S 4-7S 5-8S 6-9S 7-5S 8-6S"
+    },
+    {
+        "grc": "ὃ γὰρ ἦλθε θοὰς ἐπὶ νῆας Ἀχαιῶν λυσόμενός τε θύγατρα φέρων τ᾽ ἀπερείσι᾽ ἄποινα , στέμματ᾽ ἔχων ἐν χερσὶν ἑκηβόλου Ἀπόλλωνος χρυσέῳ ἀνὰ σκήπτρῳ , καὶ λίσσετο πάντας Ἀχαιούς , Ἀτρεΐδα δὲ μάλιστα δύω , κοσμήτορε λαῶν :",
+        "por": "Veio às naus velozes dos aqueus recuperar a filha trazendo resgate sem‑fim , com a grinalda de Apolo lança‑de‑longe nas mãos , no alto do cetro dourado , e suplicou a todos os aqueus sobretudo aos dois Atridas , ordenadores de tropas :",
+        "alignment": "10-9S 12-11S 13-10S 15-13P 15-15S 16-13P 17-19S 18-20S 19-18S 2-0S 20-16S 20-17S 21-26S 22-22S 22-23S 22-24P 23-24P 23-25S 25-28S 26-29S 26-30P 27-30P 27-31S 28-33S 3-3S 30-35P 30-37S 32-34S 33-35P 33-36S 35-39S 36-40S 36-41S 4-1S 5-2S 6-4S 6-5S 7-6S 9-8S"
+    },
+    {
+        "grc": "ἔνθ᾽ ἄλλοι μὲν πάντες ἐπευφήμησαν Ἀχαιοὶ αἰδεῖσθαί θ᾽ ἱερῆα καὶ ἀγλαὰ δέχθαι ἄποινα :",
+        "por": "Todos os outros aqueus acharam por bem respeitar o sacerdote e aceitar o belo resgate ;",
+        "alignment": "1-2S 10-13S 11-11S 12-14S 3-0S 4-4S 4-5S 4-6S 5-3S 6-7S 8-8P 8-9S 9-10S"
+    },
+    {
+        "grc": "ἀλλ᾽ οὐκ Ἀτρεΐδῃ Ἀγαμέμνονι ἥνδανε θυμῷ , ἀλλὰ κακῶς ἀφίει , κρατερὸν δ᾽ ἐπὶ μῦθον ἔτελλε :",
+        "por": "ao Atrida Agamêmnon , porém , não agradou , e ele o dispensou rudemente , dando a dura ordem :",
+        "alignment": "0-4S 1-6S 11-17S 14-18S 15-15S 2-0P 2-1S 3-0P 3-2S 4-7S 7-9S 8-13S 9-12S"
+    },
+    {
+        "grc": "τὴν δ᾽ ἐγὼ οὐ λύσω :",
+        "por": "Não libertarei tua filha ;",
+        "alignment": "0-2P 0-3P 2-1P 3-0S 4-1S"
+    },
+    {
+        "grc": "πρίν μιν καὶ γῆρας ἔπεισιν ἡμετέρῳ ἐνὶ οἴκῳ ἐν Ἄργεϊ τηλόθι πάτρης ἱστὸν ἐποιχομένην καὶ ἐμὸν λέχος ἀντιόωσαν :",
+        "por": "a velhice a pegará antes , longe da pátria , em nossa propriedade em Argos , ativa junto ao tear e procurando minha cama .",
+        "alignment": "0-4S 1-2S 10-6S 10-7P 11-7P 11-8S 12-18P 12-19S 13-16S 13-17S 13-18P 14-20S 15-22S 16-23S 17-21S 3-1S 4-3S 5-11S 6-10S 7-12S 8-13S 9-14S"
+    },
+    {
+        "grc": "ὣς ἔφατ᾽ , ἔδεισεν δ᾽ ὃ γέρων καὶ ἐπείθετο μύθῳ :",
+        "por": "Falou , e o ancião temeu e obedeceu ao discurso ;",
+        "alignment": "1-0S 3-5S 4-2S 5-3S 6-4S 7-6S 8-7S 9-8S 9-9S"
+    },
+    {
+        "grc": "βῆ δ᾽ ἀκέων παρὰ θῖνα πολυφλοίσβοιο θαλάσσης :",
+        "por": "quieto , foi ao longo da praia do mar ressoante .",
+        "alignment": "0-2S 2-0S 3-3S 3-4S 3-5S 4-6S 5-9S 6-7S 6-8S"
+    },
+    {
+        "grc": "πολλὰ δ᾽ ἔπειτ᾽ ἀπάνευθε κιὼν ἠρᾶθ᾽ ὃ γεραιὸς Ἀπόλλωνι ἄνακτι , τὸν ἠΰκομος τέκε Λητώ :",
+        "por": "Então afastou‑se e , insistente , o ancião rezou ao senhor Apolo , ao qual gerou Leto bela‑juba :",
+        "alignment": "0-4S 1-0P 1-2S 11-13S 11-14S 12-17S 13-15S 14-16S 2-0S 2-2P 3-1S 4-1S 5-8S 6-6S 7-7S 8-11S 9-10S 9-9S"
+    },
+    {
+        "grc": "ὣς ἔφατ᾽ εὐχόμενος , τοῦ δ᾽ ἔκλυε Φοῖβος Ἀπόλλων , βῆ δὲ κατ᾽ Οὐλύμποιο καρήνων χωόμενος κῆρ , τόξ᾽ ὤμοισιν ἔχων ἀμφηρεφέα τε φαρέτρην :",
+        "por": "Falou , rezando , e Febo Apolo o ouviu e partiu dos cumes do Olimpo , irado no coração , com o arco sobre os ombros e a aljava tampada :",
+        "alignment": "1-0S 10-10S 11-9S 12-11P 13-13S 13-14S 14-11P 14-12S 15-16S 16-17S 16-18S 18-20P 18-22S 19-23S 19-24S 19-25S 2-2S 20-20P 21-29S 22-26S 23-28S 4-7S 5-4P 6-8S 7-5S 8-6S"
+    },
+    {
+        "grc": "ὃ δ᾽ ἤϊε νυκτὶ ἐοικώς .",
+        "por": "e ele chegou semelhante à noite .",
+        "alignment": "0-1S 1-0S 2-2S 3-4S 3-5S 4-3S"
+    },
+    {
+        "grc": "δεινὴ δὲ κλαγγὴ γένετ᾽ ἀργυρέοιο βιοῖο :",
+        "por": "fero estrídulo subiu do arco prateado .",
+        "alignment": "0-0S 2-1S 3-2S 3-3P 4-5S 5-3P 5-4S"
+    },
+    {
+        "grc": "οὐρῆας μὲν πρῶτον ἐπῴχετο καὶ κύνας ἀργούς , αὐτὰρ ἔπειτ᾽ αὐτοῖσι βέλος ἐχεπευκὲς ἐφιεὶς βάλλ᾽ :",
+        "por": "Primeiro foi atrás de mulas e lépidos cães , e então projéteis acuminados sobre os homens lançou ;",
+        "alignment": "0-3P 0-4S 11-11S 12-12S 13-13S 13-16S 14-13S 14-16S 2-0S 3-1S 3-2S 3-3P 4-5S 5-7S 6-6S 8-10P 8-9S 9-10S 9-9P"
+    },
+    {
+        "grc": "αἰεὶ δὲ πυραὶ νεκύων καίοντο θαμειαί .",
+        "por": "piras repletas de corpos ardiam sem cessar .",
+        "alignment": "0-5S 0-6S 2-0S 3-2S 3-3S 4-4S 5-1S"
+    },
+    {
+        "grc": "ἐννῆμαρ μὲν ἀνὰ στρατὸν ᾤχετο κῆλα θεοῖο , τῇ δεκάτῃ δ᾽ ἀγορὴν δὲ καλέσσατο λαὸν Ἀχιλλεύς :",
+        "por": "Por nove dias , setas do deus corriam no bivaque , e no décimo Aquiles convocou a tropa à ágora .",
+        "alignment": "0-0S 0-1S 0-2S 10-11S 11-18S 11-19S 13-15S 14-16P 14-17S 15-14S 2-8S 3-9S 4-7S 5-4S 6-5S 6-6S 8-12S 8-13P 9-12P 9-13S"
+    },
+    {
+        "grc": "τῷ γὰρ ἐπὶ φρεσὶ θῆκε θεὰ λευκώλενος Ἥρη :",
+        "por": "Isso pusera em seu juízo a deusa , Hera alvos‑braços ,",
+        "alignment": "0-0P 0-2P 0-3P 0-4P 2-2S 2-3P 2-4P 3-2P 3-3P 3-4S 4-1S 5-6S 6-9S 7-8S"
+    },
+    {
+        "grc": "οἳ δ᾽ ἐπεὶ οὖν ἤγερθεν ὁμηγερέες τε γένοντο , τοῖσι δ᾽ ἀνιστάμενος μετέφη πόδας ὠκὺς Ἀχιλλεύς :",
+        "por": "Então , após estarem reunidos , todos juntos , entre eles ergueu‑se e falou Aquiles , veloz nos pés :",
+        "alignment": "10-12P 11-11S 12-13S 13-17S 13-18S 14-16S 15-14S 2-0P 2-2P 3-0P 3-2P 4-3S 4-4S 5-6S 5-7S 7-3S 7-4S 9-10S 9-9S"
+    },
+    {
+        "grc": "τοῖσι δ᾽ ἀνέστη Κάλχας Θεστορίδης οἰωνοπόλων ὄχ᾽ ἄριστος , ὃς ᾔδη τά τ᾽ ἐόντα τά τ᾽ ἐσσόμενα πρό τ᾽ ἐόντα , καὶ νήεσσ᾽ ἡγήσατ᾽ Ἀχαιῶν Ἴλιον εἴσω ἣν διὰ μαντοσύνην , τήν οἱ πόρε Φοῖβος Ἀπόλλων :",
+        "por": "Calcas , filho de Testor , de longe o melhor áugure , que conhecia o presente , o futuro e o passado , e guiou as naus dos aqueus rumo a Ílion por meio de sua adivinhação , dom de Febo Apolo .",
+        "alignment": "10-13P 11-14S 11-15P 13-14P 13-15S 14-17S 14-18P 16-17P 16-18S 17-20P 17-21S 18-19S 19-20P 19-21S 21-23S 22-25P 22-26S 23-24S 24-27S 24-28S 25-31S 26-29S 26-30S 28-32S 28-33S 28-34S 29-36S 3-0S 31-35P 32-35P 33-38S 34-40S 35-41S 4-2S 4-3S 4-4S 5-10S 5-8P 6-6S 6-7S 7-9S 9-12S"
+    },
+    {
+        "grc": "ὅ σφιν ἐὺ φρονέων ἀγορήσατο καὶ μετέειπεν :",
+        "por": "Refletindo bem , tomou a palavra e disse :",
+        "alignment": "2-1S 3-0S 4-3S 4-4S 4-5S 5-6S 6-7S"
+    },
+    {
+        "grc": "τοὶ γὰρ ἐγὼν ἐρέω :",
+        "por": "Portanto falarei ;",
+        "alignment": "1-0S 2-1P 3-1S"
+    },
+    {
+        "grc": "σὺ δὲ σύνθεο καί μοι ὄμοσσον ἦ μέν μοι πρόφρων ἔπεσιν καὶ χερσὶν ἀρήξειν :",
+        "por": "tu , compreende e jura deveras me defender , solícito , com palavra e braço .",
+        "alignment": "0-0S 10-11S 10-12S 11-13S 12-14S 13-7S 2-2S 3-3S 5-4S 6-5S 7-5S 8-6S 9-9S"
+    },
+    {
+        "grc": "ἦ γὰρ ὀΐομαι ἄνδρα χολωσέμεν , ὃς μέγα πάντων Ἀργείων κρατέει καί οἱ πείθονται Ἀχαιοί :",
+        "por": "Penso que irei enraivecer o varão que , poderoso , chefia todos os argivos , e os aqueus a ele obedecem .",
+        "alignment": "10-10S 11-15S 12-16P 12-18P 12-19P 13-20S 14-17S 2-0S 3-5S 4-1P 4-2S 4-3S 6-6S 7-8S 8-11S 9-13S"
+    },
+    {
+        "grc": "κρείσσων γὰρ βασιλεὺς ὅτε χώσεται ἀνδρὶ χέρηϊ :",
+        "por": "Superior é o rei quando se ira contra varão inferior :",
+        "alignment": "0-0S 2-3S 3-4S 4-5S 4-6S 5-7S 5-8S 6-9S"
+    },
+    {
+        "grc": "εἴ περ γάρ τε χόλον γε καὶ αὐτῆμαρ καταπέψῃ , ἀλλά τε καὶ μετόπισθεν ἔχει κότον , ὄφρα τελέσσῃ , ἐν στήθεσσιν ἑοῖσι :",
+        "por": "se , quanto a sua raiva , no mesmo dia a engolir , no futuro , porém , sentirá rancor em seu peito até o consumar .",
+        "alignment": "0-0S 1-2P 1-3P 10-16S 13-13S 13-14S 14-18S 15-19S 17-23S 18-25S 20-20S 21-22S 22-21S 4-5S 7-7S 7-8S 7-9S 8-11S"
+    },
+    {
+        "grc": "οὐ μὰ γὰρ Ἀπόλλωνα Διῒ φίλον , ᾧ τε σὺ Κάλχαν εὐχόμενος Δαναοῖσι θεοπροπίας ἀναφαίνεις , οὔ τις ἐμεῦ ζῶντος καὶ ἐπὶ χθονὶ δερκομένοιο σοὶ κοίλῃς παρὰ νηυσί βαρείας χεῖρας ἐποίσει συμπάντων Δαναῶν , οὐ δ᾽ ἢν Ἀγαμέμνονα εἴπῃς , ὃς νῦν πολλὸν ἄριστος Ἀχαιῶν εὔχεται εἶναι .",
+        "por": "Por Apolo caro‑a‑Zeus , Calcas , a quem oras quando revelas ditos divinos aos dânaos , ninguém , se eu estiver vivo , vigiando sobre a terra , descerá mãos pesadas contra ti junto às cavas naus , aqueu nenhum , nem se mencionares Agamêmnon , que agora proclama ser , de longe , o melhor dos aqueus \" .",
+        "alignment": "1-0S 1-1P 10-4S 11-8S 12-13S 12-14S 13-11S 13-12S 14-10S 14-9P 16-16S 17-16S 18-18P 18-19S 19-18P 19-20S 19-21S 21-24S 22-26S 23-23S 24-31S 24-32S 25-35S 26-33S 26-34P 27-34P 27-36S 28-30S 29-29S 3-0P 3-1S 30-28S 31-39S 32-38S 34-41S 35-41P 36-42S 37-44S 38-43S 4-2S 40-46S 41-47S 42-51S 42-52S 43-55S 44-56S 44-57S 45-48S 46-49S 5-2S 7-6P 7-7P"
+    },
+    {
+        "grc": "καὶ τότε δὴ θάρσησε καὶ ηὔδα μάντις ἀμύμων :",
+        "por": "Então o adivinho impecável encorajou‑se e falou :",
+        "alignment": "1-0S 3-4S 4-5S 5-6S 6-2S 7-3S"
+    },
+    {
+        "grc": "οὐ δ᾽ ὅ γε πρὶν Δαναοῖσιν ἀεικέα λοιγὸν ἀπώσει πρίν γ᾽ ἀπὸ πατρὶ φίλῳ δόμεναι ἑλικώπιδα κούρην ἀπριάτην ἀνάποινον , ἄγειν θ᾽ ἱερὴν ἑκατόμβην ἐς Χρύσην :",
+        "por": "Antes não afastará para os aqueus a peste ultrajante , não antes de se devolver a jovem de olhar luzente ao pai , sem preço , sem resgate , e conduzir‑se sacro sacrifício a Crises ;",
+        "alignment": "0-1S 11-12S 12-20P 12-21P 13-20P 13-21P 14-13S 14-14S 15-17S 15-18S 15-19S 16-15P 16-16S 17-23S 17-24S 18-26S 18-27S 20-30S 21-29S 22-31S 23-32S 24-33S 25-34S 4-0S 5-3S 5-4S 5-5S 6-8S 7-7S 8-2S 9-11S"
+    },
+    {
+        "grc": "τοῖσι δ᾽ ἀνέστη ἥρως Ἀτρεΐδης εὐρὺ κρείων Ἀγαμέμνων ἀχνύμενος :",
+        "por": "entre eles ergueu‑se o herói Atrida , Agamêmnon de extenso poder , atormentado :",
+        "alignment": "0-0S 0-1S 2-2S 3-4S 4-5S 5-10P 5-8P 5-9S 6-10S 6-8S 6-9P 7-7S 8-12S"
+    },
+    {
+        "grc": "μένεος δὲ μέγα φρένες ἀμφιμέλαιναι πίμπλαντ᾽ , ὄσσε δέ οἱ πυρὶ λαμπετόωντι ἐΐκτην :",
+        "por": "seu juízo se enegreceu ao se encher de muito ímpeto , e seus olhos pareciam fogo cintilante .",
+        "alignment": "0-7S 0-9S 10-15S 11-16S 12-14S 2-8S 3-1S 4-2S 4-3S 5-4S 5-5S 5-6S 7-13S 8-11S 9-12P"
+    },
+    {
+        "grc": "Κάλχαντα πρώτιστα κάκ᾽ ὀσσόμενος προσέειπε :",
+        "por": "Falou a Calcas primeiro , com males nos olhos :",
+        "alignment": "0-1P 0-2S 1-3S 2-5S 2-6S 3-7S 3-8S 4-0S 4-1P"
+    },
+    {
+        "grc": "αἰεί τοι τὰ κάκ᾽ ἐστὶ φίλα φρεσὶ μαντεύεσθαι , ἐσθλὸν δ᾽ οὔτέ τί πω εἶπας ἔπος οὔ τ᾽ ἐτέλεσσας :",
+        "por": "Sempre te é caro , no ânimo , profetizar esses males e nunca disseste ou realizaste algum dito ótimo .",
+        "alignment": "0-0S 1-1S 10-11S 11-12S 12-16S 13-12S 14-13S 15-17S 16-14P 17-14P 18-15S 2-10P 2-9P 3-10S 3-9P 4-2S 5-3S 6-5S 6-6S 7-8S 9-18S"
+    },
+    {
+        "grc": "καὶ νῦν ἐν Δαναοῖσι θεοπροπέων ἀγορεύεις ὡς δὴ τοῦδ᾽ ἕνεκά σφιν ἑκηβόλος ἄλγεα τεύχει , οὕνεκ᾽ ἐγὼ κούρης Χρυσηΐδος ἀγλά᾽ ἄποινα οὐκ ἔθελον δέξασθαι , ἐπεὶ πολὺ βούλομαι αὐτὴν οἴκοι ἔχειν :",
+        "por": "Enuncias também agora , entre os dânaos , profecias : Lança‑de‑Longe lhes prepara aflições porque ao radiante resgate da filha de Crises eu não quis aceitar , já que com ardor preferi tê ‑ la em casa .",
+        "alignment": "0-1S 1-2S 10-11S 11-10S 12-13S 13-12S 15-14S 16-22S 17-18S 17-19S 18-20S 18-21S 19-16S 2-4S 20-17S 21-23S 22-24S 23-25S 25-27S 25-28S 26-29S 26-30S 27-31S 28-34S 29-35S 29-36S 3-6S 30-32S 4-8S 5-0S"
+    },
+    {
+        "grc": "καὶ γάρ ῥα Κλυταιμνήστρης προβέβουλα κουριδίης ἀλόχου , ἐπεὶ οὔ ἑθέν ἐστι χερείων , οὐ δέμας οὐ δὲ φυήν , οὔ τ᾽ ἂρ φρένας οὔτέ τι ἔργα .",
+        "por": "De fato , anteponho ‑a a Clitemnestra , a esposa legítima , pois não é pior que ela em porte e aparência , no juízo e nos trabalhos .",
+        "alignment": "1-0P 1-1P 10-16S 10-17S 11-14S 12-15S 15-18S 15-19S 17-20P 18-21S 2-0P 2-1P 23-23S 23-24S 26-26S 26-27S 3-5P 3-6S 4-3S 4-5P 5-10S 6-9S 8-12S 9-13S"
+    },
+    {
+        "grc": "βούλομ᾽ ἐγὼ λαὸν σῶν ἔμμεναι ἢ ἀπολέσθαι :",
+        "por": "prefiro a tropa sã e salva a estar destruída .",
+        "alignment": "0-0S 2-2S 3-3S 3-4S 3-5S 4-7P 5-6S 6-7P 6-8S"
+    },
+    {
+        "grc": "αὐτὰρ ἐμοὶ γέρας αὐτίχ᾽ ἑτοιμάσατ᾽ ὄφρα μὴ οἶος Ἀργείων ἀγέραστος ἔω , ἐπεὶ οὐ δὲ ἔοικε :",
+        "por": "Uma mercê , porém , logo me aprontem : que eu não seja o único dos argivos a ficar sem mercê ; não convém .",
+        "alignment": "0-3S 1-6S 10-10P 10-12S 13-22S 15-23S 2-0S 2-1S 3-5S 4-7S 5-9S 6-11S 7-14P 8-15S 8-16S 9-19S 9-20S"
+    },
+    {
+        "grc": "οὐ δέ τί που ἴδμεν ξυνήϊα κείμενα πολλά :",
+        "por": "Até onde sabemos , não há muita coisa coletiva ;",
+        "alignment": "0-4S 3-0P 3-1S 4-2S 5-8S 6-5P 6-7P 7-6S 7-7P"
+    },
+    {
+        "grc": "ἀλλὰ τὰ μὲν πολίων ἐξεπράθομεν , τὰ δέδασται , λαοὺς δ᾽ οὐκ ἐπέοικε παλίλλογα ταῦτ᾽ ἐπαγείρειν .",
+        "por": "o que saqueamos das cidades foi distribuído , e não convém que a tropa o recolha e junte de novo .",
+        "alignment": "1-0S 1-1S 10-8S 11-9S 12-10S 12-11S 13-15S 13-18P 13-19P 14-14S 15-17S 15-18P 15-19P 3-3S 3-4S 4-2S 7-5S 7-6S 9-13S"
+    },
+    {
+        "grc": "αὐτὰρ Ἀχαιοὶ τριπλῇ τετραπλῇ τ᾽ ἀποτείσομεν , αἴ κέ ποθι Ζεὺς δῷσι πόλιν Τροίην εὐτείχεον ἐξαλαπάξαι .",
+        "por": "os aqueus te compensarão três , quatro vezes , se acaso Zeus conceder que se aniquile a fortificada urbe de Troia",
+        "alignment": "1-1S 10-11S 11-12S 12-18S 13-19P 13-20S 14-17S 15-13S 15-14S 15-15S 2-4P 3-6S 3-7S 5-3S 7-9S 8-10P 9-10S"
+    },
+    {
+        "grc": "ἦ ἐθέλεις ὄφρ᾽ αὐτὸς ἔχῃς γέρας , αὐτὰρ ἔμ᾽ αὔτως ἧσθαι δευόμενον , κέλεαι δέ με τήνδ᾽ ἀποδοῦναι ;",
+        "por": "Acaso queres , para manter tua mercê , que eu assim fique sentado carente , pedindo que eu a devolva ?",
+        "alignment": "0-0P 1-1S 10-11P 10-12S 11-11P 11-13P 11-8P 13-15S 15-16P 15-17S 16-18S 17-16P 17-19S 2-3S 3-5S 4-4S 5-6S 8-9S 9-10S"
+    },
+    {
+        "grc": "ἀλλ᾽ εἰ μὲν δώσουσι γέρας μεγάθυμοι Ἀχαιοὶ ἄρσαντες κατὰ θυμὸν ὅπως ἀντάξιον ἔσται :",
+        "por": "Se os animosos aqueus me derem uma mercê , adequada a meu ânimo , aceito a compensação ;",
+        "alignment": "1-0S 11-14P 11-16S 12-14P 12-16P 3-5S 4-6S 4-7S 5-2S 6-3S 7-9S 8-10S 8-12P 9-10P 9-12S"
+    },
+    {
+        "grc": "εἰ δέ κε μὴ δώωσιν ἐγὼ δέ κεν αὐτὸς ἕλωμαι ἢ τεὸν ἢ Αἴαντος ἰὼν γέρας , ἢ Ὀδυσῆος ἄξω ἑλών :",
+        "por": "se não me derem , eu mesmo devo tomá ‑la , ou mercê tua ou de Ájax ou de Odisseu irei pegar e levar :",
+        "alignment": "0-0S 10-11S 11-13S 12-14S 13-15S 13-16S 14-20S 15-12S 17-17S 18-18S 18-19S 19-21P 19-23P 2-3P 20-21P 20-23P 3-1S 4-3S 5-5S 7-7P 7-8P 8-6S 9-7S 9-8S"
+    },
+    {
+        "grc": "ὃ δέ κεν κεχολώσεται ὅν κεν ἵκωμαι .",
+        "por": "terá raiva quem eu alcançar .",
+        "alignment": "2-0P 2-1P 3-0S 3-1S 4-2S 5-4P 6-3P 6-4S"
+    },
+    {
+        "grc": "ἀλλ᾽ ἤτοι μὲν ταῦτα μεταφρασόμεσθα καὶ αὖτις , νῦν δ᾽ ἄγε νῆα μέλαιναν ἐρύσσομεν εἰς ἅλα δῖαν , ἐν δ᾽ ἐρέτας ἐπιτηδὲς ἀγείρομεν , ἐς δ᾽ ἑκατόμβην θείομεν , ἂν δ᾽ αὐτὴν Χρυσηΐδα καλλιπάρῃον βήσομεν :",
+        "por": "Depois , porém , consideremos isso de novo ; agora , puxemos negra nau até o divino mar , com zelo reunamos remadores , nela a hecatombe ponhamos e ela mesma , Criseida bela‑face , embarquemos ;",
+        "alignment": "0-2S 1-0P 10-11P 11-13S 12-12S 13-11S 14-14S 15-17S 16-16S 18-24P 20-22S 21-19S 21-20S 22-21S 26-26S 27-27S 29-35S 3-5S 30-28P 31-29S 31-30S 32-32S 33-33S 34-35S 4-4S 6-6S 6-7S 8-9S"
+    },
+    {
+        "grc": "οὐ γὰρ ἐγὼ Τρώων ἕνεκ᾽ ἤλυθον αἰχμητάων δεῦρο μαχησόμενος , ἐπεὶ οὔ τί μοι αἴτιοί εἰσιν :",
+        "por": "Não vim por causa dos troianos lanceiros para cá combater , pois , contra mim , nada fizeram ;",
+        "alignment": "0-0S 10-11S 11-16S 12-16P 13-13S 13-14S 14-17P 15-17P 3-4P 3-5S 4-2S 4-3S 4-4P 5-1S 6-6S 7-7P 7-8S 8-7P 8-9S"
+    },
+    {
+        "grc": "οὐ γὰρ πώποτ᾽ ἐμὰς βοῦς ἤλασαν οὐ δὲ μὲν ἵππους , οὐ δέ ποτ᾽ ἐν Φθίῃ ἐριβώλακι βωτιανείρῃ καρπὸν ἐδηλήσαντ᾽ , ἐπεὶ ἦ μάλα πολλὰ μεταξὺ οὔρεά τε σκιόεντα θάλασσά τε ἠχήεσσα :",
+        "por": "nunca tangeram meu gado nem meus cavalos , e nunca na fértil Ftia grandes‑glebas devastaram a colheita , pois entre nós e Troia há muito morro umbroso e um oceano ruidoso .",
+        "alignment": "0-0S 11-9S 12-8P 13-9S 14-10S 15-12S 16-11S 17-13S 18-16S 19-14S 2-0S 21-18S 22-23P 23-24P 24-24S 25-19S 26-25S 27-27P 28-26S 29-28S 29-29S 3-2S 30-27P 31-30S 4-3S 5-1S 6-4S 7-4P 9-6S"
+    },
+    {
+        "grc": "ἀλλὰ σοὶ ὦ μέγ᾽ ἀναιδὲς ἅμ᾽ ἑσπόμεθ᾽ ὄφρα σὺ χαίρῃς , τιμὴν ἀρνύμενοι Μενελάῳ σοί τε κυνῶπα πρὸς Τρώων :",
+        "por": "A ti seguimos , sumo impudente , para te alegrares , e tentamos garantir tua honra , cara‑de‑cão , e a de Menelau , da parte dos troianos .",
+        "alignment": "1-0S 1-1S 11-15S 12-12S 12-13S 13-21S 13-22S 14-14P 15-19P 16-17S 17-24P 17-25P 18-26S 18-27S 3-4P 4-5S 6-2S 7-7S 8-8P 9-8P 9-9S"
+    },
+    {
+        "grc": "τῶν οὔ τι μετατρέπῃ οὐ δ᾽ ἀλεγίζεις :",
+        "por": "Isso ignoras e não te preocupas ;",
+        "alignment": "1-1P 2-0P 3-1S 4-3S 5-2P 6-4S 6-5S"
+    },
+    {
+        "grc": "οὐ μὲν σοί ποτε ἶσον ἔχω γέρας ὁππότ᾽ Ἀχαιοὶ Τρώων ἐκπέρσωσ᾽ εὖ ναιόμενον πτολίεθρον :",
+        "por": "Mercê nunca tenho igual à tua quando os aqueus assolam uma cidade dos troianos , boa de morar ;",
+        "alignment": "0-1S 10-9S 11-15S 11-16P 11-17P 12-15P 12-16S 12-17S 13-10S 13-11S 2-4S 2-5S 3-1S 4-3S 5-2S 6-0S 7-6S 8-8S 9-12S 9-13S"
+    },
+    {
+        "grc": "ἀλλὰ τὸ μὲν πλεῖον πολυάϊκος πολέμοιο χεῖρες ἐμαὶ διέπουσ᾽ :",
+        "por": "contudo , a maior parte da guerra encapelada meus braços realizam ,",
+        "alignment": "0-0S 1-2S 1-3P 1-4P 3-2P 3-3S 3-4S 4-7S 5-5S 5-6S 6-9S 7-8S 8-10S"
+    },
+    {
+        "grc": "ἀτὰρ ἤν ποτε δασμὸς ἵκηται , σοὶ τὸ γέρας πολὺ μεῖζον , ἐγὼ δ᾽ ὀλίγον τε φίλον τε ἔρχομ᾽ ἔχων ἐπὶ νῆας , ἐπεί κε κάμω πολεμίζων .",
+        "por": "e se ocorre uma partilha , tua mercê é muito maior , e levo uma pequena e querida na volta às naus , quando lutei até a exaustão .",
+        "alignment": "0-0S 1-1S 10-10S 14-14P 14-15S 15-16P 16-17S 18-13P 18-18P 18-19P 19-13P 19-18P 19-19P 20-20S 21-21S 23-23S 25-24P 25-25S 25-26S 25-27S 26-24S 26-25P 26-26P 26-27P 3-3S 3-4S 4-2S 6-6S 8-7S 9-9S"
+    },
+    {
+        "grc": "πάρ᾽ ἔμοιγε καὶ ἄλλοι οἵ κέ με τιμήσουσι , μάλιστα δὲ μητίετα Ζεύς .",
+        "por": "também outros me acompanham , sobretudo o astuto Zeus : recuperarão minha honra .",
+        "alignment": "0-2P 0-3P 1-2S 1-3P 11-7S 12-8S 2-0S 3-1S 6-11P 7-10S 7-12S 9-5S"
+    },
+    {
+        "grc": "αἰεὶ γάρ τοι ἔρις τε φίλη πόλεμοί τε μάχαι τε :",
+        "por": "briga , guerras e combates sempre te são caros .",
+        "alignment": "0-5S 2-6S 3-0S 5-8S 6-2S 7-3P 8-4S 9-3P"
+    },
+    {
+        "grc": "εἰ μάλα καρτερός ἐσσι , θεός που σοὶ τό γ᾽ ἔδωκεν :",
+        "por": "Se és bem mais vigoroso , isso foi o que te deu o deus .",
+        "alignment": "0-0S 1-2P 1-3P 10-11S 2-3P 2-4S 3-1S 5-12P 5-13S 6-8P 6-9P 7-10S 8-6S"
+    },
+    {
+        "grc": "οἴκαδ᾽ ἰὼν σὺν νηυσί τε σῇς καὶ σοῖς ἑτάροισι Μυρμιδόνεσσιν ἄνασσε , σέθεν δ᾽ ἐγὼ οὐκ ἀλεγίζω , οὐ δ᾽ ὄθομαι κοτέοντος :",
+        "por": "Indo para casa com tuas naus e companheiros , rege os mirmidões ; contigo não me preocupo nem considero teu rancor .",
+        "alignment": "0-1S 0-2S 1-0S 10-9S 12-13S 15-14S 16-15S 16-16S 18-17S 19-17P 2-3S 20-18S 21-20S 3-5S 5-4S 6-6P 8-7S 9-11S"
+    },
+    {
+        "grc": "ἀπειλήσω δέ τοι ὧδε :",
+        "por": "Esta é minha ameaça :",
+        "alignment": "0-1S 0-2P 0-3S 2-2P 3-0S"
+    },
+    {
+        "grc": "ὣς φάτο :",
+        "por": "Falou ;",
+        "alignment": "1-0S"
+    },
+    {
+        "grc": "ἧος ὃ ταῦθ᾽ ὥρμαινε κατὰ φρένα καὶ κατὰ θυμόν , ἕλκετο δ᾽ ἐκ κολεοῖο μέγα ξίφος , ἦλθε δ᾽ Ἀθήνη οὐρανόθεν :",
+        "por": "Enquanto revolvia isso no juízo e no ânimo e tirava a grande espada da bainha , chegou Atena do céu ;",
+        "alignment": "0-0S 10-9S 11-8S 12-13S 12-14P 13-13P 13-14S 14-11S 15-12S 17-16S 19-17S 2-2S 20-18S 20-19S 3-1S 4-3S 5-4S 6-5S 7-6S 8-7S"
+    },
+    {
+        "grc": "πρὸ γὰρ ἧκε θεὰ λευκώλενος Ἥρη ἄμφω ὁμῶς θυμῷ φιλέουσά τε κηδομένη τε :",
+        "por": "a deusa a enviara , Hera alvos‑braços , que no ânimo gostava igual de ambos e deles cuidava .",
+        "alignment": "10-15S 11-17S 2-3S 3-1S 4-6S 5-5S 6-13P 6-14S 7-12S 8-10S 8-9S 9-11S 9-13P 9-8P"
+    },
+    {
+        "grc": "στῆ δ᾽ ὄπιθεν , ξανθῆς δὲ κόμης ἕλε Πηλεΐωνα οἴῳ φαινομένη :",
+        "por": "Parou atrás do Pelida e puxou sua loira cabeleira , aparecendo só para ele ;",
+        "alignment": "0-0S 10-10S 2-1S 4-7S 5-4S 6-8S 7-5S 8-2P 8-3S 9-11S 9-12S 9-13S"
+    },
+    {
+        "grc": "τῶν δ᾽ ἄλλων οὔ τις ὁρᾶτο :",
+        "por": "ninguém mais a viu .",
+        "alignment": "0-1P 2-1P 3-0P 4-0S 5-3S"
+    },
+    {
+        "grc": "θάμβησεν δ᾽ Ἀχιλεύς , μετὰ δ᾽ ἐτράπετ᾽ , αὐτίκα δ᾽ ἔγνω Παλλάδ᾽ Ἀθηναίην :",
+        "por": "Aquiles voltou‑se , pasmo , e de pronto reconheceu Palas Atena",
+        "alignment": "0-3S 10-8S 11-9S 12-10S 2-0S 4-1P 5-5P 6-1S 8-6S 8-7S 9-5P"
+    },
+    {
+        "grc": "δεινὼ δέ οἱ ὄσσε φάανθεν :",
+        "por": "– seus olhos , terríveis , brilharam – ,",
+        "alignment": "0-4S 2-1P 3-2S 4-6S"
+    },
+    {
+        "grc": "ἦ ἵνα ὕβριν ἴδῃ Ἀγαμέμνονος Ἀτρεΐδαο ;",
+        "por": "Para ver a violência do Atrida Agamêmnon ?",
+        "alignment": "1-0S 2-3S 3-1S 4-4S 4-6S 5-5S"
+    },
+    {
+        "grc": "ἀλλ᾽ ἔκ τοι ἐρέω , τὸ δὲ καὶ τελέεσθαι ὀΐω :",
+        "por": "Eu te direi , e também creio que isto se cumprirá :",
+        "alignment": "2-1S 3-2S 5-8S 6-4S 7-5S 8-10S 8-7S 8-9S 9-6S"
+    },
+    {
+        "grc": "ᾗς ὑπεροπλίῃσι τάχ᾽ ἄν ποτε θυμὸν ὀλέσσῃ .",
+        "por": "devido a sua arrogância , logo perderá a vida \" .",
+        "alignment": "1-0S 1-1S 1-3S 2-5S 3-6S 5-8S 6-6S"
+    },
+    {
+        "grc": "τὸν δ᾽ αὖτε προσέειπε θεὰ γλαυκῶπις Ἀθήνη :",
+        "por": "A ele dirigiu‑se a deusa , Atena olhos‑de‑coruja :",
+        "alignment": "0-0S 0-1S 3-2S 4-4S 5-7S 6-6S"
+    },
+    {
+        "grc": "ἦλθον ἐγὼ παύσουσα τὸ σὸν μένος , αἴ κε πίθηαι , οὐρανόθεν :",
+        "por": "\" Caso obedeceres , para cessar teu ímpeto vim do céu ;",
+        "alignment": "0-8S 11-10S 11-9S 2-4S 2-5S 4-6S 5-7S 7-1S 8-2P 9-2S"
+    },
+    {
+        "grc": "ἀλλ᾽ ἄγε λῆγ᾽ ἔριδος , μη δὲ ξίφος ἕλκεο χειρί :",
+        "por": "Deixa a briga e não puxes a espada com a mão ;",
+        "alignment": "1-0P 2-0S 3-1P 3-2S 5-4S 6-3S 7-7S 8-5S 9-10S 9-8S 9-9S"
+    },
+    {
+        "grc": "ὧδε γὰρ ἐξερέω , τὸ δὲ καὶ τετελεσμένον ἔσται :",
+        "por": "Pois assim eu falarei , e também isto se cumprirá :",
+        "alignment": "0-1S 1-0S 2-3S 4-7S 5-5S 6-6S 7-8S 7-9S 8-8S 8-9S"
+    },
+    {
+        "grc": "καί ποτέ τοι τρὶς τόσσα παρέσσεται ἀγλαὰ δῶρα ὕβριος εἵνεκα τῆσδε :",
+        "por": "um dia haverá para ti três vezes mais dons radiantes devido a essa violência ;",
+        "alignment": "1-0S 1-1S 10-12S 2-3S 2-4S 3-5S 3-6S 4-7S 5-2S 6-9S 7-8S 8-13S 9-10S 9-11S"
+    },
+    {
+        "grc": "σὺ δ᾽ ἴσχεο , πείθεο δ᾽ ἡμῖν .",
+        "por": "contém‑te e a nós obedece \" .",
+        "alignment": "2-0S 4-4S 5-1S 6-2S 6-3S"
+    },
+    {
+        "grc": "ὧς γὰρ ἄμεινον :",
+        "por": "é melhor .",
+        "alignment": "2-1S"
+    },
+    {
+        "grc": "ἦ καὶ ἐπ᾽ ἀργυρέῃ κώπῃ σχέθε χεῖρα βαρεῖαν , ἂψ δ᾽ ἐς κουλεὸν ὦσε μέγα ξίφος , οὐ δ᾽ ἀπίθησε μύθῳ Ἀθηναίης :",
+        "por": "Falou , manteve a mão pesada sobre o punho de prata , repôs na bainha a grande espada e não ignorou o discurso de Atena .",
+        "alignment": "0-0S 11-13S 12-14S 13-12S 14-16S 15-17S 17-19S 18-18S 19-20S 2-6P 20-22S 21-23S 21-24S 3-10S 3-9S 4-6P 4-7P 4-8S 5-2S 6-4S 7-5S 9-12S"
+    },
+    {
+        "grc": "ἣ δ᾽ Οὔλυμπον δὲ βεβήκει δώματ᾽ ἐς αἰγιόχοιο Διὸς μετὰ δαίμονας ἄλλους .",
+        "por": "Ela ao Olimpo partiu , à casa de Zeus porta‑égide para junto dos outros deuses .",
+        "alignment": "0-0S 10-14S 11-13S 2-1S 2-2S 4-3S 5-5P 5-6S 6-5S 6-6P 7-9S 8-7S 8-8S 9-10P 9-11S 9-12P"
+    },
+    {
+        "grc": "Πηλεΐδης δ᾽ ἐξαῦτις ἀταρτηροῖς ἐπέεσσιν Ἀτρεΐδην προσέειπε , καὶ οὔ πω λῆγε χόλοιο :",
+        "por": "O Pelida de novo com palavras insultantes dirigiu‑se ao Atrida , sem abandonar a raiva :",
+        "alignment": "0-1S 11-12S 12-14S 2-2S 2-3S 3-6S 4-4S 4-5S 5-8S 5-9S 6-7S 9-11S"
+    },
+    {
+        "grc": "τὸ δέ τοι κὴρ εἴδεται εἶναι .",
+        "por": "isso , que para ti se assemelha à morte , não ousas .",
+        "alignment": "0-0S 2-3S 2-4S 3-7S 3-8S 4-5S 4-6S 5-5P 5-6P"
+    },
+    {
+        "grc": "ἦ πολὺ λώϊόν ἐστι κατὰ στρατὸν εὐρὺν Ἀχαιῶν δῶρ᾽ ἀποαιρεῖσθαι ὅς τις σέθεν ἀντίον εἴπῃ :",
+        "por": "Muito mais lucrativo , no grande bivaque de aqueus , é arrancar presentes de quem te encarar .",
+        "alignment": "1-0S 10-14P 11-14S 12-15S 13-16S 14-16P 2-1S 2-2S 3-10S 4-4S 5-6S 6-5S 7-7S 7-8S 8-12S 9-11S"
+    },
+    {
+        "grc": "δημοβόρος βασιλεὺς ἐπεὶ οὐτιδανοῖσιν ἀνάσσεις :",
+        "por": "És rei devora‑povo , já que reges medíocres ;",
+        "alignment": "0-2S 1-1S 2-4S 2-5S 3-7S 4-6S"
+    },
+    {
+        "grc": "ἦ γὰρ ἂν Ἀτρεΐδη νῦν ὕστατα λωβήσαιο .",
+        "por": "senão , Atrida , agora seria tua última ofensa .",
+        "alignment": "0-0S 2-5S 2-8S 3-2S 4-4S 5-7S 6-5S 6-8S"
+    },
+    {
+        "grc": "ἀλλ᾽ ἔκ τοι ἐρέω καὶ ἐπὶ μέγαν ὅρκον ὀμοῦμαι :",
+        "por": "Eu te direi e , junto , jurarei um grande juramento :",
+        "alignment": "2-1S 3-2S 4-3S 6-9S 7-10S 7-8P 8-7S"
+    },
+    {
+        "grc": "ναὶ μὰ τόδε σκῆπτρον , τὸ μὲν οὔ ποτε φύλλα καὶ ὄζους φύσει , ἐπεὶ δὴ πρῶτα τομὴν ἐν ὄρεσσι λέλοιπεν , οὐ δ᾽ ἀναθηλήσει :",
+        "por": "por esse cetro , que nunca mais brotará folhas e galhos , uma vez tendo sido cortado no morro , nem de novo florirá ,",
+        "alignment": "1-0S 10-9S 11-10S 12-7S 14-12S 14-13S 17-14P 17-15P 17-16S 18-17S 19-18S 2-1S 20-14S 20-15S 20-16P 22-20S 23-20P 24-21P 24-22P 24-23S 3-2S 5-4S 7-5S 7-6S 8-5S 8-6S 9-8S"
+    },
+    {
+        "grc": "περὶ γάρ ῥά ἑ χαλκὸς ἔλεψε φύλλά τε καὶ φλοιόν :",
+        "por": "pois em volta o bronze o privou de folhas e casca ,",
+        "alignment": "0-1S 0-2S 1-0S 3-5S 4-4S 5-6S 5-7P 6-8S 8-9S 9-10S"
+    },
+    {
+        "grc": "νῦν αὖτέ μιν υἷες Ἀχαιῶν ἐν παλάμῃς φορέουσι δικασπόλοι , οἵ τε θέμιστας πρὸς Διὸς εἰρύαται :",
+        "por": "e agora os filhos de aqueus carregam ‑no nas mãos , os zela‑tradições , que guardam as normas a mando de Zeus .",
+        "alignment": "0-1S 10-14S 12-17S 13-20S 14-21S 15-15P 15-18S 15-19S 2-7S 3-3S 4-4S 4-5S 5-8S 6-9S 7-6S 8-12S"
+    },
+    {
+        "grc": "ὃ δέ τοι μέγας ἔσσεται ὅρκος :",
+        "por": "Esta será a grande jura :",
+        "alignment": "0-0S 3-3S 4-1S 5-4S"
+    },
+    {
+        "grc": "ἦ ποτ᾽ Ἀχιλλῆος ποθὴ ἵξεται υἷας Ἀχαιῶν σύμπαντας :",
+        "por": "um dia saudade de Aquiles virá aos filhos de aqueus , todos juntos ;",
+        "alignment": "1-0S 1-1S 2-3S 2-4S 3-2S 4-5S 5-6P 5-7S 6-8S 6-9S 7-11S 7-12S"
+    },
+    {
+        "grc": "τοῖσι δὲ Νέστωρ ἡδυεπὴς ἀνόρουσε λιγὺς Πυλίων ἀγορητής , τοῦ καὶ ἀπὸ γλώσσης μέλιτος γλυκίων ῥέεν αὐδή :",
+        "por": "Entre eles Nestor doce‑palavra pulou , o soante orador dos pílios , e de sua língua fluía voz mais doce que o mel .",
+        "alignment": "0-0S 0-1S 10-12S 11-13S 12-15S 13-20P 13-22S 14-18S 14-19S 14-20P 15-16S 16-17S 2-2S 3-3S 4-4S 5-7S 6-10S 6-9S 7-8S 9-14P 9-21P"
+    },
+    {
+        "grc": "τῷ δ᾽ ἤδη δύο μὲν γενεαὶ μερόπων ἀνθρώπων ἐφθίαθ᾽ , οἵ οἱ πρόσθεν ἅμα τράφεν ἠδ᾽ ἐγένοντο ἐν Πύλῳ ἠγαθέῃ , μετὰ δὲ τριτάτοισιν ἄνασσεν :",
+        "por": "Já tinha visto duas gerações de homens mortais perecerem , no passado criadas e nascidas com ele na mui sacra Pilos , e era o senhor da terceira .",
+        "alignment": "10-15P 10-16P 11-15P 11-16P 12-10S 12-11S 14-12S 15-13S 16-14S 17-17S 18-20S 19-18S 19-19S 2-0S 21-26P 22-22S 23-26P 23-27S 24-23S 24-25S 3-3S 5-4S 6-7S 7-5S 7-6S 8-8S"
+    },
+    {
+        "grc": "ὅ σφιν ἐὺ φρονέων ἀγορήσατο καὶ μετέειπεν :",
+        "por": "Refletindo bem , tomou a palavra e disse :",
+        "alignment": "2-1S 3-0S 4-3S 4-4S 4-5S 5-6S 6-7S"
+    },
+    {
+        "grc": "ἦ κεν γηθήσαι Πρίαμος Πριάμοιό τε παῖδες ἄλλοι τε Τρῶες μέγα κεν κεχαροίατο θυμῷ εἰ σφῶϊν τάδε πάντα πυθοίατο μαρναμένοιϊν , οἳ περὶ μὲν βουλὴν Δαναῶν , περὶ δ᾽ ἐστὲ μάχεσθαι .",
+        "por": "Sim , Príamo e os filhos de Príamo jubilariam , e muito outros troianos se alegrariam no ânimo se soubessem de tudo isto , que pelejais os dois , vós que superais os dânaos no plano e na luta .",
+        "alignment": "0-0P 1-0P 1-8P 10-11S 11-14P 11-15P 12-14S 12-15S 13-16S 13-17S 14-18S 15-26P 15-27P 15-29P 16-22S 17-21S 18-19S 18-20P 19-24S 19-25S 2-8S 21-29P 21-30S 22-34S 24-35S 25-33S 27-37S 28-36S 3-2S 30-38S 4-6S 4-7S 5-3S 6-5S 7-12S 8-10S 9-13S"
+    },
+    {
+        "grc": "ἀλλὰ πίθεσθ᾽ :",
+        "por": "Vamos , obedecei ;",
+        "alignment": "1-2S"
+    },
+    {
+        "grc": "ἄμφω δὲ νεωτέρω ἐστὸν ἐμεῖο :",
+        "por": "ambos sois mais novos que eu .",
+        "alignment": "0-0S 2-2S 2-3S 3-1S 4-4S 4-5S"
+    },
+    {
+        "grc": "ἤδη γάρ ποτ᾽ ἐγὼ καὶ ἀρείοσιν ἠέ περ ὑμῖν ἀνδράσιν ὡμίλησα , καὶ οὔ ποτέ μ᾽ οἵ γ᾽ ἀθέριζον .",
+        "por": "Sim , pois no passado me reuni com varões até melhores que vós , e nunca a mim menosprezaram .",
+        "alignment": "0-3S 0-4S 1-2S 10-5P 10-6S 12-14S 13-15S 14-15S 15-16S 15-17S 18-18S 2-3P 2-4P 4-9P 5-10S 6-11P 7-9P 8-11P 8-12S 9-7S 9-8S"
+    },
+    {
+        "grc": "οὐ γάρ πω τοίους ἴδον ἀνέρας οὐ δὲ ἴδωμαι , οἷον Πειρίθοόν τε Δρύαντά τε ποιμένα λαῶν Καινέα τ᾽ Ἐξάδιόν τε καὶ ἀντίθεον Πολύφημον Θησέα τ᾽ Αἰγεΐδην , ἐπιείκελον ἀθανάτοισιν :",
+        "por": "Outra vez não vi nem verei varões assim como Pirítoo e Drias , pastores de tropas , Ceneu , Exádio e o excelso Polifemo , e Teseu , filho de Egeu , semelhante aos imortais .",
+        "alignment": "0-2S 10-8S 11-9S 12-10P 13-11S 15-13S 16-14S 16-15S 17-17S 19-19S 2-0S 2-1S 21-20P 22-22S 23-23S 24-26S 25-25P 26-28S 26-29S 26-30S 28-32S 29-33S 29-34S 3-7S 4-3S 5-6S 6-4S 7-4P 8-5S"
+    },
+    {
+        "grc": "κάρτιστοι δὴ κεῖνοι ἐπιχθονίων τράφεν ἀνδρῶν :",
+        "por": "Criaram‑se como os mais fortes varões terrestres ;",
+        "alignment": "0-3S 0-4S 3-6S 4-0S 5-5S"
+    },
+    {
+        "grc": "κάρτιστοι μὲν ἔσαν καὶ καρτίστοις ἐμάχοντο φηρσὶν ὀρεσκῴοισι καὶ ἐκπάγλως ἀπόλεσσαν .",
+        "por": "eram os mais fortes e pelejaram com os mais fortes , os monteses centauros , e foi terrível como os destruíram .",
+        "alignment": "0-2S 0-3S 10-20S 2-0S 3-4S 4-6S 4-7S 4-8S 4-9S 5-5S 6-13S 7-12S 8-15S 9-17S"
+    },
+    {
+        "grc": "Σωκράτης . τί τηνικάδε ἀφῖξαι , ὦ Κρίτων ; ἢ οὐ πρῲ ἔτι ἐστίν ;",
+        "por": "Por que você veio a esta hora , Críton ? Não é cedo ainda ?",
+        "alignment": "10-10S 11-12S 12-13S 13-11S 2-0S 2-1S 3-4S 3-5S 3-6S 4-2P 4-3S 7-8S"
+    },
+    {
+        "grc": "Κρίτων . πάνυ μὲν οὖν .",
+        "por": "Sim , muito .",
+        "alignment": "2-2S 4-0S"
+    },
+    {
+        "grc": "Σωκράτης . πηνίκα μάλιστα ;",
+        "por": "Que hora exatamente ?",
+        "alignment": "2-0S 2-1S 3-2S"
+    },
+    {
+        "grc": "Κρίτων . ὄρθρος βαθύς .",
+        "por": "Logo desponta o dia .",
+        "alignment": "2-1S 2-2S 2-3S 3-0S"
+    },
+    {
+        "grc": "Κρίτων . ὄρθρος βαθύς .",
+        "por": "Logo desponta o dia .",
+        "alignment": "2-1S 2-2S 2-3S 3-0S"
+    },
+    {
+        "grc": "Σωκράτης . θαυμάζω ὅπως ἠθέλησέ σοι ὁ τοῦ δεσμωτηρίου φύλαξ ὑπακοῦσαι .",
+        "por": "Estou surpreso de como o guarda da prisão quis atendê -lo .",
+        "alignment": "10-10P 10-9S 2-0S 2-1S 3-2S 3-3S 4-8S 5-10S 5-9P 6-4S 7-6S 8-7S 9-5S"
+    },
+    {
+        "grc": "Κρίτων . συνήθης ἤδη μοί ἐστιν , ὦ Σώκρατες , διὰ τὸ πολλάκις δεῦρο φοιτᾶν , καί τι καὶ εὐεργέτηται ὑπ᾽ ἐμοῦ .",
+        "por": "Ele já está acostumado comigo , Sócrates , por eu vir aqui muitas vezes , e também tem recebido de mim uma ajuda . . .",
+        "alignment": "10-8S 11-12P 11-13P 12-12S 12-13S 13-11S 14-10S 16-15S 17-21P 18-16S 19-17S 19-18S 19-22P 2-3S 20-19S 21-20S 3-1S 4-4S 5-0P 5-2S 8-6S"
+    },
+    {
+        "grc": "Σωκράτης . ἄρτι δὲ ἥκεις ἢ πάλαι ;",
+        "por": "E você chegou há pouco , ou faz tempo ?",
+        "alignment": "2-3S 2-4S 3-0S 4-1S 4-2S 5-6S 6-7S 6-8S"
+    },
+    {
+        "grc": "Κρίτων . ἐπιεικῶς πάλαι .",
+        "por": "Faz um tempo razoável .",
+        "alignment": "2-3S 3-0S 3-1S 3-2S"
+    },
+    {
+        "grc": "Σωκράτης . εἶτα πῶς οὐκ εὐθὺς ἐπήγειράς με , ἀλλὰ σιγῇ παρακάθησαι ; γ",
+        "por": "Então por que não me acordou imediatamente , em vez de se sentar em silêncio ao meu lado ?",
+        "alignment": "10-13S 10-14S 11-11S 11-12S 11-15S 11-16P 11-17S 2-0S 3-1S 3-2S 4-3S 5-6S 6-5S 7-4S 9-10P 9-8S 9-9S"
+    },
+    {
+        "grc": "Κρίτων . οὐ μὰ τὸν Δία , ὦ Σώκρατες , οὐδ᾽ ἂν αὐτὸς ἤθελον ἐν τοσαύτῃ τε ἀγρυπνίᾳ καὶ λύπῃ εἶναι , ἀλλὰ καὶ σοῦ πάλαι θαυμάζω αἰσθανόμενος ὡς ἡδέως καθεύδεις : καὶ ἐπίτηδές σε οὐκ ἤγειρον ἵνα ὡς ἥδιστα διάγῃς .",
+        "por": "Não , por Zeus , Sócrates ! Eu é que não queria estar com tamanha insônia e aflição . Mas também estou espantado , faz tempo , com você , percebendo como dorme docemente ! E não o acordei de propósito , para que você leve a vida da maneira mais doce possível .",
+        "alignment": "10-10S 11-11S 11-7S 13-11S 13-7S 14-13P 15-14S 17-15S 18-16S 19-17S 2-0S 20-12S 22-19S 23-20S 24-27S 24-28S 25-24S 25-25S 26-21S 26-22S 27-30S 28-31S 29-33S 3-2S 3-3P 30-32S 32-35S 33-39S 33-40S 34-37S 35-36S 36-38S 37-42S 37-43S 38-48P 38-49P 38-50P 38-51P 38-52P 39-48P 39-49P 39-50S 39-51S 39-52P 4-2P 4-3P 40-44S 40-45S 40-46S 40-47S 5-2P 5-3S 8-5S"
+    },
+    {
+        "grc": "καὶ πολλάκις μὲν δή σε καὶ πρότερον ἐν παντὶ τῷ βίῳ ηὐδαιμόνισα τοῦ τρόπου , πολὺ δὲ μάλιστα ἐν τῇ νῦν παρεστώσῃ συμφορᾷ , ὡς ῥᾳδίως αὐτὴν καὶ πρᾴως φέρεις .",
+        "por": "Sim , já anteriormente , ao longo de toda a vida , eu inúmeras vezes o felicitei pelo seu modo de ser , mas muito mais no infortúnio que agora surgiu , por você levar isso de maneira fácil e suave . . .",
+        "alignment": "0-0P 1-13S 1-14S 10-10S 11-16S 12-17S 12-18P 12-19P 12-20P 12-21P 13-17P 13-18P 13-19S 13-20S 13-21S 15-24S 16-23S 17-25S 18-26S 19-26S 20-29S 21-28S 21-30S 22-27S 24-32S 25-36S 25-37S 25-38S 26-35S 27-39P 28-40S 29-33S 29-34S 4-15S 6-3S 7-5S 7-6S 7-7S 7-8P 8-5P 8-6P 8-7P 8-8S 9-9S"
+    },
+    {
+        "grc": "Σωκράτης . καὶ γὰρ ἄν , ὦ Κρίτων , πλημμελὲς εἴη ἀγανακτεῖν τηλικοῦτον ὄντα εἰ δεῖ ἤδη τελευτᾶν .",
+        "por": "Pois seria desmedido , Críton , se eu , com esta idade , me abalasse porque agora é preciso morrer .",
+        "alignment": "10-1S 11-13P 11-14S 12-10S 12-11S 12-9S 13-10P 13-11P 13-13P 13-14P 13-9P 14-15P 14-6P 15-17S 15-18S 16-16S 17-19S 3-0S 4-1S 7-4S 9-2S"
+    },
+    {
+        "grc": "Κρίτων . καὶ ἄλλοι , ὦ Σώκρατες , τηλικοῦτοι ἐν τοιαύταις συμφοραῖς ἁλίσκονται , ἀλλ᾽ οὐδὲν αὐτοὺς ἐπιλύεται ἡ ἡλικία τὸ μὴ οὐχὶ ἀγανακτεῖν τῇ παρούσῃ τύχῃ .",
+        "por": "Também outros com essa idade , Sócrates , se pegam diante de tais infortúnios , mas a idade não os livra absolutamente de se abalar com a sorte que lhes advém . . .",
+        "alignment": "10-12S 11-13S 12-8S 12-9S 14-15S 15-18S 16-19S 17-20S 18-16S 19-17S 2-0S 21-21S 22-21S 23-22S 23-23P 23-24S 24-25P 24-26S 25-28S 25-30S 26-25P 26-27S 3-1S 6-6S 8-2S 8-3S 8-4S 9-10S 9-11S"
+    },
+    {
+        "grc": "Σωκράτης . ἔστι ταῦτα . ἀλλὰ τί δὴ οὕτω πρῲ ἀφῖξαι ;",
+        "por": "Assim é . Mas por que você veio tão cedo ?",
+        "alignment": "10-6S 10-7S 2-1S 3-0S 5-3S 6-4S 6-5S 8-8S 9-9S"
+    },
+    {
+        "grc": "Κρίτων . ἀγγελίαν , ὦ Σώκρατες , φέρων χαλεπήν , οὐ σοί , ὡς ἐμοὶ φαίνεται , ἀλλ᾽ ἐμοὶ καὶ τοῖς σοῖς ἐπιτηδείοις πᾶσιν καὶ χαλεπὴν καὶ βαρεῖαν , ἣν ἐγώ , ὡς ἐμοὶ δοκῶ , ἐν τοῖς βαρύτατ᾽ ἂν ἐνέγκαιμι .",
+        "por": "Para trazer , Sócrates , dura mensagem ( não para você , conforme me parece , mas para mim e todos os seus colegas ) ; dura e grave , a qual eu mesmo , conforme penso , só poderia trazer como a mais grave de todas .",
+        "alignment": "10-8S 11-10S 11-9S 13-12S 14-13S 15-14S 17-16S 18-17S 18-18S 19-19S 2-6S 20-21S 21-22S 22-23S 23-20S 25-26S 26-27S 27-28S 29-30S 29-31S 30-32S 32-35S 34-36S 37-42P 38-43S 38-44S 39-39S 39-40S 40-39S 40-40S 5-3S 7-0S 7-1S 8-5S"
+    },
+    {
+        "grc": "Σωκράτης . τίνα ταύτην ; ἢ τὸ πλοῖον ἀφῖκται ἐκ Δήλου , οὗ δεῖ ἀφικομένου τεθνάναι με ;",
+        "por": "Qual mensagem ? Chegou de Delos a embarcação por ocasião de cuja chegada devo morrer ?",
+        "alignment": "10-5S 12-10S 12-11S 12-8S 12-9S 13-13S 14-12S 15-14S 16-13S 2-0S 6-6S 7-7S 8-3S 9-4S"
+    },
+    {
+        "grc": "Σωκράτης . ἀλλ᾽ , ὦ Κρίτων , τύχῃ ἀγαθῇ , εἰ ταύτῃ τοῖς θεοῖς φίλον , ταύτῃ ἔστω : οὐ μέντοι οἶμαι ἥξειν αὐτὸ τήμερον .",
+        "por": "Boa sorte então para mim , Críton ; se assim é caro aos deuses , que assim seja ! Penso , porém , que ela não vai vir ainda hoje . . .",
+        "alignment": "10-8S 11-9S 12-12S 13-13S 14-11S 16-16S 17-17S 19-25S 2-2P 20-21S 21-19S 22-23P 22-26S 22-27S 23-24S 24-28S 24-29S 5-6S 7-1S 8-0S"
+    },
+    {
+        "grc": "Κρίτων . πόθεν τοῦτο τεκμαίρῃ ;",
+        "por": "De onde vem essa conjectura ?",
+        "alignment": "2-0S 2-1S 3-3S 4-2S 4-4S"
+    },
+    {
+        "grc": "Σωκράτης . ἐγώ σοι ἐρῶ . τῇ γάρ που ὑστεραίᾳ δεῖ με ἀποθνῄσκειν ἢ ᾗ ἂν ἔλθῃ τὸ πλοῖον .",
+        "por": "Vou lhe dizer . Devo morrer um dia depois de a embarcação chegar , presumo eu . . .",
+        "alignment": "10-4S 11-4P 12-5S 15-12S 16-12S 17-10S 18-11S 3-1S 4-0S 4-2S 6-6S 6-7S 6-8S 8-14S 8-15S 9-6S 9-7S 9-8S"
+    },
+    {
+        "grc": "Κρίτων . φασί γέ τοι δὴ οἱ τούτων κύριοι .",
+        "por": "Pelo menos é o que dizem os responsáveis por isso .",
+        "alignment": "2-5S 3-0S 3-1S 4-0S 4-1S 6-6S 7-8S 7-9S 8-7S"
+    },
+    {
+        "grc": "Σωκράτης . οὐ τοίνυν τῆς ἐπιούσης ἡμέρας οἶμαι αὐτὸ ἥξειν ἀλλὰ τῆς ἑτέρας .",
+        "por": "Penso então que ela não vai vir neste dia que chega , mas no outro .",
+        "alignment": "10-12P 11-13P 12-14P 2-4P 3-1P 4-7P 5-10P 5-9P 6-8P 7-0P 8-3P 9-5P 9-6P"
+    },
+    {
+        "grc": "τεκμαίρομαι δὲ ἔκ τινος ἐνυπνίου ὃ ἑώρακα ὀλίγον πρότερον ταύτης τῆς νυκτός : καὶ κινδυνεύεις ἐν καιρῷ τινι οὐκ ἐγεῖραί με .",
+        "por": "Faço essa conjectura a partir de um sonho que vi há pouco , essa noite . E corre-se o risco de ter sido algo oportuno você não ter me acordado . . .",
+        "alignment": "0-0P 0-1P 0-2P 11-14P 13-16P 14-17P 14-19P 15-24P 16-24P 17-23P 18-26P 19-27P 19-29P 2-3P 2-4P 2-5P 20-28P 3-6P 4-7P 5-8P 6-9P 7-10P 7-11P 9-13P"
+    },
+    {
+        "grc": "Κρίτων . ἦν δὲ δὴ τί τὸ ἐνύπνιον ;",
+        "por": "Mas e qual era o sonho ?",
+        "alignment": "2-3S 3-0S 3-1P 4-0P 4-1P 5-2S 6-4S 7-5S"
+    },
+    {
+        "grc": "Κρίτων . ἄτοπον τὸ ἐνύπνιον , ὦ Σώκρατες .",
+        "por": "Estranho sonho , Sócrates . . .",
+        "alignment": "2-0S 4-1S 7-3S"
+    },
+    {
+        "grc": "Σωκράτης . ἐναργὲς μὲν οὖν , ὥς γέ μοι δοκεῖ , ὦ Κρίτων .",
+        "por": "Porém nítido , Críton ; ao menos é o que me parece .",
+        "alignment": "12-3S 2-1S 3-0P 6-5P 6-6P 7-5P 7-6P 8-10S 9-11S"
+    },
+    {
+        "grc": "Κρίτων . λίαν γε , ὡς ἔοικεν . ἀλλ᾽ , ὦ δαιμόνιε Σώκρατες , ἔτι καὶ νῦν ἐμοὶ πιθοῦ καὶ σώθητι : ὡς ἐμοί , ἐὰν σὺ ἀποθάνῃς , οὐ μία συμφορά ἐστιν , ἀλλὰ χωρὶς μὲν τοῦ ἐστερῆσθαι τοιούτου ἐπιτηδείου οἷον ἐγὼ οὐδένα μή ποτε εὑρήσω , ἔτι δὲ καὶ πολλοῖς δόξω , οἳ ἐμὲ καὶ σὲ μὴ σαφῶς ἴσασιν , ὡς οἷός τ᾽ ὤν σε σῴζειν εἰ ἤθελον ἀναλίσκειν χρήματα , ἀμελῆσαι .",
+        "por": "Muito , pelo jeito . Mas ainda é tempo , numinoso Sócrates , de você me escutar e se salvar ! Porque para mim , se você morrer , não será apenas um infortúnio : além de ficar privado de você – de um colega como não vou encontrar nunca mais igual – , parecerá também a muitos ( que talvez não conheçam bem a mim e a você ) que eu , tendo condições de o salvar , caso quisesse gastar meu dinheiro , fui negligente .",
+        "alignment": "11-10S 12-11S 14-6S 14-7P 14-8P 15-6P 15-7P 15-8P 16-6P 16-7P 16-8S 17-15S 18-13P 18-14S 18-16S 19-17S 2-0S 20-18S 20-19S 22-21S 23-22S 23-23S 25-25S 26-26S 27-27S 29-29S 30-32S 31-33S 32-30S 34-35P 38-37P 38-38P 40-42P 40-43P 40-44P 41-45P 44-46S 45-49S 46-47P 46-48P 5-2S 5-3S 50-55S 51-56S 51-57S 52-54S 54-59S 55-64S 55-65S 56-66S 57-67S 57-68S 58-60P 58-61S 59-63S 6-2S 6-3S 60-62S 62-70P 63-73P 63-74P 63-75P 64-73P 64-74P 64-75P 65-73P 65-74P 65-75P 66-76P 66-77P 67-76P 67-77P 68-79P 69-80P 70-81P 71-83P 73-85P 73-86P 8-5S"
+    },
+    {
+        "grc": "καίτοι τίς ἂν αἰσχίων εἴη ταύτης δόξα ἢ δοκεῖν χρήματα περὶ πλείονος ποιεῖσθαι ἢ φίλους ; οὐ γὰρ πείσονται οἱ πολλοὶ ὡς σὺ αὐτὸς οὐκ ἠθέλησας ἀπιέναι ἐνθένδε ἡμῶν προθυμουμένων .",
+        "por": "E que opinião sobre mim seria mais vergonhosa do que esta : parecer ter em mais alta conta o dinheiro do que os amigos ? Pois a maioria não se convencerá de que foi você mesmo que não quis sair daqui , apesar do nosso esforço !",
+        "alignment": "0-0P 1-1P 11-13P 11-14P 11-15P 11-16P 11-17P 12-13P 12-14P 12-15P 12-16P 12-17P 13-20P 13-21P 14-23P 16-28P 17-25P 18-29P 18-30P 19-26P 19-27P 2-5P 20-26P 20-27P 21-32P 22-34P 23-35P 24-37P 25-38P 26-39P 27-40P 28-44P 29-42P 29-43P 29-45P 3-6P 3-7P 4-5P 5-10P 5-8P 5-9P 6-2P 8-12P 9-19P"
+    },
+    {
+        "grc": "Σωκράτης . ἀλλὰ τί ἡμῖν , ὦ μακάριε Κρίτων , οὕτω τῆς τῶν πολλῶν δόξης μέλει ; οἱ γὰρ ἐπιεικέστατοι , ὧν μᾶλλον ἄξιον φροντίζειν , ἡγήσονται αὐτὰ οὕτω πεπρᾶχθαι ὥσπερ ἂν πραχθῇ .",
+        "por": "Mas por que nos preocuparmos assim , venturoso Críton , com a opinião da maioria ? Pois os mais honestos – a quem mais vale dar atenção – considerarão terem as coisas se passado assim , tal como vieram a se passar .",
+        "alignment": "10-5S 11-10P 11-11S 12-13S 13-14S 14-10P 14-12S 15-4S 17-17S 18-16S 19-18S 19-19S 2-0S 21-21S 21-22S 22-23S 23-24S 24-25S 24-26S 26-28S 27-30P 27-31P 28-34S 29-29S 29-32P 29-33P 3-1S 3-2S 30-36S 30-37S 31-38S 31-39S 31-40S 31-41S 32-38S 32-39S 32-40S 32-41S 4-3S 7-7S 8-8S"
+    },
+    {
+        "grc": "Κρίτων . ἀλλ᾽ ὁρᾷς δὴ ὅτι ἀνάγκη , ὦ Σώκρατες , καὶ τῆς τῶν πολλῶν δόξης μέλειν .",
+        "por": "Mas você está vendo , Sócrates , que é imperioso que nos preocupemos também com a opinião da maioria .",
+        "alignment": "11-13S 12-14P 12-15S 13-17S 14-18S 15-14P 15-16S 16-12S 2-0S 3-1S 3-2S 3-3P 5-7S 6-9S 9-5S"
+    },
+    {
+        "grc": "αὐτὰ δὲ δῆλα τὰ παρόντα νυνὶ ὅτι οἷοί τ᾽ εἰσὶν οἱ πολλοὶ οὐ τὰ σμικρότατα τῶν κακῶν ἐξεργάζεσθαι ἀλλὰ τὰ μέγιστα σχεδόν , ἐάν τις ἐν αὐτοῖς διαβεβλημένος ᾖ .",
+        "por": ". . Os próprios acontecimentos de agora são claros : a maioria tem condições de realizar não só os menores dos males , mas também os maiores , se alguém for caluniado junto a ela !",
+        "alignment": "0-3S 10-10S 10-11S 11-10S 11-11S 12-16S 13-18S 14-19S 15-20S 16-21S 17-14P 17-15S 18-23S 19-25S 2-8S 20-26S 23-28S 24-29S 25-32S 25-33P 26-33P 26-34S 27-31S 28-30S 3-2S 3-4S 4-2P 4-4P 4-7P 5-5P 5-6S 7-12S 7-13S 8-12P 8-13P 9-12S 9-13S"
+    },
+    {
+        "grc": "Σωκράτης . εἰ γὰρ ὤφελον , ὦ Κρίτων , οἷοί τ᾽ εἶναι οἱ πολλοὶ τὰ μέγιστα κακὰ ἐργάζεσθαι , ἵνα οἷοί τ᾽ ἦσαν καὶ ἀγαθὰ τὰ μέγιστα , καὶ καλῶς ἂν εἶχεν . νῦν δὲ οὐδέτερα οἷοί τε : οὔτε γὰρ φρόνιμον οὔτε ἄφρονα δυνατοὶ ποιῆσαι , ποιοῦσι δὲ τοῦτο ὅτι ἂν τύχωσι .",
+        "por": "Quem me dera , Críton , que a maioria tivesse condições de realizar os maiores males , para assim realizar também os maiores bens – e que belo seria ! Mas não tem , nem de uma coisa , nem de outra . Pois não são capazes de tornar alguém nem sensato , nem insensato ; o tornam sim do jeito que for . . .",
+        "alignment": "10-10P 10-11P 10-9P 11-10S 11-11P 11-9S 12-7S 12-8P 13-7P 13-8S 14-13S 15-14S 16-15S 17-11P 17-12S 19-17S 19-18P 2-0S 2-1S 2-2S 20-19P 22-19P 23-20S 24-23S 25-21S 26-22S 28-25S 29-27S 29-28P 3-0P 3-1P 3-2P 30-27P 30-28S 31-27P 31-28S 4-0S 4-1S 4-2S 7-4S 9-10S 9-11P 9-9S"
+    },
+    {
+        "grc": "Σωκράτης . καὶ ταῦτα προμηθοῦμαι , ὦ Κρίτων , καὶ ἄλλα πολλά .",
+        "por": "Com isso , Críton , e com muitas outras coisas me mostro cauteloso . . .",
+        "alignment": "10-6P 10-8S 10-9S 11-7S 3-0P 3-1S 4-10S 4-11S 4-12S 7-3S 9-5P"
+    },
+    {
+        "grc": "Κρίτων . καλῶς .",
+        "por": "Belamente .",
+        "alignment": "2-0S"
+    },
+    {
+        "grc": "Σωκράτης . οὐκοῦν τὰς μὲν χρηστὰς τιμᾶν , τὰς δὲ πονηρὰς μή ;",
+        "por": "Portanto , valorizar as prestativas e não as sofríveis ?",
+        "alignment": "10-8S 11-6S 2-0S 3-3S 5-4S 6-2S 8-7S 9-5S"
+    },
+    {
+        "grc": "Κρίτων . ναί .",
+        "por": "Sim .",
+        "alignment": "2-0S"
+    },
+    {
+        "grc": "Σωκράτης . χρησταὶ δὲ οὐχ αἱ τῶν φρονίμων , πονηραὶ δὲ αἱ τῶν ἀφρόνων ;",
+        "por": "E prestativas não são as dos sensatos , e sofríveis as dos insensatos ?",
+        "alignment": "10-8S 11-10S 12-11S 13-12S 2-1S 3-0S 4-2S 5-4S 6-5S 7-6S 9-9S"
+    },
+    {
+        "grc": "Κρίτων . πῶς δ᾽ οὔ ;",
+        "por": "Como não ? !",
+        "alignment": "2-0S 4-1S"
+    },
+    {
+        "grc": "Σωκράτης . φέρε δή , πῶς αὖ τὰ τοιαῦτα ἐλέγετο ; γυμναζόμενος ἀνὴρ καὶ τοῦτο πράττων πότερον παντὸς ἀνδρὸς ἐπαίνῳ καὶ ψόγῳ καὶ δόξῃ τὸν νοῦν προσέχει , ἢ ἑνὸς μόνου ἐκείνου ὃς ἂν τυγχάνῃ ἰατρὸς ἢ παιδοτρίβης ὤν ;",
+        "por": "Muito bem . Como eram ditas por sua vez tais coisas ? Um homem , ao fazer ginástica e nisso se aplicar , presta atenção no elogio e na censura de qualquer um , ou daquele apenas , que ocorre de ser médico ou treinador ?",
+        "alignment": "11-15S 11-16S 11-17S 12-12S 12-13S 13-18S 14-19S 15-20S 15-21S 17-30P 17-31P 19-25P 19-26P 2-0P 2-1P 20-27P 21-28S 21-29S 22-27P 23-25P 23-26P 23-28P 23-29P 24-23P 24-24P 25-23S 25-24S 26-23S 26-24S 28-34S 3-0P 3-1P 30-36S 31-35S 32-38S 33-39S 33-40S 33-41P 34-39S 34-40S 34-41P 35-42S 36-43S 37-44S 38-39P 38-40P 38-41S 5-3S 6-6S 6-7S 6-8S 7-10P 7-9P 8-10S 8-9S 9-4P 9-5S"
+    },
+    {
+        "grc": "Κρίτων . ἑνὸς μόνου .",
+        "por": "Daquele apenas .",
+        "alignment": "2-0P 3-1S"
+    },
+    {
+        "grc": "Σωκράτης . οὐκοῦν φοβεῖσθαι χρὴ τοὺς ψόγους καὶ ἀσπάζεσθαι τοὺς ἐπαίνους τοὺς τοῦ ἑνὸς ἐκείνου ἀλλὰ μὴ τοὺς τῶν πολλῶν .",
+        "por": "Portanto , tem que temer as censuras e saudar os elogios daquele apenas , e não os da maioria . . .",
+        "alignment": "10-10S 12-11P 13-12S 14-11S 15-14S 16-15S 17-16S 18-17S 18-18P 19-17P 19-18S 2-0S 3-4S 4-2S 4-3S 5-5S 6-6S 7-7S 8-8S 9-9S"
+    },
+    {
+        "grc": "Κρίτων . δῆλα δή .",
+        "por": "Sim , claro .",
+        "alignment": "2-2S 3-0S"
+    },
+    {
+        "grc": "Σωκράτης . ταύτῃ ἄρα αὐτῷ πρακτέον καὶ γυμναστέον καὶ ἐδεστέον γε καὶ ποτέον , ᾗ ἂν τῷ ἑνὶ δοκῇ , τῷ ἐπιστάτῃ καὶ ἐπαΐοντι , μᾶλλον ἢ ᾗ σύμπασι τοῖς ἄλλοις .",
+        "por": "Desta maneira então é seu dever agir ( fazer ginástica , comer e beber ) conforme pareça a apenas uma pessoa – seu instrutor e quem entende – , mais do que a todas as outras juntas . . .",
+        "alignment": "11-12S 12-13S 14-15S 15-16S 16-17S 17-18P 17-19P 18-16S 2-0S 2-1S 21-23S 22-24S 23-25S 23-26S 25-29S 26-30S 26-31S 27-32P 28-32P 28-33S 28-36S 29-34S 3-2S 30-35S 4-4S 5-3P 5-5S 5-6S 7-8S 7-9S 9-11S"
+    },
+    {
+        "grc": "Σωκράτης . εἶεν . ἀπειθήσας δὲ τῷ ἑνὶ καὶ ἀτιμάσας αὐτοῦ τὴν δόξαν καὶ τοὺς ἐπαίνους , τιμήσας δὲ τοὺς τῶν πολλῶν λόγους καὶ μηδὲν ἐπαϊόντων , ἆρα οὐδὲν κακὸν πείσεται ; γ",
+        "por": "Pois bem . E desobedecendo a essa única pessoa , desvalorizando sua opinião e seus elogios , e valorizando os discursos da maioria e dos que não entendem nada , não sofrerá nenhum mal ?",
+        "alignment": "10-11S 12-12S 13-13S 15-15S 17-18S 18-17S 19-19S 2-0S 2-1S 20-21S 20-22P 21-21P 21-22S 22-20S 23-23S 24-28S 25-24S 25-25S 25-27S 27-30P 28-30P 28-32P 29-32P 29-33S 30-31S 4-4S 5-3S 6-5S 7-7S 9-10S"
+    },
+    {
+        "grc": "Κρίτων . πῶς γὰρ οὔ ;",
+        "por": "Como não ? !",
+        "alignment": "2-0S 4-1S"
+    },
+    {
+        "grc": "Σωκράτης . τί δ᾽ ἔστι τὸ κακὸν τοῦτο , καὶ ποῖ τείνει , καὶ εἰς τί τῶν τοῦ ἀπειθοῦντος ;",
+        "por": "E que mal é esse ? Onde o atinge ? Em que parte desse que desobedeceu ?",
+        "alignment": "10-6S 11-8S 14-10S 14-11P 15-10P 15-11S 16-13P 17-13P 17-14P 18-14P 18-15S 2-1S 3-0P 4-3S 6-2S 7-4S"
+    },
+    {
+        "grc": "Κρίτων . δῆλον ὅτι εἰς τὸ σῶμα : τοῦτο γὰρ διόλλυσι .",
+        "por": "É claro que no corpo ; pois o destrói por inteiro !",
+        "alignment": "10-10S 10-8S 10-9S 2-1S 3-2S 4-3S 5-3S 6-4S 8-7S 9-6S"
+    },
+    {
+        "grc": "Σωκράτης . καλῶς λέγεις . οὐκοῦν καὶ τἆλλα , ὦ Κρίτων , οὕτως , ἵνα μὴ πάντα διΐωμεν , καὶ δὴ καὶ περὶ τῶν δικαίων καὶ ἀδίκων καὶ αἰσχρῶν καὶ καλῶν καὶ ἀγαθῶν καὶ κακῶν , περὶ ὧν νῦν ἡ βουλὴ ἡμῖν ἐστιν , πότερον τῇ τῶν πολλῶν δόξῃ δεῖ ἡμᾶς ἕπεσθαι καὶ φοβεῖσθαι αὐτὴν ἢ τῇ τοῦ ἑνός , εἴ τίς ἐστιν ἐπαΐων , ὃν δεῖ καὶ αἰσχύνεσθαι καὶ φοβεῖσθαι μᾶλλον ἢ σύμπαντας τοὺς ἄλλους ; ᾧ εἰ μὴ ἀκολουθήσομεν , διαφθεροῦμεν ἐκεῖνο καὶ λωβησόμεθα , ὃ τῷ μὲν δικαίῳ βέλτιον ἐγίγνετο τῷ δὲ ἀδίκῳ ἀπώλλυτο . ἢ οὐδέν ἐστι τοῦτο ;",
+        "por": "Você fala belamente . Ora , Críton , também em relação às demais coisas ( para não percorrermos todas elas ) não é assim – e ainda a respeito das justas e injustas , vergonhosas e belas , boas e más , em torno das quais gira agora nossa decisão ? É preciso que nós sigamos a opinião da maioria e dela tenhamos medo , ou a de um só ( se há alguém entendido ) , diante de quem é preciso sentir mais vergonha e medo do que de todas as outras pessoas juntas ? Se não o acompanharmos , vamos corromper e afrontar aquilo que , por um lado , com o justo se tornava melhor e , por outro , com o injusto se destruía . . . Ou não há nada disso ?",
+        "alignment": "10-6S 100-133S 101-135S 12-23P 14-15S 15-16S 16-18S 17-17S 19-25P 2-2S 21-26S 22-27S 22-28S 23-29S 24-30S 25-31S 26-32S 28-34S 29-35S 3-0S 3-1S 30-36S 32-38S 33-39S 34-40S 36-42S 36-43S 37-44S 37-45S 38-47S 40-49S 41-48S 42-46P 45-56S 46-58S 46-59P 47-58P 47-59S 48-57S 49-51S 49-52S 5-4P 50-54S 51-53P 51-55S 52-60S 53-62S 53-63S 54-61S 55-65S 56-66S 57-67S 58-68S 58-69S 6-8P 60-71S 61-73S 62-72S 63-74S 65-79S 66-80S 66-81S 68-82S 68-84S 69-85S 7-10P 7-11S 7-12S 7-13S 7-9P 70-86S 71-83S 72-87S 72-88S 73-89P 73-90S 73-94S 74-91S 75-92S 77-98S 78-96S 79-97S 80-99S 82-101S 82-102S 83-105S 84-103S 85-104S 87-106S 88-112S 88-113S 89-108S 89-109S 89-110S 90-114S 91-117S 92-115S 92-116S 93-123S 93-124S 94-118P 94-120S 94-121S 95-125S 96-126S 96-127S 98-131S 99-134S"
+    },
+    {
+        "grc": "Κρίτων . οἶμαι ἔγωγε , ὦ Σώκρατες .",
+        "por": "Eu penso que sim , Sócrates !",
+        "alignment": "2-1S 2-2P 2-3P 3-0S 6-5S"
+    },
+    {
+        "grc": "Σωκράτης . φέρε δή , ἐὰν τὸ ὑπὸ τοῦ ὑγιεινοῦ μὲν βέλτιον γιγνόμενον , ὑπὸ τοῦ νοσώδους δὲ διαφθειρόμενον διολέσωμεν πειθόμενοι μὴ τῇ τῶν ἐπαϊόντων δόξῃ , ἆρα βιωτὸν ἡμῖν ἐστιν διεφθαρμένου αὐτοῦ ; ἔστι δέ που τοῦτο σῶμα : ἢ οὐχί ;",
+        "por": "Muito bem . Se o que se torna melhor com o que é saudável e se corrompe com o que é doentio – se nós o destruirmos por inteiro , obedecendo não à opinião dos entendidos , será que para nós valerá a pena viver , estando ele corrompido ? E \" ele \" é o corpo , eu presumo ; ou não ?",
+        "alignment": "11-8S 12-5P 12-6S 12-7S 14-17S 14-18P 15-17P 15-18S 15-19P 16-21S 17-14S 18-15P 18-16S 19-23P 19-26S 19-27S 19-28S 2-0S 2-1S 20-30S 21-31S 22-32S 23-34S 24-35S 25-33S 27-37P 27-38P 28-38P 28-41S 28-42P 28-43P 28-44S 29-39S 29-40S 3-0S 3-1S 30-37P 30-41P 30-44P 31-46S 31-48S 32-47S 34-54S 35-50P 36-58P 36-59P 37-52S 38-56S 40-61S 41-62S 5-3S 6-4S 6-5P 7-10P 7-9S 8-10S 8-11P 8-9P 9-13S"
+    },
+    {
+        "grc": "Κρίτων . ναί .",
+        "por": "Sim",
+        "alignment": "2-0S"
+    },
+    {
+        "grc": "Κρίτων . οὐδαμῶς .",
+        "por": "De jeito nenhum .",
+        "alignment": "2-0S 2-1S 2-2S"
+    },
+    {
+        "grc": "Σωκράτης . ἀλλὰ μετ᾽ ἐκείνου ἄρ᾽ ἡμῖν βιωτὸν διεφθαρμένου , ᾧ τὸ ἄδικον μὲν λωβᾶται , τὸ δὲ δίκαιον ὀνίνησιν ; ἢ φαυλότερον ἡγούμεθα εἶναι τοῦ σώματος ἐκεῖνο , ὅτι ποτ᾽ ἐστὶ τῶν ἡμετέρων , περὶ ὃ ἥ τε ἀδικία καὶ ἡ δικαιοσύνη ἐστίν ;",
+        "por": "Mas será que com aquilo corrompido para nós valerá a pena viver , a que o injusto afronta e o justo ajuda ? Ou vamos considerar inferior ao corpo aquilo ( o que quer que porventura seja em nós ) a que diz respeito tanto a injustiça quanto a justiça ?",
+        "alignment": "10-13S 10-14S 11-15S 12-16S 14-17S 16-19S 17-18S 18-20S 19-21S 2-0S 21-23S 22-26S 23-24S 23-25S 25-27S 26-28S 27-29S 29-31P 29-32S 3-3S 30-33P 30-34P 30-35S 31-36S 32-37S 32-38P 33-37P 33-38S 35-42S 35-43S 36-40S 36-41S 37-45S 38-44S 38-47P 39-46S 4-4S 40-44P 40-47S 41-48S 42-49S 43-42S 43-43S 5-1P 5-2P 6-6S 6-7S 7-10P 7-11S 7-8S 7-9P 8-5S"
+    },
+    {
+        "grc": "Κρίτων . οὐδαμῶς .",
+        "por": "De jeito nenhum .",
+        "alignment": "2-0S 2-1S 2-2S"
+    },
+    {
+        "grc": "Κρίτων . πολύ γε .",
+        "por": "Com certeza .",
+        "alignment": "2-0S 2-1S 3-0S 3-1S"
+    },
+    {
+        "grc": "Σωκράτης . οὐκ ἄρα , ὦ βέλτιστε , πάνυ ἡμῖν οὕτω φροντιστέον τί ἐροῦσιν οἱ πολλοὶ ἡμᾶς , ἀλλ᾽ ὅτι ὁ ἐπαΐων περὶ τῶν δικαίων καὶ ἀδίκων , ὁ εἷς καὶ αὐτὴ ἡ ἀλήθεια .",
+        "por": "Então , ótimo homem , não devemos dar tanta atenção assim ao que vai dizer de nós a maioria , mas sim o entendido nas coisas justas e injustas – apenas a ele e à própria verdade .",
+        "alignment": "10-10S 11-6S 11-7S 11-9S 12-11S 12-12S 13-13S 13-14S 14-17S 14-18P 15-17P 15-18S 16-15S 16-16S 18-20S 2-5S 20-22S 21-23S 22-24S 22-25P 23-24S 23-25P 24-25P 24-26S 25-27S 26-28S 28-31P 28-32S 29-30S 3-0S 30-33S 31-35S 32-34S 33-36S 6-2S 6-3P 8-8S 9-6P 9-7P 9-9P"
+    },
+    {
+        "grc": "ὥστε πρῶτον μὲν ταύτῃ οὐκ ὀρθῶς εἰσηγῇ , εἰσηγούμενος τῆς τῶν πολλῶν δόξης δεῖν ἡμᾶς φροντίζειν περὶ τῶν δικαίων καὶ καλῶν καὶ ἀγαθῶν καὶ τῶν ἐναντίων .",
+        "por": "De modo que por aí , em primeiro lugar , você não propõe o caso corretamente , em sua proposição de que é preciso darmos atenção à opinião da maioria sobre as coisas justas , belas e boas , e sobre as contrárias .",
+        "alignment": "0-0S 0-1S 0-2S 1-6S 1-7S 1-8S 10-28S 10-29P 11-28P 11-29S 12-27S 13-22S 13-23S 14-24S 14-25S 15-24S 15-25S 16-30S 16-31P 16-32P 17-30P 17-31S 17-32P 18-32P 18-33S 20-35S 21-36S 22-37S 23-39S 24-41S 25-42S 3-3P 3-4P 4-11S 5-15S 6-10S 6-12S 6-14P 8-17S 8-18P 8-19S 9-26S"
+    },
+    {
+        "grc": "ὅτε μὲν δὴ ταῦτα ἐνεθυμούμεθα , οὕτως ἐγιγνώσκομεν περὶ αὐτῶν , ὡς ἀνθρώπῳ πεφυκότι πάντων τῶν ἄλλων ῥᾷον εἴη ζῴων ἢ ἀνθρώπων ἄρχειν .",
+        "por": "Desde que , então , refletíamos a respeito dessas coisas , concluímos que é da natureza humana que seja mais fácil governar todos os outros animais do que os homens .",
+        "alignment": "0-0S 0-1S 1-3P 11-12S 12-16S 13-13S 13-14S 13-15S 14-22S 15-23S 16-24S 17-19S 17-20S 18-17S 18-18S 19-25S 20-26P 20-27S 21-28P 21-29S 22-21S 3-8P 3-9P 4-5S 7-11S 8-6P 8-7P 9-8P 9-9P"
+    },
+    {
+        "grc": "ἐπειδὴ δὲ ἐνενοήσαμεν ὅτι Κῦρος ἐγένετο Πέρσης , ὃς παμπόλλους μὲν ἀνθρώπους ἐκτήσατο πειθομένους αὑτῷ , παμπόλλας δὲ πόλεις , πάμπολλα δὲ ἔθνη , ἐκ τούτου δὴ ἠναγκαζόμεθα μετανοεῖν μὴ οὔτε τῶν ἀδυνάτων οὔτε τῶν χαλεπῶν ἔργων ᾖ τὸ ἀνθρώπων ἄρχειν , ἤν τις ἐπισταμένως τοῦτο πράττῃ .",
+        "por": "Contudo , quando observamos que existiu Ciro , o persa , que conservou numerosos homens obedientes a ele , numerosas cidades , numerosos povos , a partir de então fomos obrigados a mudar a opinião de que o governar os homens não é das tarefas nem impossíveis nem árduas , se alguém agir com habilidade .",
+        "alignment": "0-2S 1-0P 11-14S 12-12S 13-15S 14-16S 14-17S 16-19S 18-20S 2-3S 20-22S 22-23S 24-25S 24-26S 24-27S 24-28S 25-25S 25-26S 25-27S 25-28S 27-29S 27-30S 27-31P 28-31P 28-32S 28-33S 28-34S 29-41S 3-4S 30-45S 31-43P 32-46S 33-47S 35-48S 36-43P 36-44S 37-42P 38-37S 39-39P 39-40S 4-6S 40-38S 42-50S 43-51S 44-53S 44-54S 46-52S 5-5S 6-8P 6-9S 8-11S 9-13S"
+    },
+    {
+        "grc": "Κύρῳ γοῦν ἴσμεν ἐθελήσαντας πείθεσθαι τοὺς μὲν ἀπέχοντας παμπόλλων ἡμερῶν ὁδόν , τοὺς δὲ καὶ μηνῶν , τοὺς δὲ οὐδ᾽ ἑωρακότας πώποτ᾽ αὐτόν , τοὺς δὲ καὶ εὖ εἰδότας ὅτι οὐδ᾽ ἂν ἴδοιεν , καὶ ὅμως ἤθελον αὐτῷ ὑπακούειν .",
+        "por": "Ao menos , sabemos que a Ciro eram obedientes de bom grado , uns estando distantes uma marcha de numerosos dias , outros , de meses , e outros , ainda , que jamais o viram , e mesmo aqueles que bem sabiam que não o veriam , todavia , desejavam lhe obedecer .",
+        "alignment": "0-5S 0-6S 1-0P 1-1P 10-16S 10-17S 12-22S 13-22P 15-24S 15-25S 17-28S 18-28P 2-3S 20-32S 20-35S 21-33S 22-34S 24-39S 25-39P 26-38P 27-41S 28-40S 28-42S 29-43S 3-10S 3-11S 3-7P 3-9S 30-44S 31-46S 32-46S 35-48S 36-50S 37-51S 38-52S 4-7P 4-8S 5-13S 6-13P 7-14S 7-15S 8-19S 9-18S 9-20S"
+    },
+    {
+        "grc": "καὶ γάρ τοι τοσοῦτον διήνεγκε τῶν ἄλλων βασιλέων , καὶ τῶν πατρίους ἀρχὰς παρειληφότων καὶ τῶν δι᾽ ἑαυτῶν κτησαμένων , ὥσθ᾽ ὁ μὲν Σκύθης καίπερ παμπόλλων ὄντων Σκυθῶν ἄλλου μὲν οὐδενὸς δύναιτ᾽ ἂν ἔθνους ἐπάρξαι , ἀγαπῴη δ᾽ ἂν εἰ τοῦ ἑαυτοῦ ἔθνους ἄρχων διαγένοιτο , καὶ ὁ Θρᾷξ Θρᾳκῶν καὶ ὁ Ἰλλυριὸς Ἰλλυριῶν , καὶ τἆλλα δὲ ὡσαύτως ἔθνη ἀκούομεν τὰ γοῦν ἐν τῇ Εὐρώπῃ ἔτι καὶ νῦν αὐτόνομα εἶναι λέγεται καὶ λελύσθαι ἀπ᾽ ἀλλήλων : Κῦρος δὲ παραλαβὼν ὡσαύτως οὕτω καὶ τὰ ἐν τῇ Ἀσίᾳ ἔθνη αὐτόνομα ὄντα ὁρμηθεὶς σὺν ὀλίγῃ Περσῶν στρατιᾷ ἑκόντων μὲν ἡγήσατο Μήδων , ἑκόντων δὲ Ὑρκανίων , κατεστρέψατο δὲ Σύρους , Ἀσσυρίους , Ἀραβίους , Καππαδόκας , Φρύγας ἀμφοτέρους , Λυδούς , Κᾶρας , Φοίνικας , Βαβυλωνίους , ἦρξε δὲ Βακτρίων καὶ Ἰνδῶν καὶ Κιλίκων , ὡσαύτως δὲ Σακῶν καὶ Παφλαγόνων καὶ Μαγαδιδῶν , καὶ ἄλλων δὲ παμπόλλων ἐθνῶν , ὧν οὐδ᾽ ἂν τὰ ὀνόματα ἔχοι τις εἰπεῖν , ἐπῆρξε δὲ καὶ Ἑλλήνων τῶν ἐν τῇ Ἀσίᾳ , καταβὰς δ᾽ ἐπὶ θάλατταν καὶ Κυπρίων καὶ Αἰγυπτίων .",
+        "por": "Por isso distinguiu-se tanto dos outros reis , seja dos que receberam os governos dos pais , seja dos que o conquistaram por si mesmos , tanto que o rei Cita , embora numerosos fossem os citas , não conseguiria governar nenhum outro povo , e se consideraria satisfeito se continuasse governante dos próprios citas ; também o rei Trácio em relação aos trácios , o rei Ilírio em relação aos ilírios , e ouvimos o mesmo dos outros povos . Os da Europa , além disso , ainda hoje , se dizem autônomos e independentes uns dos outros . Ciro , encontrando os povos da Ásia do mesmo modo independentes , lançou-se com um pequeno exército de persas , e governou os medos , com o bom grado destes , e os hircanos , também com o bom grado destes , mas subjugou os sírios , assírios , árabes , capadócios , as duas frígias , os lídios , os cários , fenícios e babilônios ; dominou a Bactriânia , a Índia e a Cilícia , como também os sacas , os paflagônios e os magádidas , e outros numerosos povos , cujos nomes não se saberia dizer . Sujeitou também os gregos da Ásia e , descendo por mar , os cipriotas e os egípcios .",
+        "alignment": "1-0S 1-1S 10-9S 100-136S 100-138S 100-139S 101-131P 102-133S 104-143S 105-142S 106-145S 108-147S 11-14S 11-15S 110-149S 112-151S 114-155S 115-154S 117-158S 119-161S 12-13S 121-163S 123-165S 125-167S 127-169S 129-172S 13-10S 13-11S 130-173P 131-175S 133-177S 133-178S 135-180S 137-183S 139-186S 14-17S 141-188S 142-189S 144-190S 145-191S 147-193S 148-195S 149-196S 149-197S 15-18S 151-194S 152-196S 152-197S 153-196P 153-197P 154-198S 156-200S 158-201S 159-203S 16-22S 160-202P 161-204S 162-204S 163-205S 165-208S 166-206S 167-209S 168-210S 17-23S 17-24S 170-213S 172-216S 18-19S 18-21S 20-26S 20-27S 21-28S 23-30S 24-32S 25-33S 26-34S 27-36S 28-42S 3-3S 30-41S 31-39S 32-39S 33-43S 34-40S 36-46S 36-47S 36-48S 37-45S 38-46S 38-47S 38-48S 39-49S 4-2S 40-52S 41-53S 43-51S 44-50S 46-56S 47-57S 48-59S 49-63S 5-4S 51-65S 52-67S 53-71S 55-73S 56-78S 58-75S 58-76S 59-79S 6-5S 60-74S 61-81S 63-82P 64-82P 65-82P 65-83S 66-85S 66-86S 67-88S 68-89S 69-93S 7-6S 71-91S 71-92S 72-94S 73-95S 74-96S 74-97S 74-98S 75-96S 75-97S 75-98S 77-100S 79-102S 80-107S 80-108S 80-109S 83-103S 84-105S 85-105S 86-106S 87-104S 88-110S 89-112S 9-8S 90-112S 91-113S 92-115S 93-117S 93-118S 94-114S 94-116S 95-125S 95-127S 95-128S 97-121S 98-123S"
+    },
+    {
+        "grc": "ἡμεῖς μὲν δὴ ὡς ἄξιον ὄντα θαυμάζεσθαι τοῦτον τὸν ἄνδρα ἐσκεψάμεθα τίς ποτ᾽ ὢν γενεὰν καὶ ποίαν τινὰ φύσιν ἔχων καὶ ποίᾳ τινὶ παιδευθεὶς παιδείᾳ τοσοῦτον διήνεγκεν εἰς τὸ ἄρχειν ἀνθρώπων .",
+        "por": "Em vista desse homem ser digno de nossa admiração , refletimos qual era a sua origem , qual natureza possuía e em qual educação foi instruído , que a tal ponto o conduziram a governar os homens .",
+        "alignment": "0-7P 10-10S 11-11S 13-12S 14-13P 14-15S 16-17S 17-17P 18-18S 19-19S 20-20S 21-21S 21-22S 22-21P 22-22P 23-24S 23-25S 24-23S 25-27S 25-28S 25-29S 25-30S 26-32S 27-33S 29-34S 30-36S 4-5S 5-4S 6-6P 6-8S 7-2S 9-0P 9-1P 9-3S"
+    },
+    {
+        "grc": "ὅσα οὖν καὶ ἐπυθόμεθα καὶ ᾐσθῆσθαι δοκοῦμεν περὶ αὐτοῦ , ταῦτα πειρασόμεθα διηγήσασθαι .",
+        "por": "Portanto , quanto averiguamos e quanto julgamos ter compreendido sobre Ciro , tentaremos narrar detalhadamente .",
+        "alignment": "0-2S 1-0S 11-12S 12-13S 12-14S 3-3S 4-4S 5-7S 5-8S 6-6S 7-9S 8-10P"
+    },
+    {
+        "grc": "διὰ τοῦτο δὲ δημοσίᾳ τοῦ θηρᾶν ἐπιμέλονται , καὶ βασιλεὺς ὥσπερ καὶ ἐν πολέμῳ ἡγεμών ἐστιν αὐτοῖς καὶ αὐτός τε θηρᾷ καὶ τῶν ἄλλων ἐπιμελεῖται ὅπως ἂν θηρῶσιν , ὅτι ἀληθεστάτη αὐτοῖς δοκεῖ εἶναι αὕτη ἡ μελέτη τῶν πρὸς τὸν πόλεμον . καὶ γὰρ πρῲ ἀνίστασθαι ἐθίζει καὶ ψύχη καὶ θάλπη ἀνέχεσθαι , γυμνάζει δὲ καὶ ὁδοιπορίαις καὶ δρόμοις , ἀνάγκη δὲ καὶ τοξεῦσαι θηρίον καὶ ἀκοντίσαι ὅπου ἂν παραπίπτῃ .",
+        "por": "Em vista disso , organizam em nome do Estado a caça e o rei , como é chefe deles na guerra , também o é na caça , e cuida para que os outros cacem , porque esse exercício parece ser o mais propício para guerra , pois habitua a levantar cedo e a suportar o frio e o calor ; exercita nas caminhadas e nas corridas ; e é necessário lançar flechas e dardos numa fera quando ela surge de imprevisto .",
+        "alignment": "0-0S 0-1S 0-2S 1-0S 1-1S 1-2S 10-15S 12-19S 13-20S 14-17S 15-16S 16-18S 17-22S 18-23P 20-25S 20-26S 21-28S 22-32P 23-33S 24-29S 25-30S 25-31S 26-34S 27-34S 29-36S 3-5S 3-6S 3-7S 3-8S 30-38P 30-42P 30-43P 32-39S 33-40S 34-37P 35-41P 36-38P 36-42P 36-43P 38-44S 4-9S 40-45S 43-47S 44-51S 45-50S 46-48S 46-49P 47-52S 48-55P 48-56S 49-57S 5-10S 50-58P 50-59S 51-54S 53-61S 56-62S 56-63S 57-64S 58-65S 58-66S 6-4S 60-69S 60-70S 61-68P 63-71S 63-72S 63-73P 63-74P 64-75S 64-76S 65-74P 66-74P 67-77S 68-79S 68-80S 68-81S 69-79S 69-80S 69-81S 8-11S 9-12P 9-13S"
+    },
+    {
+        "grc": "καὶ τὴν ψυχὴν δὲ πολλάκις ἀνάγκη θήγεσθαι ὅταν τι τῶν ἀλκίμων θηρίων ἀνθιστῆται : παίειν μὲν γὰρ δήπου δεῖ τὸ ὁμόσε γιγνόμενον , φυλάξασθαι δὲ τὸ ἐπιφερόμενον : ὥστε οὐ ῥᾴδιον εὑρεῖν τί ἐν τῇ θήρᾳ ἄπεστι τῶν ἐν πολέμῳ παρόντων .",
+        "por": "E frequentemente é preciso excitar a alma quando alguém se coloca diante de uma fera robusta , pois , sem dúvida alguma , é preciso atacar quando ela se aproxima , e se proteger , quando ela ataca . De modo que não é fácil encontrar algo que , acontecendo na guerra , falte à caça .",
+        "alignment": "0-0P 1-5S 10-15S 11-14S 12-10S 12-11S 12-12P 12-9S 14-25S 16-17S 17-19S 17-20S 18-23S 18-24S 2-6S 20-28P 20-29P 21-26P 21-28S 21-29S 23-32S 23-33S 24-31P 25-35P 25-37P 26-35S 26-37S 28-39S 28-40S 28-41S 29-42S 30-44S 31-45S 32-46S 32-47P 33-54S 34-54S 35-55S 36-53S 37-49P 38-50S 39-51S 4-1S 40-47P 40-49S 5-2P 5-3S 6-4S 7-7S 8-13P 8-8P"
+    },
+    {
+        "grc": "φύσιν μὲν δὴ τῆς μορφῆς καὶ τῆς ψυχῆς τοιαύτην ἔχων διαμνημονεύεται : ἐπαιδεύθη γε μὴν ἐν Περσῶν νόμοις : οὗτοι δὲ δοκοῦσιν οἱ νόμοι ἄρχεσθαι τοῦ κοινοῦ ἀγαθοῦ ἐπιμελούμενοι οὐκ ἔνθενπερ ἐν ταῖς πλείσταις πόλεσιν ἄρχονται .",
+        "por": "Guarda-se a recordação de que tinha essa natureza de corpo e de alma . Certamente foi educado nas leis dos persas . Essas leis parecem começar dando a atenção ao bem público , não onde começam a maioria dos estados .",
+        "alignment": "0-7S 10-0S 10-1S 10-2S 12-15S 12-16S 13-14P 15-17S 16-19S 16-20S 17-18S 19-22S 21-24S 23-23S 24-25S 25-29S 26-31S 27-30S 28-26S 28-27S 28-28S 29-33S 30-34S 32-36S 33-37S 34-38S 34-39S 35-35S 4-8S 4-9S 5-10P 7-11S 7-12S 8-6S 9-3P 9-4S 9-5S"
+    },
+    {
+        "grc": "αἱ μὲν γὰρ πλεῖσται πόλεις ἀφεῖσαι παιδεύειν ὅπως τις ἐθέλει τοὺς ἑαυτοῦ παῖδας , καὶ αὐτοὺς τοὺς πρεσβυτέρους ὅπως ἐθέλουσι διάγειν , ἔπειτα προστάττουσιν αὐτοῖς μὴ κλέπτειν μηδὲ ἁρπάζειν , μὴ βίᾳ εἰς οἰκίαν παριέναι , μὴ παίειν ὃν μὴ δίκαιον , μὴ μοιχεύειν , μὴ ἀπειθεῖν ἄρχοντι , καὶ τἆλλα τὰ τοιαῦτα ὡσαύτως : ἢν δέ τις τούτων τι παραβαίνῃ , ζημίαν αὐτοῖς ἐπέθεσαν .",
+        "por": "Pois a maioria das cidades permite educar os filhos tal como se deseje , e aos próprios adultos levar a vida conforme desejem . Em seguida , ordenam a eles não roubar , nem furtar , nem invadir os domicílios , nem bater em quem não merece , nem cometer adultério , nem desobedecer a um magistrado e outras coisas desse tipo ; se alguém transgride alguma dessas leis , impõem punição a eles .",
+        "alignment": "0-1S 10-7S 12-8S 14-14S 15-16S 16-15S 17-17S 18-21S 19-22S 2-0S 20-18S 20-19S 20-20S 22-24S 22-25S 23-27S 24-28S 24-29S 25-30S 26-31S 27-33S 28-34S 3-2S 3-3P 30-36S 31-37S 33-39S 34-37S 36-41S 37-42S 38-43S 38-44S 39-45S 4-4S 40-46S 42-48S 43-49S 43-50S 45-52S 46-53S 47-54S 47-55S 47-56S 49-57S 5-5S 50-58S 50-59S 52-60S 52-61S 53-60S 53-61S 55-63S 57-64S 58-67S 59-66S 6-6S 60-65S 62-71S 63-72S 63-73S 64-70S 7-10S 7-9P 8-11P 9-11P 9-12S"
+    },
+    {
+        "grc": "οἱ δὲ Περσικοὶ νόμοι προλαβόντες ἐπιμέλονται ὅπως τὴν ἀρχὴν μὴ τοιοῦτοι ἔσονται οἱ πολῖται οἷοι πονηροῦ τινος ἢ αἰσχροῦ ἔργου ἐφίεσθαι .",
+        "por": "As leis persas , entretanto , agindo preventivamente , cuidam para que , desde o início , os cidadãos não sejam capazes de desejar alguma maldade ou ação vergonhosa .",
+        "alignment": "0-0S 1-4P 11-20S 12-17S 13-18S 14-21S 14-22P 15-25S 16-24S 17-26S 18-28S 19-27S 2-2S 20-22P 20-23S 3-1S 4-6S 4-7S 5-9S 6-10S 6-11S 7-13P 7-14S 7-15P 8-13P 8-14P 8-15S 9-19S"
+    },
+    {
+        "grc": "ἐπιμέλονται δὲ ὧδε . ἔστιν αὐτοῖς ἐλευθέρα ἀγορὰ καλουμένη , ἔνθα τά τε βασίλεια καὶ τἆλλα ἀρχεῖα πεποίηται .",
+        "por": "E cuidam dessa maneira : há para eles uma praça chamada Liberdade , onde foram construídos o palácio real e as outras magistraturas .",
+        "alignment": "0-1S 1-0S 10-13S 11-16S 13-17S 13-18S 14-19S 15-20S 15-21S 16-22S 17-14S 17-15S 2-2S 2-3S 4-5S 5-6S 5-7S 6-11S 7-8S 7-9S 8-10S"
+    },
+    {
+        "grc": "ἐντεῦθεν τὰ μὲν ὤνια καὶ οἱ ἀγοραῖοι καὶ αἱ τούτων φωναὶ καὶ ἀπειροκαλίαι ἀπελήλανται εἰς ἄλλον τόπον , ὡς μὴ μιγνύηται ἡ τούτων τύρβη τῇ τῶν πεπαιδευμένων εὐκοσμίᾳ .",
+        "por": "Desse lugar os mercadores , com seus produtos , gritarias e vulgaridades , foram expulsos , a fim de que a desordem não se misture com a decência daqueles que se educando .",
+        "alignment": "0-0S 0-1S 10-9S 11-10S 12-11S 13-13S 13-14S 18-16S 18-17S 18-18S 18-19S 19-22S 20-23S 20-24S 21-20S 23-21S 24-25S 24-26S 25-28S 25-29P 25-30P 25-31P 26-28P 26-29S 26-30S 26-31S 27-27S 3-5P 3-7S 5-2S 6-3S"
+    },
+    {
+        "grc": "ἄρχοντες δ᾽ ἐφ᾽ ἑκάστῳ τούτων τῶν μερῶν εἰσι δώδεκα : δώδεκα γὰρ καὶ Περσῶν φυλαὶ διῄρηνται .",
+        "por": "São doze os chefes à frente de cada uma dessas seções , pois em doze são divididas as tribos da Pérsia .",
+        "alignment": "0-2P 0-3S 10-13P 10-14S 11-12S 13-19S 13-20S 14-17P 14-18S 15-15S 15-16S 2-4S 2-5S 2-6P 3-6P 3-7S 3-8P 4-9S 5-9P 6-10S 7-0S 8-1S"
+    },
+    {
+        "grc": "καὶ ἐπὶ μὲν τοῖς παισὶν ἐκ τῶν γεραιτέρων ᾑρημένοι εἰσὶν οἳ ἂν δοκῶσι τοὺς παῖδας βελτίστους ἀποδεικνύναι : ἐπὶ δὲ τοῖς ἐφήβοις ἐκ τῶν τελείων ἀνδρῶν οἳ ἂν αὖ τοὺς ἐφήβους βελτίστους δοκῶσι παρέχειν : ἐπὶ δὲ τοῖς τελείοις ἀνδράσιν οἳ ἂν δοκῶσι παρέχειν αὐτοὺς μάλιστα τὰ τεταγμένα ποιοῦντας καὶ τὰ παραγγελλόμενα ὑπὸ τῆς μεγίστης ἀρχῆς : εἰσὶ δὲ καὶ τῶν γεραιτέρων προστάται ᾑρημένοι , οἳ προστατεύουσιν ὅπως καὶ οὗτοι τὰ καθήκοντα ἀποτελῶσιν .",
+        "por": "Para o comando dos meninos são escolhidos , dentre os mais velhos , aqueles que parecem capazes de tornar os meninos melhores . À frente dos efebos , por outro lado , aqueles entre os adultos que , por sua vez , pareçam capazes de tornar os efebos melhores . No comando dos adultos , aqueles que forem considerados capazes de proporcionar a eles o melhor , cumprindo as ordens e as determinações do poder supremo . São também escolhidos os chefes para os mais velhos , que tomam medidas necessárias para que esses cumpram as coisas estabelecidas .",
+        "alignment": "1-0P 1-1P 1-2P 1-3S 1-4P 10-13S 10-14P 11-14P 11-15S 11-16P 11-17P 12-14P 12-15S 12-16P 12-17P 13-19S 14-20S 15-21S 16-18S 18-23S 18-24S 18-25P 19-28P 19-29P 19-30P 20-23P 20-24P 20-25S 21-26S 22-33S 22-34P 23-33P 23-34S 24-35P 25-35S 26-32S 26-36P 27-36P 27-42S 27-43P 27-44P 28-38S 28-39S 28-40S 29-46S 3-0P 3-1P 3-2P 3-3S 3-4P 30-47S 31-48S 32-36P 32-42S 32-43P 32-44P 33-45S 35-50P 35-51P 35-52S 37-50P 37-51P 37-52S 38-53S 39-53S 4-0P 4-1P 4-2P 4-3P 4-4S 40-55S 40-56P 41-56P 41-57S 41-58S 41-59S 41-60S 42-56P 42-57S 42-58S 42-59S 42-60S 43-61S 44-62S 44-63S 45-64P 45-65S 46-68S 47-69S 48-67S 49-70S 5-8S 5-9P 50-71S 51-72S 52-73S 53-73S 54-75S 55-74S 57-77S 59-78S 6-8P 6-9S 60-83S 61-82P 61-84S 61-85S 62-80P 62-81S 63-79S 65-87S 66-88S 66-89S 66-90S 67-91S 67-92S 69-93S 7-10S 7-11S 70-95S 70-96P 71-96P 71-97S 72-94S 8-6S 9-5S"
+    },
+    {
+        "grc": "ἃ δὲ ἑκάστῃ ἡλικίᾳ προστέτακται ποιεῖν διηγησόμεθα , ὡς μᾶλλον δῆλον γένηται ᾗ ἐπιμέλονται ὡς ἂν βέλτιστοι εἶεν οἱ πολῖται .",
+        "por": "O que a cada idade é ordenado fazer , contaremos detalhadamente , a fim de que se torne mais evidente como eles cuidam para que os cidadãos sejam melhores .",
+        "alignment": "0-0S 0-1S 10-19S 11-16S 11-17S 12-20S 13-22S 14-23S 14-24S 15-27S 16-28S 17-27S 18-25S 19-26S 2-2S 2-3S 3-4S 4-5S 4-6S 5-7S 6-10S 6-9S 8-12S 8-13S 8-14S 8-15S 9-18S"
+    },
+    {
+        "grc": "κολάζουσι δὲ καὶ ὃν ἂν ἀδίκως ἐγκαλοῦντα εὑρίσκωσι .",
+        "por": "Castigam também se acaso descobrirem que eles estão acusando injustamente .",
+        "alignment": "0-0S 2-1S 3-5P 3-6P 4-2S 4-4P 5-9S 6-5P 6-6P 6-7S 6-8S 7-2P 7-4S"
+    },
+    {
+        "grc": "δικάζουσι δὲ καὶ ἐγκλήματος οὗ ἕνεκα ἄνθρωποι μισοῦσι μὲν ἀλλήλους μάλιστα , δικάζονται δὲ ἥκιστα , ἀχαριστίας , καὶ ὃν ἂν γνῶσι δυνάμενον μὲν χάριν ἀποδιδόναι , μὴ ἀποδιδόντα δέ , κολάζουσι καὶ τοῦτον ἰσχυρῶς .",
+        "por": "Julgam , ainda , a falta que , por causa dela , os homens se odeiam bem mais , mas processam menos : a ingratidão . Pois se observam que alguém , podendo expressar gratidão , não expressa , punem -no com severidade .",
+        "alignment": "0-0S 10-16S 10-17S 12-20S 13-19S 14-21S 16-24S 19-29P 2-2S 20-27S 21-28S 22-32S 24-33P 24-34S 25-33S 25-34P 27-36S 28-37S 3-4P 3-5S 3-6P 31-39S 33-40S 34-41S 34-42S 4-10P 4-6P 5-8S 5-9S 6-13S 7-15S 9-14S"
+    },
+    {
+        "grc": "οἴονται γὰρ τοὺς ἀχαρίστους καὶ περὶ θεοὺς ἂν μάλιστα ἀμελῶς ἔχειν καὶ περὶ γονέας καὶ πατρίδα καὶ φίλους .",
+        "por": "Creem , pois , que os ingratos são mais negligentes com os deuses , com os familiares , com a pátria e com os amigos .",
+        "alignment": "0-0S 1-2S 10-7S 12-14S 13-16S 15-20S 16-21S 17-24S 2-5S 3-6S 5-10S 6-12S 7-7P 8-8S 9-9S"
+    },
+    {
+        "grc": "ἕπεσθαι δὲ δοκεῖ μάλιστα τῇ ἀχαριστίᾳ ἡ ἀναισχυντία : καὶ γὰρ αὕτη μεγίστη δοκεῖ εἶναι ἐπὶ πάντα τὰ αἰσχρὰ ἡγεμών .",
+        "por": "Entretanto , nada parece estar mais junto da ingratidão do que a impudência , pois esta parece ser de todas as vergonhas a guia .",
+        "alignment": "0-4S 0-6S 1-0S 10-14S 11-15S 13-16S 14-17S 15-18S 16-19S 17-20S 18-21S 19-23S 2-3S 3-5S 4-7S 5-8S 6-10S 6-9S 7-12S"
+    },
+    {
+        "grc": "διδάσκουσι δὲ τοὺς παῖδας καὶ σωφροσύνην : μέγα δὲ συμβάλλεται εἰς τὸ μανθάνειν σωφρονεῖν αὐτοὺς ὅτι καὶ τοὺς πρεσβυτέρους ὁρῶσιν ἀνὰ πᾶσαν ἡμέραν σωφρόνως διάγοντας .",
+        "por": "Ensinam ainda aos meninos a temperança , e contribui muito para aprender a ser moderado que observem os mais velhos ao longo de todo o dia , vivendo com moderação .",
+        "alignment": "0-0S 10-10P 12-11S 12-12P 13-13P 13-14P 15-15S 17-17S 18-18S 18-19S 19-16S 2-2S 20-20S 20-21S 20-22P 21-23S 22-24P 22-25S 23-28S 23-29S 24-27S 3-3S 4-1P 5-4P 5-5S 7-9S 8-7P 9-8S"
+    },
+    {
+        "grc": "διδάσκουσι δὲ αὐτοὺς καὶ πείθεσθαι τοῖς ἄρχουσι : μέγα δὲ καὶ εἰς τοῦτο συμβάλλεται ὅτι ὁρῶσι τοὺς πρεσβυτέρους πειθομένους τοῖς ἄρχουσιν ἰσχυρῶς .",
+        "por": "Ensinam também a eles a obedecer aos chefes , e muito contribui para isso que eles observem os mais velhos obedecendo aos chefes com rigor .",
+        "alignment": "0-0S 0-4P 10-9P 11-12S 12-13S 13-11S 14-14S 15-16S 16-17S 17-18S 17-19S 18-20S 19-21S 2-2S 2-3S 20-22S 21-23S 21-24S 3-1S 4-5S 5-6S 6-7S 8-10S 9-9P"
+    },
+    {
+        "grc": "διδάσκουσι δὲ καὶ ἐγκράτειαν γαστρὸς καὶ ποτοῦ : μέγα δὲ καὶ εἰς τοῦτο συμβάλλεται ὅτι ὁρῶσι τοὺς πρεσβυτέρους οὐ πρόσθεν ἀπιόντας γαστρὸς ἕνεκα πρὶν ἂν ἀφῶσιν οἱ ἄρχοντες , καὶ ὅτι οὐ παρὰ μητρὶ σιτοῦνται οἱ παῖδες , ἀλλὰ παρὰ τῷ διδασκάλῳ , ὅταν οἱ ἄρχοντες σημήνωσι .",
+        "por": "Ensinam , além disso , a moderação no beber e no comer , e muito contribui para isso que eles observem os mais velhos não saindo para comer antes que os chefes os liberem , e também que os meninos não se alimentem junto das mães , mas dos mestres , quando as autoridades determinem .",
+        "alignment": "0-0S 1-2S 1-3S 10-13P 11-16S 12-17S 13-15S 14-18S 15-20S 16-21S 17-22S 17-23S 18-24S 18-28P 18-29P 19-24P 19-28P 19-29P 2-2S 2-3S 20-25S 20-26P 20-27P 21-25P 21-26S 21-27S 23-24P 23-28S 23-29P 24-29P 24-33S 25-29P 25-33S 26-30S 27-31S 29-35P 29-36P 3-5P 3-6S 30-37S 31-40S 32-43S 32-44P 33-44P 33-45S 34-41S 34-42S 35-38S 36-39S 38-47S 4-10P 4-11P 4-7P 4-8P 40-48S 41-49S 43-51S 44-52S 45-53S 46-54S 5-9S 6-10P 6-11P 6-7P 6-8P 8-14S 9-13P"
+    },
+    {
+        "grc": "φέρονται δὲ οἴκοθεν σῖτον μὲν ἄρτον , ὄψον δὲ κάρδαμον , πιεῖν δέ , ἤν τις διψῇ , κώθωνα , ὡς ἀπὸ τοῦ ποταμοῦ ἀρύσασθαι .",
+        "por": "Trazem de casa pão de trigo , tempero e agrião , e para beber , se alguém tem sede , uma grande taça , para tirar água do rio .",
+        "alignment": "0-0S 11-12S 11-13S 12-11P 14-15S 15-16S 16-17S 16-18S 18-20S 18-21S 18-22S 2-1S 2-2S 20-24S 21-27P 22-27S 23-28S 24-25S 24-26P 3-4S 3-5S 5-3S 7-7S 8-8S 9-9S"
+    },
+    {
+        "grc": "πρὸς δὲ τούτοις μανθάνουσι καὶ τοξεύειν καὶ ἀκοντίζειν .",
+        "por": "Ademais , aprendem a atirar com arco e flecha e a lançar dardos .",
+        "alignment": "0-0S 1-0P 2-0P 3-2P 3-3P 5-4S 5-5S 5-6S 5-7S 5-8S 6-9S 7-11S 7-12S"
+    },
+    {
+        "grc": "μέχρι μὲν δὴ ἓξ ἢ ἑπτακαίδεκα ἐτῶν ἀπὸ γενεᾶς οἱ παῖδες ταῦτα πράττουσιν , ἐκ τούτου δὲ εἰς τοὺς ἐφήβους ἐξέρχονται .",
+        "por": "Os meninos fazem isso até os dezessete anos de idade , após isso eles passam para a classe dos efebos .",
+        "alignment": "0-4S 10-1S 11-3S 12-2S 14-11S 14-12P 15-11P 15-12S 17-14P 17-15S 18-16S 19-17S 19-18S 19-19S 20-14S 20-15P 5-5P 5-6S 6-7S 6-8P 6-9P 7-8P 8-9P 9-0S"
+    },
+    {
+        "grc": "οὗτοι δ᾽ αὖ οἱ ἔφηβοι διάγουσιν ὧδε . δέκα ἔτη ἀφ᾽ οὗ ἂν ἐκ παίδων ἐξέλθωσι κοιμῶνται μὲν περὶ τὰ ἀρχεῖα , ὥσπερ προειρήκαμεν , καὶ φυλακῆς ἕνεκα τῆς πόλεως καὶ σωφροσύνης : δοκεῖ γὰρ αὕτη ἡ ἡλικία μάλιστα ἐπιμελείας δεῖσθαι : παρέχουσι δὲ καὶ τὴν ἡμέραν ἑαυτοὺς τοῖς ἄρχουσι χρῆσθαι ἤν τι δέωνται ὑπὲρ τοῦ κοινοῦ .",
+        "por": "Os efebos , por sua vez , passam o tempo dessa maneira : ao saírem da classe dos meninos , por dez anos dormem em torno das magistraturas , como predissemos , para proteger tanto a cidade quanto a prudência , pois essa idade parece ter necessidade de mais diligência . Durante o dia , se colocam a disposição das autoridades , no caso de alguma necessidade em favor da comunidade .",
+        "alignment": "0-10P 0-11P 12-13S 12-14S 13-15S 13-16P 13-17P 13-18P 14-15P 14-16S 14-17S 14-18S 15-13S 15-14S 16-23S 18-24S 18-25S 18-26P 19-24P 19-25P 19-26S 2-3S 2-4S 2-5S 20-27S 22-29S 23-30S 26-32P 26-33S 27-32P 27-34P 28-35S 29-36S 3-0S 30-37P 31-38P 31-39S 33-44S 34-41S 35-42S 37-43S 38-48S 39-47P 39-49S 4-1S 40-45S 40-46S 40-47P 42-56S 42-57P 42-58P 45-51P 45-52S 45-53P 46-51S 46-52P 46-53S 47-55S 48-59S 49-60S 5-7S 5-8S 5-9S 50-57P 50-58P 51-62S 51-63S 51-64S 52-65S 53-66S 54-67S 54-68S 54-69P 55-67P 55-68P 55-69S 56-70S 6-10S 6-11S 8-21S 9-22S"
+    },
+    {
+        "grc": "καὶ ὅταν μὲν δέῃ , πάντες μένουσι περὶ τὰ ἀρχεῖα : ὅταν δὲ ἐξίῃ βασιλεὺς ἐπὶ θήραν , ἐξάγει τὴν ἡμίσειαν τῆς φυλακῆς : ποιεῖ δὲ τοῦτο πολλάκις τοῦ μηνός .",
+        "por": "E quando é preciso , todos permanecem ao redor das magistraturas . Quando o rei sai à caça , leva metade dos guardas e faz isso muitas vezes no mês .",
+        "alignment": "0-0S 1-1S 11-12S 13-15S 14-13P 14-14S 15-16S 16-17S 18-19S 20-20S 21-21S 22-22S 24-24S 25-23P 26-25S 27-26S 27-27S 28-28S 29-29S 3-2S 3-3S 5-5S 6-6S 7-7S 7-8S 7-9P 8-7P 8-8P 8-9S 9-10S"
+    },
+    {
+        "grc": "ἔχειν δὲ δεῖ τοὺς ἐξιόντας τόξα καὶ παρὰ τὴν φαρέτραν ἐν κολεῷ κοπίδα ἢ σάγαριν , ἔτι δὲ γέρρον καὶ παλτὰ δύο , ὥστε τὸ μὲν ἀφεῖναι , τῷ δ᾽ , ἂν δέῃ , ἐκ χειρὸς χρῆσθαι .",
+        "por": "Os que vão necessitam de arcos e flechas , e junto com a aljava , na bainha a espada ou um machado , além de um escudo e duas lanças , uma para arremessar e a outra , caso seja necessário , para atacar com as mãos .",
+        "alignment": "0-3P 0-4P 10-15S 11-16S 12-17P 12-18S 13-19S 14-20S 14-21S 16-23S 16-24S 18-25S 18-26S 19-27S 2-3S 2-4P 20-29S 21-28S 23-32S 24-31S 25-31P 26-33S 28-34P 28-35S 28-36S 29-34P 29-35P 29-36P 3-0S 31-38S 31-39P 31-40P 32-38P 32-39S 32-40S 34-44P 35-45P 35-46S 36-43P 4-1S 4-2S 5-5S 5-6S 5-7S 6-9S 7-10S 7-11P 8-12S 9-13S"
+    }
+]
