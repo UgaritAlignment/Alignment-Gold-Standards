@@ -1,0 +1,502 @@
+[
+    {
+        "grc": "Οὐχ Ἡρόδοτος Σόλωνα σοφιστὴν κέκληκεν ; οὐ Πυθαγόραν πάλιν ; οὐκ Ἀνδροτίων τοὺς ἑπτὰ σοφιστὰς προσείρηκε ; λέγω δὴ τοὺς σοφούς",
+        "por": "Nonne Herodotus Solonem sophistam vocavit ? nonne Pythagoram eodem nomine ? nonne Androtio septem illos sophistas appellavit ? Sapientes ego dico",
+        "alignment": "8-8P 4-4S 12-14S 11-12S 14-15S 2-2S 13-13S 0-0S 3-3S 17-19P 18-19P 17-20S 8-9P 10-11S 6-6S 15-16S 1-1S 7-7S 20-18S"
+    },
+    {
+        "grc": "Τὰς περὶ τῶν κατ ̓ Αἴγυπτον θεῶν δόξας Ἀπίωνος ἔχοντες παρ ̓ ἑαυτοῖς , ὡς ἀθεωτάτους ἡμᾶς ἐκκηρύσσετε",
+        "por": "Apionis de diis Aegyptiis opiniones foventes , tanquam impiissimos nos clamoribus vestris exagitis",
+        "alignment": "15-8S 14-7S 6-2S 17-10S 12-5P 17-11P 16-9S 10-5P 17-12S 7-4S 9-5S 5-3S 1-1S 8-0S 3-3P"
+    },
+    {
+        "grc": "Ἄρειος πάγος ἀκρωτηριον Ἀθήνησιν , ὡς Ἀπολλόδωρος ἐν τῷ περὶ Θεῶν ἐννάτῳ , ἐν ᾧ τὰς φονικὰς κρίσεις ἐδίκαζον διὰ τὰς ἀπὸ τοῦ σιδήρου γιγνομένας μιαιφονίας",
+        "por": "Areopagus , collis in urbe Athenarum , teste Apollodoro libro nono de Diis , ubi sententiam capitis de homicidiis ferro perpetratis pronuntiabant",
+        "alignment": "16-16S 3-5S 1-0S 3-4S 11-10S 2-2S 21-19S 23-19S 5-7S 14-14S 13-14S 0-0S 3-3S 6-8S 17-16P 10-12S 18-21S 17-15S 24-20S 25-18S 25-17P 16-15P 19-17P 9-11S"
+    },
+    {
+        "grc": "Παροπάμισσος , πόλεως ὄρος Ἰνδικῆς , ἀφ ̓ οὗ Παροπαμισσάδαι οἱ παροικοῦντες Ἀπολλόδωρος δὲ ἐν δευτέρῳ Περὶ γῆς ἀπ ̓ αὐτῶν φησι τὸ ὄρος κεκλῆσθαι",
+        "por": "Paropamissus , mons urbis Indicae , a quo , qui juxta habitant , Paropamissadae dicti Apollodorus autem secundo de Terra , ab ipsis ait montem esse appellatum",
+        "alignment": "10-9P 16-18S 4-4S 9-13S 17-19S 11-10S 24-25S 8-7S 0-0S 24-26S 13-16S 3-2S 18-21S 2-3S 11-9P 21-23S 11-11S 6-6S 15-17S 20-22S 23-24S 12-15S"
+    },
+    {
+        "grc": "Ἀπὸ τῆς Ὑρκανίας ἐπὶ τὴν Ἀρτεμίταν τὴν ἐν τῇ Βαβυλωνίᾳ στάδιοί εἰσιν ὀκτακισχίλιοι , καθάπερ εἴρηκεν Ἀπολλόδωρος ἐκ τῆς Ἀρτεμίτας",
+        "por": "Ab Hyrcania ad Artemitam Babyloniae stadiorum sunt octo millia , ut Apollodorus ex Artemita ait",
+        "alignment": "15-14S 9-4S 14-10S 3-2S 12-8S 11-6S 0-0S 19-13P 10-5S 2-1S 17-12S 12-7S 7-4P 5-3S 16-11S"
+    },
+    {
+        "grc": "Οἱ δὲ αὐτὸν ἐπὶ ξενίᾳ καλέσαντες , σφάξαντες ἕνα τῶν ἐπιχωρίων παῖδα , τοῖς ἱεροῖς τὰ τούτου σπλάγχνα συναναμίξαντες , παρέθεσαν , συμβουλεύσαντος τοὺ πρεσβυτέρου ἀδελφοῦ Μαινάλου",
+        "por": "Tum hi invitantes eum hospitio , e conterraneis puerum quendam jugulaverunt , cujus viscera cum victimarum carne commixta , Maenali fratris natu maximi suasu , in epulo ei apposuerunt",
+        "alignment": "22-23S 10-7S 4-4S 5-2S 20-28P 1-0S 11-8S 14-28P 14-15S 14-16S 18-17S 24-22S 26-19S 7-10S 8-9S 24-21S 2-3S 25-20S 3-4P 10-6S 0-1S 16-12S 17-13S 20-23P"
+    },
+    {
+        "grc": "Δέκατον δὲ ἐπετάγη ἆθλον , τὰς Γηρυόνου βόας ἐξ Ἐρυθείας κομίζειν Ἐρύθεια δὲ ἦν Ὠκεανοῦ πλησίον κειμένη νῆσος , ἣ νῦν Γάδειρα καλεῖται",
+        "por": "Decimus ei labor impositus est hic , ut Geryonia boves ex Erythia abigeret Erythia insula erat prope ad Oceanum sita , quae nunc Gadira vocatur",
+        "alignment": "8-10S 16-19S 2-4S 0-0S 2-7P 6-8S 13-15S 14-18S 3-2S 7-9S 10-12S 2-3S 17-14S 22-24S 21-23S 11-13S 15-16S 15-17S 20-22S 9-11S 19-21S"
+    },
+    {
+        "grc": "Αἰσθόμενος δὲ ὁ κύων ἐπ ̓ αὐτὸν ὥρμα ὁ δὲ καὶ τοῦτον τῷ ῥοπάλῳ παίει , καὶ τὸν βουκόλον Εὐρυτίωνα τῷ κυνὶ βοηθοῦντα ἀπέκτεινε",
+        "por": "Id sentiens canis in eum irruit Ille vero et hunc clava percussit , et Eurytionem bubulcum cani opem ferentem necavit",
+        "alignment": "21-16S 4-3S 8-6S 23-19S 16-13S 3-2S 7-5S 22-18S 9-7S 11-9S 13-10S 14-11S 0-1S 18-15S 10-8S 22-17S 6-4S 19-14S"
+    },
+    {
+        "grc": "Παριὼν δὲ Ἀραβίαν , Ἠμαθίωνα κτείνει παῖδα Τιθωνοῦ Καὶ διὰ τῆς Λιβύης πορευθεὶς ἐπὶ τὴν ἔξω θάλασσαν , καταπλεῖ οὗ τὸ δέπας καταλαμβάνει",
+        "por": "Hinc profectus Arabiam Emathionem occidit filium Tithoni Et per Libyam pergens ad mare exterius , ubi a Sole scyphum accepit , navigationem fecit",
+        "alignment": "2-2S 4-3S 13-11S 6-5S 18-22S 11-9S 8-7S 0-1S 16-12S 18-21S 19-15S 21-18S 12-10S 22-19S 15-13S 5-4S 9-8S 7-6S"
+    },
+    {
+        "grc": "Ἀναδιδάσας οὖν ἑαυτὸν ὁ Βελλεροφόντης ἐπὶ τὸν Πήγασον , ὃν εἶχεν ἵππον ἐκ Μεδούσης πτηνὸν γεγεννημένον καὶ Ποσειδῶνος , ἀρθεὶς εἰς ὕψος , ἀπὸ τούτου κατετόξευσε τὴν Χίμαιραν",
+        "por": "Conscenso igitur Pegaso , quem Medusa ac Neptuno satum et aligerum equum habebat Bellerophon , sublatus in altura , ex eo Chimaeram sagittis confecit",
+        "alignment": "15-8S 9-4S 27-21S 19-15S 23-19S 4-13S 0-0S 16-6S 7-2S 25-23S 14-10S 10-12S 2-0P 17-7S 21-17S 13-5S 24-20S 12-5S 5-2P 25-22S 20-16S 11-11S 1-1S"
+    },
+    {
+        "grc": "Τούτων Ἀερόπην μὲν ἔγημε Πλεισθένης , καὶ παῖδας Ἀγαμέμνονα καὶ Μενέλαον ἔτεκε Κλυμένην δὲ γαγεῖ Ναύπλιος , καὶ τέκνων πατὴρ γίνεται Οἴακος καὶ Παλαμήδους",
+        "por": "Harum Aeropen uxorem duxit Plisthenes , ex eaque Agamemnonem et Menelaum procreavit Clymencn in matrimonium sumsit Nauplius , cui filii nati sunt Oiax et Palamedes",
+        "alignment": "22-23S 20-20P 4-4S 9-9S 8-8S 14-13S 14-15S 14-14S 0-0S 3-3S 3-2S 21-22S 20-21S 18-19S 11-11S 10-10S 12-12S 15-16S 1-1S 23-24S"
+    },
+    {
+        "grc": "Οὗτος Πιτυοκάμπτης ἐπεκαλεῖτο Οἰκῶν γὰρ τὸν Κορινθίων ἰσθμὸν , ἠνάγκαζε τοὺς παριόντας πίτυς κάμπτοντας ( κάμπτων αὐτὰς ? ) ἀνέχεσθαι",
+        "por": "Hic Pityocamptes cognominatus est Nam in Corinthiorum isthmo agens praetereuntes cogebat , ut quas ipse pinus inflexerat , inflexas tenerent",
+        "alignment": "19-19S 4-4S 6-7P 15-18P 15-16P 2-2S 13-18P 11-9S 0-0S 16-13P 7-5S 9-10S 2-3S 9-12P 3-8S 13-16P 6-6S 6-5P 7-6P 1-1S 7-7S 12-15S"
+    },
+    {
+        "grc": "Κατρεὺς δὲ ὕστερον γήρᾳ κατεχόμενος , ἐπόθει τὴν βασιλείαν Ἀλθημένει τῷ παιδὶ παιδὶ παραδοῦναι , καὶ διὰ τοῦτο ἦλθεν εἰς Ῥόδον",
+        "por": "Postea Catreus senio coufectus Althemeni filio regnum tradere cupiebat , et propterea profectus eslin Rhodum",
+        "alignment": "18-12S 4-3S 8-6S 9-4S 20-14S 2-0S 3-2S 17-11S 0-1S 13-7S 6-8S 11-5S 15-10S 16-11S"
+    },
+    {
+        "grc": "Καὶ κτείνας μετὰ τῶν παίδων Αὐγέαν , κατήγαγε Φυλέα , καὶ τούτῳ τὴν βασιλείαν ἔδωκεν",
+        "por": "occisoque cum filiis Augea reduxit Phyleum , eique regnum tradidit",
+        "alignment": "11-7S 10-7S 8-5S 14-9S 4-2S 0-0S 2-1S 7-4S 13-8S 5-3S 1-0S"
+    },
+    {
+        "grc": "Μὴ χρησμῳδούσης δὲ αὐτῷ τῆς Πυθίας , τόν τε ναὸν συλᾷν ἤθελε , καὶ τὸν τρίποδα βαστάσας , κατασκευάζει μαντεῖον ἴδιον",
+        "por": "Cui quum Pythia nihil responderet , templum spoliare molitus est , et ablato tripode , proprium sibi oraculum instituere voluit",
+        "alignment": "10-7S 18-18P 13-11S 9-6S 0-3S 19-17S 11-9S 16-12S 15-13S 5-2S 20-15S 3-0S 1-1S 1-4S 11-8S 18-19S"
+    },
+    {
+        "grc": "Τινὲς δὲ Ἀσκληπιὸν οὐκ ἐξ Ἀρσινόης τῆς Λευκίππου λέγουσιν , ἀλλ ̓ ἐκ Κορωνίδος τῆς Φλεγύου ἐν Θεσσαλίᾳ Καί φασιν ἐρασθῆναι ταύτης Ἀπόλλωνα , καὶ εὐθέως συνελθεῖν",
+        "por": "Nonnulli vero Aesculapium non ex Arsinoe , Leucippi filia , natum dicunt , sed ex Coronide , Phlegyae , in Thessalia ; atque hujus amore captum Apollinem ajunt statim cum ea concubuisse",
+        "alignment": "4-4S 19-27S 12-14S 22-26S 16-19S 2-2S 25-28S 0-0S 3-3S 26-31S 20-25S 13-15S 8-11S 10-13S 17-20S 21-23S 18-22S 20-24S 5-5S 15-17S 1-1S 7-7S"
+    },
+    {
+        "grc": "Αὐτονόης δὲ καὶ Ἀρισταίου παῖς Ἀκταίων ἐγένετο , ὃς τραφεὶς παρὰ Χείρωνι κυνηγὸς ἐδιδάχθη , καὶ ὕστερον κατεβρώθη ἐν τῷ Κιθαιρῶνι ὑπὸ τῶν ἰδίων κυνῶν",
+        "por": "Autonoes et Aristaei filius fuit Actaeon , qui a Chirone educatus et venationem edoctus postea a suis ipsius canibus in Cithaerone devoratus est",
+        "alignment": "20-20S 23-17P 13-13S 17-22S 11-9S 8-7S 0-0S 4-3S 16-14S 3-2S 21-15S 9-10S 24-18S 17-21S 18-19S 12-12S 2-1S 10-8S 6-4S 23-16S 5-5S"
+    },
+    {
+        "grc": "Καὶ τοῦτον ἐτελεύτησε τὸν τρόπον , ὡς μὲν οὖν Ἀκουσίλαος λέγει , μηνίσαντος τοῦ Διὸς , ὅτι ἐμνηστεύσατο Σεμέλην",
+        "por": "Atque huuc in modum finivit , secundum Acusilaum , Jovis ira , quod Semeles nuptias ambiisset ;",
+        "alignment": "18-13S 4-3S 9-7S 14-9S 4-2P 0-0S 16-12S 6-6S 12-10S 17-15S 1-1S 17-14S 2-4S"
+    },
+    {
+        "grc": "Ὡς δὲ ἐτελειώθη ἔνδον ἐν Βενθεσικύμης , ὁ ἀνὴρ τὴν ἑτέραν αὐτῷ τῶν θυγατέρων δίδωσιν",
+        "por": "Qui ubi apud Benthesicymen adoleverat , ejus maritus ipsi alteram e filiabus in matrimonium dedit",
+        "alignment": "14-12S 13-11S 3-2P 14-14S 8-7S 4-2S 0-1S 14-13S 5-3S 11-8S 2-4S 10-9S 13-10P"
+    },
+    {
+        "grc": "Ἐρεχθεῖ δὲ ὑπὲρ Ἀθηναίων νίκης χρωμένῳ , ἔχρησεν ὁ θεὸς κατορθώσειν τὸν πόλεμον , ἐὰν μίαν τῶν θυγατέρων σφάξῃ",
+        "por": "Verum Erechtheo de Atheniensium victoria sciscitanti deus respondit , felici successu bellum gesturum , si filiarum unam mactaverit",
+        "alignment": "2-2S 17-15S 4-4S 9-6S 14-14S 10-10S 0-1S 3-3S 10-12S 18-17S 5-5S 1-0S 12-11S 7-7S 10-9S 15-16S"
+    },
+    {
+        "grc": "Τὸ δὲ τῆς Στυγὸς ὕδωρ ἐκ πέτρας ἐν Ἅδου Ζεὺς ἐποίησεν ὅρκον , ταύτην αὐτῇ τιμὴν διδοὺς , ἀνθ ̓ ὧν αὐτῷ κατὰ Τιτάνων μεετὰ τῶν παίδων δυνεμάχησε",
+        "por": "Stygis vero aquam , de scopulo per inferorum loca fluentem , Jupiter jurisjurandi religione decoravit , quod ipsi contra Titanas una cum filiis opem tulisset",
+        "alignment": "4-2S 8-8S 7-8P 26-22S 23-19S 11-12P 8-7S 7-7P 22-18P 21-17P 18-18P 24-20P 24-21S 5-4S 10-12P 7-6S 6-5S 27-24S 27-23S 8-6P 3-0S 1-1S 9-11S"
+    },
+    {
+        "grc": "Μαθὼν δὲ Πρίαμος παρ ̓ Ἑκάβης τὸν ὄνειρον , Αἴσακον τὸν υἱὸν μετεπέμψατο ἦν γὰρ ὀνειροκρίτης παρὰ τοῦ μητροπάτορος Μέροπος διδαχθείς",
+        "por": "Quod somnium quum ex Hecuba Priamus audiisset , Aesacum filium arcessivit Erat enim somniorum interpres , a Merope avo materno edoctus",
+        "alignment": "14-12S 18-18S 20-20S 16-16S 13-11S 0-2S 7-1S 19-17S 11-9S 3-3S 6-0P 12-10S 15-13S 5-4S 9-8S 18-19S 15-14S 2-5S 0-6S"
+    },
+    {
+        "grc": "Γενομένων δὲ τούτων , εὐμχούμενος παρὰ Οἰνεῖ , κονδύλῳ πλήξας ἀπέκτεινεν Ἀρχιτέλου παῖδα Εὔνομον κατὰ χειρῶν διδόντα συγγενὴς δὲ Οἰνέως οὗτος",
+        "por": "Quibus factis , quum apud Oeneum in convivio esset , pugno percussum Eunomum , Architelis filium , aquam manibus infundentem occidit Hic Oeneo propinquus erat",
+        "alignment": "4-6S 4-8S 8-10S 16-19S 10-20S 19-22S 4-3S 2-0S 14-18S 4-7S 13-12S 5-4S 20-21S 11-14S 6-5S 15-18S 0-1S 17-23S 9-11S 12-15S"
+    },
+    {
+        "grc": "Πάλιν μὲν οὖν ἐκ Φθίας φυγὼν Ἰωλκὸν , πρὸς Ἄκαστον ἀφικνεῖται , καὶ ὑπ ̓ αὐτοῦ καθαίρεται",
+        "por": "Iterum igitur a Phthia fugiens Iolcum ad Acastum venit , ab eoque expiatur",
+        "alignment": "4-3S 8-6S 13-11P 6-5S 3-2S 12-11S 9-7S 0-0S 16-12S 2-1S 10-8S 15-11S 5-4S 13-10P"
+    },
+    {
+        "grc": "Καλεῖται δ ̓ ἡ μὲν σατυρικὴ ὄρχησις , ὥς φησιν Ἀριστοκλῆς ἐν ὀγδόῳ τῶν Περὶ χορῶν , σίκιννις , καὶ οἱ σάτυροι σικιννισταί",
+        "por": "Satyrica saltatio , ut Aristocles libro octavo De choris ait , Sicinnis vocatur , satyri vero Sicinnistae",
+        "alignment": "10-4S 15-8S 0-12S 5-0S 22-16S 17-11S 9-9S 21-14S 6-1S 19-15P 8-3S 14-7S 12-6S"
+    },
+    {
+        "grc": "Διὰ σπουδῆς εἶχον τὸν Αἴσωπον Καὶ Ἀριστοτέλης ἐν τῇ Σαμίων πολιτείᾳ εἰπόντα φησὶν αὐτὸν μῦθον ηὐδοκιμηκέναι",
+        "por": "Aristoteles in Samiorum rep. Aesopum fabulas narrantem inclaruisse dicit",
+        "alignment": "15-7S 4-4S 6-0S 9-2S 12-8S 7-1S 11-6S 10-3S 14-5S"
+    },
+    {
+        "grc": "Τοῦτο δὲ ( sc τὸ δικαστικόν ) ἄλλοτε ἄλλως ἐδίδοτο , τῶν δημαγωγῶν τὰ πλήθη κολακευόντων , ὥς φησιν Ἀρ Ἐν Πολιτείαις",
+        "por": "Merces judicialis aliis temporibus alia dabatur , demagogis populi benevolentiam blandiendo captantibus , ut Aristoteles in opere de Rebus publicis",
+        "alignment": "7-3P 8-4S 15-11S 19-14S 21-19S 5-1P 8-2P 9-5S 7-2S 14-8S 21-17S 15-10S 15-9P 5-0P 21-18S 12-7S 7-4P 20-15S 17-13S"
+    },
+    {
+        "grc": "Ἀριστοτέλης δὲ ἐν τῇ Τεγεατῶν πολιτείᾳ φησὶν ὅτι βάρβαροι τὴν Ἀρκαδίαν ᾤκησαν , οἵτινες ἐξεβλήθησαν ὑπὸ τῶν Ἀρκάδων ἐπιθεμένων αὐτοῖς πρὸ τοῦ ἐπιτεῖλαι τὴν σελήνην διὸ κατωνομάσθησαν Προσέληνοι",
+        "por": "Aristoteles in Tegeatarum Republ Dicit olim barbaros Arcadiam inhabitasse , qui ejecti sint ab Arcadibus aggressis eos ante ortum lunae ; hinc arcadas cognominatos esse Proselenos",
+        "alignment": "14-12S 10-7S 8-6S 25-21S 4-2S 27-25S 5-3S 11-8S 0-0S 22-18S 13-10S 18-15S 19-16S 15-13S 17-14S 20-17S 7-5P 14-11S 2-1S 26-23S 6-4S 26-24S 24-19S"
+    },
+    {
+        "grc": "Ὡς ἐπὶ Σωκράτους Ἀριστόξενος , ἀπαίδευτον καὶ ἀμαθῆ καὶ ἀκόλαστον εἰπὼν , ἐπήνεγκεν , ἀδικία δ ̓ Οὐ προσῆν",
+        "por": "Ut Aristoxenus , qui quum Socratem ineruditum , inscium , libidinosum dixissset , addit , Injustitia tamen aberat",
+        "alignment": "10-4S 5-6S 2-5S 12-13S 15-16S 17-17P 10-11S 0-0S 3-1S 7-8S 18-17S 9-10S 14-15S"
+    },
+    {
+        "grc": "βόρσιππα , πόλις Χαλδαίων , οὐδετέρως , ἱερὰ Ἀπόλλωνος καὶ Ἀρτέμιδος , λινουργεῖον μέγα Λέγεται καὶ θηλυκῶς Οἱ πολῖται Βορσιππηνοί Ἀρριανὸς δὲ Βορσιππεῖς αὐτούς φησι",
+        "por": "Borsippa , urbs Chaldaeorum , neutro genere , Apollini sacra et Dianae Magnae ibi sunt officinae linteis conficiendis destinatae Dicitur etiam genere feminino Cives Borsippeni Arrianus vero Borsippenses vocat",
+        "alignment": "21-26S 16-21S 8-8S 12-17S 22-27S 12-14P 2-2S 13-15P 16-22S 13-18P 13-17P 12-13P 0-0S 3-3S 12-12P 13-14P 19-24S 13-13P 12-16S 14-19S 5-6S 7-9S 12-18S 13-12S 9-10S 15-20S 24-28S 13-16P 10-11S 18-23S 5-5S 20-25S 12-15S"
+    },
+    {
+        "grc": "Τριῆρες , ἔθνος , ἀπὸ Τριήρου τοῦ Ὀμβριάρεω καὶ Θρᾴκης παιδὸς , ὡς Ἀρριανὸς ἐν Βιθυνιακοῖς",
+        "por": "Trieres ( Treres ) , a Triere , Ombriarei et Thraces filio , ut Arrianus ait in Bithynicis",
+        "alignment": "5-6S 12-13S 14-16S 13-14S 10-11S 4-5S 8-9S 0-0S 7-8S 9-10S 15-17S"
+    },
+    {
+        "grc": "Ἔστι δὲ ἡ κρήνη ( quam sec Theopompum vino miscuit Midas Silenum capturus ) , ὥς φησι Βίων , μέση Μαίδων καὶ Παιόνων , Ἴννα καλουμένη",
+        "por": "Fons iste Inna appellatur , situsque est inter terras Maedorum et Paeonum",
+        "alignment": "0-6P 2-1P 20-9S 25-3S 19-8P 22-11S 24-2S 3-0S 21-10S 19-7S"
+    },
+    {
+        "grc": "Ὅτι Καρύστιος ὁ Περγαμηνὸς ἱστορεῖ , τὰς Κερκυραίας γυναῖκας ἔτι καὶ νῦν σφαιριζούσας ᾄδειν Σφαιρίζουσι δὲ παρ ̓ Ὁμήρῳ οὐ μόνον ἄνδρες , ἀλλὰ καὶ γυναῖκες",
+        "por": "Carystius Pergamenus narrat Corcyraeas mulieres etiam nunc pila ludentes canere Apud Homerum quidem non modo viri pila ludunt , sed etiam mulieres",
+        "alignment": "15-12S 9-5P 25-21S 9-6S 13-9S 11-5P 4-2S 8-4S 1-0S 19-14S 23-19S 14-16S 12-8S 3-1S 7-3S 14-17S 19-13S 20-13S 11-6S 21-15S 10-6P 16-10S 24-20S 18-11S 20-14S 10-5S 12-7S"
+    },
+    {
+        "grc": "Ἀγρίαι , ἀρσενικῶς , ἔθνος Παιονίας μεταξὺ Αἴμου καὶ Ῥοδόπης Λέγονται καὶ Ἀγριᾶνες Τὸ κτητικὸν Ἀγριανικὸς , ὡς Χάραξ ἐν δευτέρῳ Χρονικῶν",
+        "por": "Agriae , genere masculino , gens Paeoniae inter Haemum et Rhodopen Vocantur etiam Agrianes Possessivum Agrianicus , ut Charax in secundo Chronicorum",
+        "alignment": "18-18S 20-20S 4-5S 11-12S 17-17S 2-2S 15-15S 14-14S 0-0S 19-19P 5-6S 12-13S 8-9S 7-8S 21-21S 9-10S 2-3S 6-7S 10-11S"
+    },
+    {
+        "grc": "Ἴσαυρα , οὐδετέρως , πόλις Ἰσαυρίας μεταξὺ Λυκαονίας καὶ Κιλικίας πρὸς τῷ Ταύρῳ Χάραξ δὲ θηλυκῶς",
+        "por": "Isaura , neutro genere , urbs Isauriae inter Lycaoniam et Ciliciam ad Taurum sita Charax Isauram feminino genere dicit",
+        "alignment": "2-2S 5-6S 13-14S 6-7S 10-11S 4-5S 0-0S 8-9S 12-12S 7-8S 9-10S 15-17S 2-3S 15-16S"
+    },
+    {
+        "grc": "Ἐφύρα , πόλις Ἠπείρου Ἔστι καὶ ἄλλη Ἐφύρη Κρανὼν λεγομένη , ὥς φησι Κινέας ὁ ῥήτωρ καὶ Ἐπαφρόδιτος Cf Apollodori fr 170",
+        "por": "Ephyra , urbs Epiri Est etiam alia Ephyra Cranon dicta , ut Cineas rhetor et Epaphroditus dicunt",
+        "alignment": "2-2S 12-16S 17-15S 4-4S 16-14S 11-11S 9-9S 0-0S 3-3S 8-8S 6-6S 13-12S 5-5S 15-13S 7-7S"
+    },
+    {
+        "grc": "Εὐκλείδης ἀπὸ Μεγάρων τῶν πρὸς Ἰσθμῷ , ἢ Γελῶος κατ ̓ ἐνίους , ὥς φησιν Ἀλέξανδρος ἐν Διαδοχαῖς",
+        "por": "Euclides natus Megaris apud Isthmum , sive secundum quosdam gelous , ut in Successionibus tradit Alexander",
+        "alignment": "2-2S 4-3S 17-13S 13-11S 15-15S 14-14S 9-7S 0-0S 8-9S 16-12S 5-4S 11-8S 7-6S"
+    },
+    {
+        "grc": "Εἶτα μετὰ τούτους ἐστὶ Μαιωτῶν γένος Ἰαξαματῶν λεγόμενον , ὡς Δημήτριος εἴρηκεν , ὡς δ ̓ Ἔφορος λέγει , Σαυροματῶν λέγεται ἔθνος",
+        "por": "Post hos ( Sarmatas ) est Maeotarum gens , qui taxamatae dicuntur , ut ait Demetrius scriptor ; ut vero Ephorus tradidit , Sauromatarum gens",
+        "alignment": "11-14S 14-19S 5-7S 7-9S 19-23S 9-13S 4-6S 10-15S 13-18S 2-1S 17-21S 3-5S 16-20S 21-24S 1-0S 7-11S 6-10S"
+    },
+    {
+        "grc": "Τοὺς Μολιονίδας ἔφυγε Δείνων δὲ ἐν δευτέρῳ τῆς δευτέρας συντάξεως Ἡρακλέα τὸν Ἰδαῖον Δάκτυλον , καταδείξαντα τὰ Ὀλύμπια , πρὸς δύο διαπυκτεύσαντα ἡττηθῆναι",
+        "por": "Contra duos ne Hercules quidem Scilicet Molionidas fugit Dino vero libro secunda partis secundae Herculem , Dactylum Idaeum , ludos Olympicos instituentem , quum contra duos pugilatu certaret , victum esse tradit",
+        "alignment": "10-14S 12-17S 17-19S 21-27P 9-12S 21-26P 20-25S 19-24S 22-29S 8-13S 13-16S 3-8S 17-20S 1-6S 2-7S 4-9S 22-30S 6-11S 21-23P 15-21S"
+    },
+    {
+        "grc": "Πρωταγόρας Ἀρτέμωνος , ἢ , ὡς Ἀπολλόδωρος ( fr 86 ) καὶ Δίνων ( scr Δείνων ) ἐν τοῖς Περσικοῖς , Μαιανδρίου",
+        "por": "Protagoreas Artemonis , vel Ut Apollodorus et Dino in Persarum historia , Maeandrii filius",
+        "alignment": "21-12S 6-5S 11-6S 0-0S 3-3S 19-9S 17-8S 12-7S 1-1S 5-4S"
+    },
+    {
+        "grc": "Δοῦρις δ ̓ ἐξ Ὑπερβορέων ( sc Ζήτην καὶ Καλαὶν συμπλεῦσαι τοῖς Ἀργοναύταις φησίν )",
+        "por": "Ex Hyperboreis Zeten et Calain una cum Argonautis navigasse Duris ait",
+        "alignment": "7-2S 9-4S 0-9S 13-10S 12-6P 10-8S 10-6P 12-7S 8-3S 3-0S 4-1S"
+    },
+    {
+        "grc": "Ἱερώνυμος Ἱερωνύμου τοῦ στρατηγήσαντος Ἀθηναίων ἄλλοι τε μνημονεύουσιν , καὶ Ἔφορος ἐν τῇ ὀγδόῃ καὶ δεκάτῃ , καὶ ἐν τῇ ἐννάτῃ καὶ δεκάτῃ",
+        "por": "Hieronymi Atheniensium praetoris cum alii meminere , tum Ephorus libro octavodecimo atque undevicesimo",
+        "alignment": "21-12S 14-10S 3-2S 7-5S 6-3P 17-11S 9-7S 13-10S 20-12S 22-12S 10-8S 15-10S 1-0S 5-4S 4-1S"
+    },
+    {
+        "grc": "Μύνδονες , ἔθνος Λιβύης Ἔφορος εἰκοστῷ ὀγδόῳ « Μύνδονες ὑπερευγνωμότατοι δοκοῦσιν εἶναι καὶ πλουσιώτατοι τὸν βίον »",
+        "por": "Myndones , gens Libyae , cujus meminit Ephorus libro octavo et vigesimo : « Myndones longe aequissimi videntur esse et victu ditissimi »",
+        "alignment": "2-2S 9-16S 15-20S 8-14S 13-21S 10-17S 6-9S 4-7S 0-0S 3-3S 9-15S 5-11S 11-18S 12-19S"
+    },
+    {
+        "grc": "Κέβρην , πόλις τῆς Τρῳάδος , Κυμαίων ἀποικία , ὥς φησιν Ἔφορος ἐν τῇ πρώτῃ",
+        "por": "Cebren est civitas Troadis , Cumanorum colonia , ut Ephorus scribit libro primo",
+        "alignment": "2-2S 14-12S 4-3S 6-5S 10-10S 11-9S 0-0S 9-8S 7-6S"
+    },
+    {
+        "grc": "Ὅμολος δὲ Θετταλίας ὄρος , ὡς Ἔφορος καὶ Ἀριστόδημος ὁ Θηβαῖος , ἐν οἷς ἱστορεῖ περὶ τῆς ἑορτῆς τῶν Ὁμολίων καὶ Πίνδαρος ἐν τοῖς Ὑπορχήμασι",
+        "por": "Homolus , mons Thessaliae , ut tradunt Ephorus et Aristodemus Thebanus , ubi agit de festo Homoliorum , et Pindarus in Hyporchematis",
+        "alignment": "15-14S 17-15S 21-19S 3-2S 10-10S 22-20S 6-7S 0-0S 8-9S 12-12S 13-12S 7-8S 14-13S 19-16S 24-21S 5-5S 2-3S 20-18S"
+    },
+    {
+        "grc": "Ὠτιεῖς , μοῖρα Κυπρίων Ἔφορος ἐννεακαιδεκάτῃ « Ἀμαθούσιοι δὲ καὶ Σόλιοι καὶ Ὠτιεῖς ἀντέχοντες ἔτι τῶ πολέμῳ »",
+        "por": "Otiees , pars Cypriorum Ephorus nonodecimo : « Amathusii autem , et Solii , et Otiees resistentes adhuc bello »",
+        "alignment": "2-2S 11-14S 16-18S 4-4S 13-16S 0-0S 3-3S 8-9S 10-12S 7-8S 14-17S 5-5S 9-11S 12-15S"
+    },
+    {
+        "grc": "Ἔθυον δὲ καὶ ἐν Χίῳ τῷ Ὠμαδίῳ Διονύσῳ ἄνθρωπον διασπῶντες , καὶ ἐν Τενέδῳ , ὥς φησιν Εὔελπις ὁ Καρύστιος",
+        "por": "In Chio quoque hominem discerpentes Omadio ( crudivoro ) Baccho in sacrificium offerebant , nec non in Tenedo , uti ait Euelpis Carystius",
+        "alignment": "2-2S 11-14S 0-12S 9-4S 12-16S 13-17S 6-5S 7-9S 0-10S 19-22S 11-15S 17-21S 8-3S 16-20S 3-0S 4-1S 0-11S 15-19S"
+    },
+    {
+        "grc": "Ἑγὼ δ ̓ εὗρον ἐν τοῖς Ὑπομνήμασι Φαβωρίνου ὅτι καὶ βοῦν ἔθυσε τοῖς θεωροῖς ὁ Ἐμπεδοκλῆς ἐκ μέλιτος καὶ ἀλφίτων , καὶ ἀδελφὸν ἔσχε Καλλικρατίδην",
+        "por": "In Favorini Commentariis reperi Empedoclem et bovem mactasse Legatis ad festum missis confectum ex melle et farina , fratremque habuisse Callicratidem",
+        "alignment": "11-7S 16-13S 13-9S 23-19S 13-11S 7-1S 3-3S 0-3P 9-5S 22-18S 13-10S 15-4S 19-16S 13-8S 17-14S 24-20S 6-2S 10-6S 21-18S 18-15P 4-0S"
+    },
+    {
+        "grc": "Φοινικοῦσσαι Ἔστι καὶ πόλις Φοινίκων τῶν ἐν Συρίᾳ Φοινικοῦσσαι , ὡς αὐτὸς ( Ἑκ ) ἐν Ἀσίᾳ",
+        "por": "Phoenicussae , Est etiam urbs Phoenicum in Syria Phoenicussae , ut idem ( Hecataeus ) auctor est",
+        "alignment": "13-13S 1-2S 11-11S 10-10S 4-5S 0-0S 8-8S 6-6S 2-3S 3-4S 7-7S"
+    },
+    {
+        "grc": "Ὡς καὶ Ἑκαταῖος δηλοῖ ἢ ὁ γεγραφὼς τὰς περιηγήσεις ἐν τῇ Ἀσίᾳ ἐπιγραφομένῃ « Γυναῖκες δὲ ἐπὶ τῆς κεφαλῆς ἔχουσι χειρόμακτρα »",
+        "por": "Quemadmodum etiam Hecataeus declarat , aut quicunque auctor est illarum Descriptionum quae in libro continentur qui Asia inscribitur : « Mulieres autem in capite gestant mantilia »",
+        "alignment": "6-7P 4-5S 12-17S 8-10S 2-2S 16-22S 11-16S 0-0S 3-3S 20-25S 19-24S 9-16P 9-12P 14-20S 10-16P 18-23S 7-9P 15-21S 1-1S"
+    },
+    {
+        "grc": "Ὥσπερ καὶ Νάπη ἐν τῷ Μηθύμνης πεδίῳ , ἣν Ἑλλάνικος ἀγνοῶν Λάπην ὀνομάζει",
+        "por": "Sicut etiam Nape in Methymnaeo campo , quam Hellanicus ignoratione lapsus Lapen vocat",
+        "alignment": "2-2S 3-4P 6-5S 11-11S 10-10S 8-7S 0-0S 12-12S 1-1S 5-4S 3-3P 9-8S 10-9S"
+    },
+    {
+        "grc": "Μέταον , πόλις Λέσβου , ἣν Μέτας Τυῤῥηνὸς ᾤκισεν , ὡς Ἑλλάνικος",
+        "por": "Metaum , urbs Lesbi , quam Metas Tyrrhenus condidit , uti Hellanicus auctor est",
+        "alignment": "2-2S 11-11S 10-10S 0-0S 3-3S 8-8S 6-6S 5-5S 7-7S"
+    },
+    {
+        "grc": "Ἑλλάνικος Τέρπανδρον ἱστορεῖ κατὰ Μίδαν γεγονέναι",
+        "por": "Hellanicus Terpandrum narrat Midae temporibus natum esse",
+        "alignment": "2-2S 4-3S 4-4S 5-6S 0-0S 3-3S 5-5S 1-1S 3-4S"
+    },
+    {
+        "grc": "Ἀζειῶται , ἔθνος τῆς Τρωάδος , ὡς Ἑλλάνικος ἐν τοῖς περὶ Λυδίαν λέγει",
+        "por": "Azeiotae , gens Troadis , uti habet Hellanicus , qui res Lydiae conscripsit",
+        "alignment": "2-2S 4-3S 6-5S 11-11S 10-11S 0-0S 12-12S 7-7S"
+    },
+    {
+        "grc": "Ἑλλάνικός φησι περὶ Μαγνησίαν τὴν ἐπὶ Σιπύλου , πηγὴν εἶναι , ἀφ ̓ ἧς τοὺς πίνοντας κοιλίαν ἀπολιθοῦσθαι",
+        "por": "Hellanicus dicit prope Magnesiam ad Sipylum fontem esse , qui polus ita refrigeraret stomachum , ut lapidescere videretur",
+        "alignment": "2-2S 8-6S 6-5S 16-13S 9-7S 17-16S 0-0S 3-3S 1-1S 5-4S"
+    },
+    {
+        "grc": "Φοιτίαι , πόλις Ἀκαρνανίας Λέγεται καὶ Φοίτιον Καὶ τὸ ἐθνικὸν Φοιτιεὺς , καὶ Φοίτιοι , ὡς Ἑλλάνικος ἐν τοῖς Τρωϊκοῖς",
+        "por": "Phoetiae , urbs Acarnaniae Dicitur etiam Phoetium Et gentile Phoetieus et Phoetii , ut Hellanicus in Troicis",
+        "alignment": "2-2S 17-15S 4-4S 13-11S 16-14S 0-0S 3-3S 6-6S 19-16S 12-10S 5-5S 15-13S 7-7S 9-8S 10-9S"
+    },
+    {
+        "grc": "Βατίεια , τόπος τῆς Τροίας ὑψηλός κέκληται ἀπὸ Βατείας τινὸς , ὡς Ἑλλάνικος ἐν πρώτῃ Τρωϊκῶν",
+        "por": "Batiea , locus excelsus in agro Trojano , ita a Batea quadam denominatus , teste Hellanico libro primo Troicorum",
+        "alignment": "2-2S 15-18S 7-9S 4-6S 4-4P 0-0S 6-12S 14-16P 8-10S 14-17S 4-5P 5-3S 9-11S 12-15S 11-14P"
+    },
+    {
+        "grc": "Κριθωτὴ , μία πόλις τῶν ἐν Χεῤῥονήσῳ , καθά φησιν Ἑλλάνικος ἐν πρώτῃ Τρωϊκῶν",
+        "por": "Crithote , urbium Chersonesi una fuit , quemadmodum Hellanicus refert libro primo Troicorum",
+        "alignment": "3-2S 6-3S 5-3P 9-9S 8-7S 0-0S 12-10P 13-12S 10-8S 12-11S 2-4S"
+    },
+    {
+        "grc": "Ἀγάμεια , ἄκρα καὶ λιμὴν περὶ τὴν Τροίαν , ὡς Ἑλλάνικος ἐν δευτέρῳ",
+        "por": "Agamea , promontorium cum portu circa Trojam , ut scribit Helianicus in libro secundo",
+        "alignment": "2-2S 4-4S 12-13S 11-11S 10-10S 0-0S 12-12P 5-5S 9-8S 7-6S"
+    },
+    {
+        "grc": "Λέγεται καὶ διὰ τοῦ ζ , Ζυμβραῖος , ἔτι δὲ καὶ θύμβριος ἢ κατὰ Ἑλλάνικον Δύμβριος διὰ τοῦ δ",
+        "por": "Apollo Thymbraeus dicitur etiam per z literam Zymbraeus , nec non Thymbrius , vel secundum Hellanicum Dymbrius per d literam , et Dymbrieus",
+        "alignment": "18-18S 9-9S 4-5S 8-10S 2-4S 14-15S 0-2S 13-14S 1-3S 16-17S 12-13S 18-19P 8-9S 9-10S 10-9S 11-11S 10-10S 6-7S 15-16S 4-6P"
+    },
+    {
+        "grc": "Ἑλλάνικός φησι , χρησμον δοθῆναι τοῖς Τρωσὶν , ἀπέχεσθαι μὲν ναυτιλίας , γεωργίᾳ δὲ προσέχειν , μὴ τῇ θαλάσσῃ χρώμενοι ἀπολέσωσιν αὑτοὺς καὶ τὴν πόλιν",
+        "por": "Hellanicus dicit oraculum datum esse Trojanis , jubens eos navigatione abstinere , agriculturae vero operam navare , ne mari utentes se ipsos atque urbem perderent",
+        "alignment": "18-18S 19-19S 4-4S 24-23S 8-10S 14-15S 13-13S 14-14S 21-20P 0-0S 22-22S 16-17S 4-3S 3-2S 21-21S 10-9S 6-5S 12-12S 20-24S 1-1S"
+    },
+    {
+        "grc": "Ἀριστοτέλης ἐν Ἰθακησίων πολιτείᾳ καὶ Ἑλλάνικος δὲ Τηλέμαχον φασὶ Ναυσικάαν γῆμαι τὴν Ἀλκινόου , καὶ γεννήσαι τὸν Περσέπτολιν",
+        "por": "Aristoteles in Ithacensium republica et Hellanicus Telemachum dicunt uxorem duxisse Nausicaam , Alcinoi filiam , ex eaque genuisse Perseptolin",
+        "alignment": "2-2S 17-18S 4-4S 9-10S 11-12P 8-7S 0-0S 3-3S 11-13P 10-8S 12-12S 12-13P 5-5S 15-17S 1-1S 10-9S 7-6S"
+    },
+    {
+        "grc": "Καρπασία , πόλις Κύπρου , ἥν Πυγμαλίων ἔκτισεν , ὡς Ἑλλάνικος ἐν τοῖς Κυπριακοῖς",
+        "por": "Carpasia , urbs Cypri , quam Pygmalion condidit , auctore Hellanico in Cypriacis",
+        "alignment": "2-2S 11-11S 10-10S 0-0S 3-3S 13-12S 6-6S 5-5S 7-7S"
+    },
+    {
+        "grc": "Ἑλλάνικος ἐν Αἰγυπτιακοῖς οὕτως γράφει «Αἰγυπτίων ἐν τοῖς οἴκοις κεῖται φιάλη χαλκῆ , καὶ κύαθος χαλκοῦς , καὶ ἠθάνιον χάλκεον »",
+        "por": "Hellanicus in Aegyptiacis haec scribit : «Aegyptiorum in domibus videas phialam aeneam , cyathum zeneum , et ethanium aeneum »",
+        "alignment": "2-2S 15-14S 4-4S 5-6S 11-11S 10-10S 6-7S 9-9S 0-0S 3-3S 8-8S 14-13S 17-16S 19-18S 18-17S 1-1S"
+    },
+    {
+        "grc": "Ἀρταῖα , Περσικὴ χώρα , ἣν ἐπόλισε Περσεὺς , ὁ Περσέως καὶ Ἀνδρομέδας Ἑλλάνικος ἐν Περσικῶν πρώτῃ",
+        "por": "Artaea , regio Persica , in qua Perseus Persei et Andromedae filius urbes condidit , auctore Hellanico rerum Persicarum libro primo",
+        "alignment": "6-12S 6-13S 16-20S 16-19P 11-9S 9-10P 0-0S 12-8P 10-10P 5-6S 13-16S 3-2S 9-8P 12-10S 2-3S 15-18S 12-11P 10-8S 5-5S 15-17S 7-7S 10-11P 9-11P"
+    },
+    {
+        "grc": "Τυρέδιζα , πόλις Θρᾴκης Ἑλλάνικος δὲ Τυρόδιζαν αὐτήν φησιν , ἐν Περσικῶν δευτέρῳ",
+        "por": "Tyrediza , urbs Thraciae Hellanicus vero Tyrodizam eam vocat in Persicorum secundo",
+        "alignment": "2-2S 4-4S 0-0S 3-3S 8-8S 6-6S 5-5S 12-11S 7-7S 11-10S 10-9S"
+    },
+    {
+        "grc": "Στρέψα , πόλις ἐστι τῆς Θρᾴκης , ὡς Ἑλλάνικος ἐν δευτέρῳ Περσικῶν ὑποσημαίνει",
+        "por": "Strepsa est civitas Thraciae , ut Hellanicus libro secundo Persicorum innuit",
+        "alignment": "2-2S 8-6S 10-7P 7-5S 11-9S 0-0S 3-1S 10-8S 12-10S 5-3S"
+    },
+    {
+        "grc": "Πρώτην ἐπιστολὰς συντάξαι Ἄτοσσαν , τὴν Περσῶν βασιλεύσασαν , φησὶν Ἑλλάνικος",
+        "por": "Primam scripsisse epistolas Atossam Persarum reginam , dicit Hellanicus",
+        "alignment": "1-2S 7-5S 9-7S 0-0S 3-3S 2-1S 10-8S 6-4S"
+    },
+    {
+        "grc": "Κύρου δὲ υἱὸς ὁ Καμβύσης , ἀδελφὸς δὲ , κατὰ Ἑλλάνικον , Μαρφίου καὶ Μέμφιδος",
+        "por": "Cyri filius Cambyses , et referente Hellanico , frater Marphii et Memphidis",
+        "alignment": "12-9S 10-6S 13-10S 14-11S 4-2S 0-0S 6-8S 2-1S 10-5P 9-5S 9-6P"
+    },
+    {
+        "grc": "Καὶ περὶ τοῦ θάψαντος τὸν πατέρα διὰ τοῦ πυρὸς παρὰ τὸν νόμον , ἐξ οὗ καὶ ἔλεγχος Ἑλλανίκου καὶ Ἡροδότου , ὡς ψεύδονται",
+        "por": "Mentio fit etiam Cambysis , patris cadaver contra legem cremari jubentis ; unde etiam Hellanicus et Herodotus mendacii arguuntur",
+        "alignment": "14-12S 8-9P 9-7S 3-9P 22-17P 13-12S 6-9P 19-16S 22-18P 7-9P 5-5S 15-13S 11-8S 0-2P 18-15P 17-14S"
+    },
+    {
+        "grc": "Ἡρόδοτος ζ ' φησὶ Δαρείου παῖδας εἶναι Ἑλλάνικος δὲ ια '",
+        "por": "Herodotus dicit septem , Hellanicus undecim Darii filios esse",
+        "alignment": "1-2S 5-7S 4-6S 0-0S 3-1S 6-8S 7-4S 9-5S"
+    },
+    {
+        "grc": "Ἄρια , θηλυκῶς καὶ οὐδετέρως , Περσικὴ χώρα , ὡς Ἑλλάνικος Τὸ ἐθνικὸν Ἄοιοι , ὡς αὐτός φησι , καὶ Ἀριεύς",
+        "por": "Aria , feminini vel neutrius generis , regio Persica , ut ait Hellanicus Gentile Arii , ut idem dicit , et Arieus",
+        "alignment": "2-5P 4-4S 3-2P 4-5S 4-3P 2-2S 13-14S 2-3P 4-2P 0-0S 3-3S 3-5P 6-8S 19-20S 17-18S 16-17S 12-13S 10-12S 2-4P 9-10S 3-4P 20-21P 15-16S 7-7S"
+    },
+    {
+        "grc": "Αύκιοι διῆγον λῃστεύοντες Νόμοις δὲ οὐ χρῶνται , ἀλλ ̓ ἔθεσι , καὶ ἐκ παλαιοῦ γυναικοκρατοῦνται Πωλοῦσι δὲ τοὺς ψευδομάρτυρας , καὶ τὰς οὐσίας αὐτῶν δημεύουσιν",
+        "por": "Lycii vitam sustinebant ex latrociniis Scriptis legibus non utuntur , sed consuetudinibus , dominanturque ipsis feminae inde a temporibus antiquissimis Falsi testimonii convictos divendunt , bonaue eorum publicant",
+        "alignment": "14-16P 8-10S 13-19P 2-4S 13-18P 5-7S 15-15S 3-5P 6-8S 19-22S 19-20S 24-26S 14-19S 23-25S 12-13S 14-18S 3-6S 16-23S 15-13S 2-3S 13-17S 13-16P 1-2S 25-27S 14-17P 10-11S 0-0P 21-25S 1-1S 12-15S 19-21S"
+    },
+    {
+        "grc": "Ἐπὶ δὲ τοῖς τελευτῶσιν οὐδέν ἐστι πένθος ἐν ἀνδράσι περὶ ἐσθῆτα ἢ κουράν μητρὶ δὲ , νέου τελευτήσαντος , ἐνιαυτός",
+        "por": "Defunctos viri non lugent neque veste neque tonsura ; mater vero defunctum puerum luget per annum",
+        "alignment": "14-10S 8-1S 13-9S 17-11S 11-6P 4-4P 4-2S 10-5S 16-12S 12-7S 9-5S 3-0S 19-14S 19-15S"
+    },
+    {
+        "grc": "Ἔστι καὶ ἡ χώρα Χαλκῖτις , ὡς Ἑρμείας ἐν Περιηγήσει",
+        "por": "Chalcitis regio memoratur Hermiae in Periegesi",
+        "alignment": "3-1S 7-3S 9-5S 8-4S 4-0S"
+    },
+    {
+        "grc": "Ἕρμιππος δέ φησι Πάνθειάν τινα Ἀκραγαντίνην ἀπηλπισμένην ὑπὸ τῶν ἰατρῶν θεραπεῦσαι αὐτὸν καὶ διὰ τοῦτο τὴν θυσίαν ἐπιτελεῖν τοὺς δὲ κληθέντας εἶναι πρὸς τοὺς ὀγδοήκοντα",
+        "por": "Hermippus Empedoclem , quum Pantheam quandam Agrigentinam desperatam a medicis curasset , hostias ob id litasse : qui vero invitati erant , ad octoginta ferme fuisse",
+        "alignment": "20-20S 24-23S 10-3S 9-9S 4-5S 3-4S 13-13S 14-14S 19-18P 0-0S 22-22S 5-6S 20-19S 7-8S 18-17P 20-17P 17-15S 10-10S 6-7S 16-12S 21-25S"
+    },
+    {
+        "grc": "Ἡρόδωρος ( ἐν τοῖς Ἀργοναύταις ) φησὶ διὰ τῆς αὐτῆς θαλάσσης ἐπανελθεῖν , δι ̓ ἧς καὶ ἐπορεύθησαν εἰς Κόλχους",
+        "por": "Herodorus in Argonautis dicit rediisse cos e Colchide per idem mare , quo venerint",
+        "alignment": "15-12S 8-9P 6-3S 18-6P 10-10S 9-9S 4-2S 0-0S 19-7S 2-1S 7-8S 11-4S 13-12P 17-13S"
+    },
+    {
+        "grc": "Ἐπεγράφη δὲ τῇ δίκῃ κατήγορος , ὡς μὲν Ἰδομενεὺς λέγει , Κλέων , ὡς δὲ Θεόφραστος , Σιμμίας ὁ δὲ Ποντικὸς Ἡρακλείδης Λακρατίδαν εἴρηκε",
+        "por": "Accusationi Periclis subscripsit Cleo , si Idomeneum sequimur ; sin Theophrastum , Simmias ; Heraclides Ponticus Lacratidam nuncupat",
+        "alignment": "3-0P 8-6S 13-9P 22-16S 0-2S 21-14S 23-17S 6-5P 17-12S 14-9P 20-15S 15-10S 11-3S"
+    },
+    {
+        "grc": "Ὁ δ ̓ Ἴων ἀπομνημονεύει καὶ τὸν λόγον , ᾧ μάλιστα τοὺς Ἀθηναίους ἐκίνησε παρακαλῶν μήτε Ἑλλάδα χωλὴν μήτε τὴν πόλιν ἑτερόζυγα περιιδεῖν γεγενημένην",
+        "por": "Ion etiam orationem commemorat , qua maxime moverit Athenienses , exhortans ne Graeciam claudam esse sinerent , neque urbem , quae alteram jugi partem traheret , negligerent",
+        "alignment": "22-26S 15-11S 13-15P 13-7P 12-8S 21-20P 18-17S 9-5S 23-14P 21-24P 7-2S 4-3S 14-10S 21-22S 21-21S 21-23S 5-1S 10-6S 16-12S 3-0S 17-13S 20-18S"
+    },
+    {
+        "grc": "Παναθήναια Ἤγαγε δὲ τὴν ἑορτὴν πρῶτος Ἐριχθόνιος ὁ Ἡφαίστου Πρὸ τούτου Ἀθήναια ἐκαλεῖτο , ὡς δεδήλωκεν Ἴστρος ἐν τρίτῃ τῶν Ἀττικῶν",
+        "por": "Panathenaea Auctor festi Erichthonius Vulcani filius , sed ante Erichthonium Athenaea dicta fuisse , Ister docuit in tertio Rerum Atticarum",
+        "alignment": "11-10S 16-14S 15-15S 6-3S 17-16S 4-2S 0-0S 12-12S 20-19S 18-17S 8-4S 12-11S 9-8S 20-18S"
+    },
+    {
+        "grc": "Κάρτη , εἶδος ἱματίου παρὰ Ἰὼβ ( Ἰόβᾳ Scal ) ἐν πεντεκαιδεκάτῳ Περὶ ὁμοιοτήτων",
+        "por": "Carte , palii genus , teste Juba I ' bro decimo quinto De similitudinibus",
+        "alignment": "13-13S 5-6S 3-2S 11-11S 4-5S 0-0S 12-12S 2-3S 11-10S"
+    },
+    {
+        "grc": "Ἰδίως δὲ Νεάνθης ὁ Κυζικηνὸς ἐν τρίτῳ τῶν Κατὰ πόλιν βωμοὺς φησιν , ἐσχάρας δ ̓ ἡρώων",
+        "por": "Peculiari modo Neanthes Cyzicenus libro tertio Narrationum fabulosarum , quae in singulis civitatibus obtinent , βωμοὺς ait deorum , ἐσχάρας vero heroum esse",
+        "alignment": "2-2S 10-15P 4-3S 9-12S 14-20P 11-16S 6-5S 8-11P 16-21S 0-0S 0-1S 8-10P"
+    },
+    {
+        "grc": "Πάνηβοι Λίβυες , ὅταν αὐτοῖς ὁ βασιλεὺς ἀποθάνῃ , τὸ μὲν σῶμα κατορύττουσι , τὴν δὲ κεφαλὴν ἀποκόψαντες καὶ χρυσώσαντες ἀνατιθέασιν ἐν ἱερῷ",
+        "por": "Panebi Libyes mortuo rege corpus reliquum terra condunt , caput autem trunco amputatum inaurantes in sacris statuunt",
+        "alignment": "7-2S 6-3S 20-16S 21-14S 22-15S 0-0S 17-11P 12-6P 16-9S 11-4S 19-13S 12-7S 1-1S 15-10S 17-12P"
+    },
+    {
+        "grc": "Φησὶ δ ̓ ὁ συγγραφεὺς Φάβιος Ῥωμαίους αἰσθέσθαι τοῦ πλούτου τότε πρῶτον , ὅτε τοῦ ἔθνους τούτου κατέστησαν κύριοι",
+        "por": "Fabius historicus inquit tunc demum Romanos sensisse divitias , quum Sabinorum gentem sibi subjecissent",
+        "alignment": "10-4S 5-0S 6-5S 13-9S 0-2S 9-7S 10-3S 17-13P 18-13P 11-4S 15-11S 4-1S 11-3S 7-6S"
+    },
+    {
+        "grc": "Φιλόχορος ἐν τῷ περὶ θυσιῶν φησὶν , ὅτι τὸ κάλλιστον τοῦ σώματος καὶ πρωτεῦόν ἐστιν ( ἡ γλῶσσα )",
+        "por": "Philochorus in libro de Sacrificiis ait , optimam et principalem corporis partem esse linguam",
+        "alignment": "14-12S 4-4S 13-9S 9-7S 12-8P 0-0S 3-3S 5-5S 17-13S 11-10S 1-1P"
+    },
+    {
+        "grc": "Φιλόχορος δὲ ἐν τοῖς περὶ μαντικῆς Ἀξιόπιστον τὸν εἴτε Λοκρὸν γένος ἢ Σικυώνιον , τὸν Κανόνα καὶ τὰς Γνώμας πεποιηκέναι φησίν ὁμοίως δὲ ἱστορεῖ καὶ Ἀπολλόδωρος",
+        "por": "Axiopistum , Locrum genere aut Sicyonium , Canonem scripsisse et Sententias Philochorus ait in libro de Divinatione Eadem Apollodorus tradit",
+        "alignment": "12-5S 5-16S 15-7S 23-19S 4-15S 6-0S 9-2S 20-12S 25-18S 10-3S 16-9S 2-13S 11-4S 19-8S 21-17S 18-10S 0-11S"
+    },
+    {
+        "grc": "Φιλόχορος παρὰ Σκίρου φησὶν ἐκ Σαλαμῖνος τὸν Θησέα λαβεῖν κυβερνήτην μὲν Ναυσίθοον , πρῳρέα δὲ Φαίακα , μηδέπω τότε τῶν Ἀθηναίων προσεχόντων τῆ θαλάσσῃ",
+        "por": "Philochorus ab Sciro ait ex Salamine Theseum gubernatorem Nausithoum accepisse , et Phaeacem prorae rectorem , quod nondum Athenienses rem maritimam tractarent",
+        "alignment": "15-12S 4-4S 22-19P 21-19P 11-8S 22-20P 17-17S 2-2S 13-13S 23-19S 18-16P 9-7S 13-14S 21-20P 0-0S 3-3S 14-11P 22-21P 21-16P 8-9S 23-20S 21-21S 7-6S 23-16P 23-21P 5-5S 1-1S 22-16P 20-18S"
+    },
+    {
+        "grc": "Καὶ τὰ ἐν τῇ Ῥόδῳ δὲ παρειλήφαμεν ὀστᾶ τηλικαῦτα τὸ μέγεθος , ὡς παραβαλλομένους τοὺς νῦν ἀνθρώπους πολὺ καταδεεστέρους εἶναι",
+        "por": "Sed et Rhodi accepimus ossa tanta esse , ut comparati cum iis nostri homines sint multo minores",
+        "alignment": "14-12S 15-12S 18-16S 2-2P 16-13S 6-3S 12-8S 13-9S 5-0P 4-2S 0-1S 7-4S 17-15S 8-5S 19-14S 13-10P"
+    },
+    {
+        "grc": "Ἐγένοντο Θουκυδίδαι πολλοί τρίτος δὲ γένει Φαρσάλιος , οὗ μέμνηται Πολέμων ἐν τοῖς Περὶ ἀκροπόλεως , φάσκων αὐτὸν εἶναι πατρὸς Μένωνος",
+        "por": "Plures fuerunt Thucydides Tertius est Thucydides genere Pharsalius , cujus mentionem facit Polemo in libro De arce , patrem ei fuisse dicens Menonem",
+        "alignment": "5-6S 1-2S 2-0S 14-16S 16-21S 11-13S 6-7S 18-20S 8-9S 0-1S 3-3S 10-12S 17-19S 19-18S 9-10S 20-22S 9-11S 13-15S"
+    },
+    {
+        "grc": "Βίῃφι ( βίηφι ed Hack ) , δύναμις , βία , ὡς Πολέμιων ἐν Ἐρατοσθένους ἐπιδημίᾳ",
+        "por": "Βίῃρι , vis , ut Polemo in Eratosthenis commemoratione ( in Athenarum urbe )",
+        "alignment": "15-8S 12-5S 9-2S 11-4P 14-7S 13-6S"
+    },
+    {
+        "grc": "Καὶ Σκιπίων μετεπέμψατο Παναίτιον , ὅτε αὐτὸν ἡ σύγκλητος ἐξέπεμψεν Ἀνθρώπων ὕβριν τε καὶ εὐνομίην ἐφορῶντα , ὥς φησι Ποσειδώνιος",
+        "por": "Scipio quoque Panaetium arcessivit , quum esset legatus a senatu , ut , quemadmodum Posidonius ait , Inspiceret mores hominum pravosque bonosque",
+        "alignment": "10-19S 8-8P 15-11P 17-13S 8-9P 3-2S 13-20P 8-7S 18-15S 0-1S 14-21P 12-20P 5-5S 15-17S 1-0S 2-3S 11-20P 19-14S"
+    },
+    {
+        "grc": "( Τὸ Σαρδώνον πέλαγος ) λέγεται τῶν ἀναμετρηθέντων βαθύτατόν που χιλίων ὀργυιῶν , ὡς Ποσειδώνιός φησι",
+        "por": "Sardoum mare , ubi Profundissimum est , mille ulnarum altitudine praeditum inventum esse mensura Posidonius perhibet",
+        "alignment": "10-7S 5-12P 2-0S 7-10P 7-13P 15-15S 14-14S 9-3P 3-1S 5-11P 8-4S 5-5P 11-8S"
+    },
+    {
+        "grc": "Ἡ Αἴγινα πρότερον Οἰνώνη ἐλέγετο ἀπὸ Οἰνώνης τῆς Βουδίωνος θυγατρὸς , καθά φησι Πυθαίνετος ἐν τῷ πρώτῳ τῶν Αἰγινητικῶν",
+        "por": "Aegina olim Oenone vocabatur ab Oenone Budionis filia , ut ait Pythaenetus primo Aegineticorum",
+        "alignment": "18-13S 4-3S 8-6S 13-11S 6-5S 3-2S 9-7S 11-9S 16-12S 2-1S 12-10S 1-0S 5-4S"
+    },
+    {
+        "grc": "Ἐγένετο δὲ ἡ θέσις τῶν Καρνείων κατὰ τὴν ἕκτην καὶ εἰκοστὴν ὀλυμπιάδα , ὡς Σωσίβιός φησιν ἐν τῷ Περὶ χρόνων",
+        "por": "Carnea instituta sunt Olympiade vicesima sexta , ut Sosibius in libro De temporibus ait",
+        "alignment": "10-4S 18-11S 5-0S 0-1P 0-2S 3-2P 6-3S 14-8S 3-1S 13-7S 16-9S 15-13S 8-5S 11-3S 19-12S"
+    },
+    {
+        "grc": "Πεύκης τρόπον αὕτη τάττεται κατὰ τῶν πανωλεθρίᾳ ἀπολλυμένων παρόσον ἡ πεύκη κοπεῖσα οὐκέτι φύεται Μέμνηται δὲ αὐτῆς Στάφυλος ὁ Ναυκρατίτης",
+        "por": "Abietis in modum Proverbium de iis usurpatur , qui funditus perierunt , quandoquidem abies praecisa non ampiius crescit Meminit proverbii Staphylus Naucratita",
+        "alignment": "4-4S 5-8P 6-10P 0-0S 7-10S 10-13S 14-18S 6-9S 3-6S 8-12S 5-5P 11-14S 13-17S 17-20S 1-2S 7-9P 1-1S 12-16P 12-15S 19-21S"
+    },
+    {
+        "grc": "Ἡδύλειον , ὄρος ἐστὶν ἐν Βοιωτίᾳ τὸ Ἡδύλειον , ὡς καὶ Θεόπομπος ἐν τῇ εἰκοστῇ πέμπτῃ φησίν",
+        "por": "Hedyleum mons est Boeotiae , ut Theopompus quoque testatur libro vigesimo quinto",
+        "alignment": "10-7S 4-3S 14-10S 3-2S 11-6S 16-8S 0-0S 2-1S 9-5S 5-3S 15-11S"
+    },
+    {
+        "grc": "Πύλαι ὅτι δέ τις ἐγίγνετο σύνοδος τῶν Ἀμφικτυόνων εἰς Πύλας , Ὑπερίδης τε ἐν Ἐπταφίῳ καὶ Θεόπομπος ἐν τῇ τριακοστῇ εἰρήκασιν",
+        "por": "Pylae De congressu Amphictyonum Pylis habito , Hyperides testatur in Epitaphio , et Theopompus libro trigesimo",
+        "alignment": "11-7S 15-12S 9-4S 13-9P 14-10S 16-13S 20-8P 4-5S 7-3S 0-0S 8-4P 5-2S 20-15P 19-15S"
+    },
+    {
+        "grc": "Ἄρβαζανοὶ , ἔθνος Λιγυστικόν « Παρέπλεον δὲ τὴν χώραν τὴν μὲν πρώτην ἔρημον , ἣν ἐνέμοντο Ὑψίκοροι καὶ Ἀρβαζανοί »",
+        "por": "Arbazani , gens Ligystica : « Praeternavigabant primum quidem regionem desertam , quam Hypsicori et Arbazani habitabant »",
+        "alignment": "2-2S 11-7S 14-12S 5-6S 16-13S 6-8P 18-15S 0-0S 3-3S 8-9S 12-10S 15-16S 17-14S"
+    },
+    {
+        "grc": "Ἔθος δὲ ἦν ὅποτε μέλλοι ἡ τράπεζα αἴρεσθαι , ἀγαθοῦ δαίμονος ἐπιῤῥοφεῖν , ὡς Θεόπομπός φησι",
+        "por": "Mos erat ut quum mena auferebatur , in Boni Dei honorem vinum degustarent , quod tradit Theopompus",
+        "alignment": "11-10S 14-16S 3-2S 7-5S 11-11S 15-15S 13-14S 0-0S 2-1S 6-4S 11-12S 4-5P 3-3P 9-8S 10-9S 11-7P"
+    },
+    {
+        "grc": "Ζειρά οἱ μὲν εἶδος χιτῶνος , οἱ δὲ ζώνην βέλτιον δὲ ἄλλο τι ἐπιβόλαιον κατὰ τῶν ὤμων φορούμενον , ἐοικὸς ἐφαπτίδι καὶ Ἡρόδοτος μαρτυρεῖ καὶ Θεόπομπος ὁ Χῖος",
+        "por": "Ζειρά ; alii explicant tunicoe genus , alii cingulum ; melius vero aliud quoddam indumentum humeris injectum , pallio simile fibula astricto , uti Herodotus testatur et Theopompus Chius",
+        "alignment": "19-19S 20-20P 4-4S 27-28S 8-8S 16-15S 3-5S 11-12S 14-15S 2-2S 13-14S 0-0S 24-26S 23-25S 12-13S 9-10S 22-24S 1-2S 25-27S 15-15P 6-7S 10-11S 17-16S 20-21P 21-23P 7-7S 20-18S"
+    }
+]
