@@ -1,6 +1,6 @@
 ## Ancient Greek-Latin Alignment Gold Standard:
 
-The the gold standard consits of 100 fragments randomly selected from the *Digital Fragmenta Historicorum Graecorum* (DFHG) corpus and were aligned manually by two experts on [Ugarit](https://ugarit.ialigner.com/ "Ugarit"), based on an Annotation [Style Guide](guidelines_grc-lat.pdf) developed for this project.
+The the gold standard consits of 100 fragments randomly selected from the [*Digital Fragmenta Historicorum Graecorum* (DFHG)](https://www.dfhg-project.org/) corpus and were aligned manually by two experts on [Ugarit](https://ugarit.ialigner.com/ "Ugarit"), based on an Annotation [Style Guide](guidelines_grc-lat.pdf) developed for this project.
 
 |                   | Anno. 1                  | Anno. 2 | Agreement |
 |-------------------|--------------------------|---------|-----------|
