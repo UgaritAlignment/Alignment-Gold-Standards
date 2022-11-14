@@ -16,7 +16,16 @@ The guidelines can also be further adapted to address similar language pairs inc
 
 For further information on Ugarit and translation alignment of historical languages, see http://ugarit.ialigner.com/bib.php and follow us on Twitter (@ugarit_ty). 
 
-If you use the guidelines or the data, please cite our papers:
+# Using this repository and the Guidelines
+
+The data in this repository is provided with a CC-BY-SA license. If you use any of the materials in this repository, please cite our work as follows.
+
+To cite the Guidelines, please use the following format:  
+- Grc-Eng: C. Palladino, F. Shamsian. 2022. Translation Alignment: Ancient Greek to English. Annotation Style Guide. Version number, date.  
+- Grc-Lat: C. Palladino, D.J. Wright. 2022. Translation Alignment: Ancient Greek to Latin. Annotation Style Guide. Version number, date.  
+- Grc-Por: A. d'Orange Ferreira, M. dos Reis. 2022. Critérios ou Convenções de Alinhamento do Grego às Traduções em Português. Version number, date.  
+
+If you use the data in this repository, please cite our papers:
 <pre>
 @InProceedings{yousef-EtAl:2022:LREC,
   author    = {Yousef, Tariq  and  Palladino, Chiara  and  Shamsian, Farnoosh  and  dâ€™Orange Ferreira, Anise  and  Ferreira dos Reis, Michel},
