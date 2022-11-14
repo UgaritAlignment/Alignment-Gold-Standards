@@ -15,3 +15,31 @@ The materials available here can be used to perform and evaluate alignments of v
 The guidelines can also be further adapted to address similar language pairs including an inflected and a synthetic language, such as Latin and English, or can provide a structure for the alignment of other historical texts against modern translations. However, the guidelines are not project-specific: they were specifically intended for the creation of a Gold Standard in the scenario of machine translation. Different scenarios, such as language research or pedagogy, may need further tweaking to these guidelines to make them more compatible with different underlying principles.
 
 For further information on Ugarit and translation alignment of historical languages, see http://ugarit.ialigner.com/bib.php and follow us on Twitter (@ugarit_ty). 
+
+If you use the guidelines or the data, please cite our papers:
+<pre>
+@InProceedings{yousef-EtAl:2022:LREC,
+  author    = {Yousef, Tariq  and  Palladino, Chiara  and  Shamsian, Farnoosh  and  dâ€™Orange Ferreira, Anise  and  Ferreira dos Reis, Michel},
+  title     = {An automatic model and Gold Standard for translation alignment of Ancient Greek},
+  booktitle      = {Proceedings of the Language Resources and Evaluation Conference},
+  month          = {June},
+  year           = {2022},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {5894--5905},
+  url       = {https://aclanthology.org/2022.lrec-1.634}
+}
+
+@InProceedings{yousef-EtAl:2022:LT4HALA2022,
+  author    = {Yousef, Tariq  and  Palladino, Chiara  and  Wright, David J.  and  Berti, Monica},
+  title     = {Automatic Translation Alignment for Ancient Greek and Latin},
+  booktitle      = {Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages},
+  month          = {June},
+  year           = {2022},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {101--107},
+  url       = {https://aclanthology.org/2022.lt4hala2022-1.14}
+}
+
+</pre>
