@@ -25,7 +25,7 @@ The data in this repository is provided with a CC-BY-SA license. If you use any 
 To cite the Guidelines, please use the following format:  
 - Grc-Eng: Chiara Palladino, & Farnoosh Shamsian. (2022). Translation Alignment: Ancient Greek to English. Annotation Style Guide and Gold Standard. (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7362097  
 - Grc-Lat: Chiara Palladino, & David J. Wright. (2022). Translation Alignment: Ancient Greek to Latin. Annotation Style Guide and Gold Standard (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7981085
-- Grc-Por: A. d'Orange Ferreira, M. dos Reis. 2022. Critérios ou Convenções de Alinhamento do Grego às Traduções em Português. Version number, date.  
+- Grc-Por: Anise d'Orange Ferreira, & Michel Ferreira dos Reis. (2022). Critérios ou Convenções de Alinhamento do Grego às Traduções em Português (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7981097  
 
 ## Citing our papers 
 
