@@ -1,6 +1,6 @@
 ## Ancient Greek-Latin Alignment Gold Standard:
 
-The the gold standard dataset consits of 100 fragments randomly selected from the [*Digital Fragmenta Historicorum Graecorum* (DFHG)](https://www.dfhg-project.org/) corpus and were aligned manually by two experts on [Ugarit](https://ugarit.ialigner.com/ "Ugarit"), based on an Annotation [Style Guide](guidelines_grc-lat.pdf) developed for this project. The Inter-Annotator-Agreement is 90.5%.
+The gold standard dataset consists of 100 fragments randomly selected from the [*Digital Fragmenta Historicorum Graecorum* (DFHG)](https://www.dfhg-project.org/) corpus and were aligned manually by two experts on [Ugarit](https://ugarit.ialigner.com/ "Ugarit"), based on an Annotation [Style Guide](guidelines_grc-lat.pdf) developed for this project. The Inter-Annotator-Agreement is 90.5%.
 
 |                   | Anno. 1                  | Anno. 2 | Agreement |
 |-------------------|--------------------------|---------|-----------|
