@@ -20,12 +20,15 @@ For further information on Ugarit and translation alignment of historical langua
 
 The data in this repository is provided with a CC-BY-SA license. If you use any of the materials in this repository, please cite our work as follows.
 
+## Citing the Guidelines and the Gold Standard
+
 To cite the Guidelines, please use the following format:  
-- Grc-Eng: C. Palladino, F. Shamsian. 2022. Translation Alignment: Ancient Greek to English. Annotation Style Guide. Version number, date.  
+- Grc-Eng: Palladino, Chiara, & Shamsian, Farnoosh. (2022). Translation Alignment: Ancient Greek to English. Annotation Style Guide and Gold Standard. (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7362097  
 - Grc-Lat: C. Palladino, D.J. Wright. 2022. Translation Alignment: Ancient Greek to Latin. Annotation Style Guide. Version number, date.  
 - Grc-Por: A. d'Orange Ferreira, M. dos Reis. 2022. Critérios ou Convenções de Alinhamento do Grego às Traduções em Português. Version number, date.  
 
-If you use the data in this repository, please cite our papers:
+## Citing our papers 
+
 <pre>
 @InProceedings{yousef-EtAl:2022:LREC,
   author    = {Yousef, Tariq  and  Palladino, Chiara  and  Shamsian, Farnoosh  and  dâ€™Orange Ferreira, Anise  and  Ferreira dos Reis, Michel},
