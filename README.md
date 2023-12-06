@@ -26,7 +26,7 @@ The data in this repository is provided with a CC-BY-SA license. If you use any 
 To cite the Guidelines, please use our related publications: 
 - Palladino, C., Shamsian, F., Yousef, T., Wright, D.J., d’Orange Ferreira, A. and dos Reis, M.F., 2023. Translation Alignment for Ancient Greek: Annotation Guidelines and Gold Standards.  Journal of Open Humanities Data,  9(1), p.22.DOI: https://doi.org/10.5334/johd.131
 
-# Citing specific Guidelines or Gold Standards
+### Citing specific Guidelines or Gold Standards
 
 If you would like to cite only one of the datasets, please use the following format: 
 - Grc-Eng: Chiara Palladino, Farnoosh Shamsian, & Tariq Yousef. (2022). Translation Alignment: Ancient Greek to English. Annotation Style Guide and Gold Standard. (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7362097  
